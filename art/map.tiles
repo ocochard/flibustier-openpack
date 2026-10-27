@@ -3,3 +3,5 @@
 [tiles]
 image = map.png
 tile = 36
+frames = 8
+period = 4
