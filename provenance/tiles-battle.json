@@ -1,0 +1,63 @@
+{
+  "textures": [
+    {
+      "name": "sea",
+      "seed": 1660,
+      "prompt": "Aerial photograph taken straight down from very high above of calm deep\nopen sea, an even deep blue with a very fine, faint, uniform texture of\ntiny ripples, low contrast, no foam, no glare, no sun reflection,\nnothing else, filling the whole image.",
+      "colour": "#123A78",
+      "detail": 0.45,
+      "cutout": false
+    },
+    {
+      "name": "land",
+      "seed": 1661,
+      "prompt": "Satellite photograph taken straight down from very high above of a vast\ntropical rainforest, the canopy seen as a fine, even, uniform texture of\ncountless tiny green tree crowns, low contrast, no clearings, no rivers,\nnothing else, filling the whole image.",
+      "colour": "#3C6E28",
+      "detail": 0.8,
+      "cutout": false
+    },
+    {
+      "name": "sand",
+      "seed": 1662,
+      "prompt": "Aerial photograph taken straight down of pale golden beach sand, fine,\neven and uniform, low contrast, nothing else, filling the whole image.",
+      "colour": "#D2B478",
+      "detail": 0.6,
+      "cutout": false
+    },
+    {
+      "name": "town",
+      "seed": 1663,
+      "prompt": "Photograph from above at an angle of a single small 17th-century\nCaribbean colonial house with white plastered walls, a red clay tile\nroof, a dark door and two small windows, standing alone on a plain flat\nlight grey ground, nothing else.",
+      "colour": null,
+      "detail": 0.8,
+      "cutout": true
+    },
+    {
+      "name": "fort",
+      "seed": 1664,
+      "prompt": "Photograph from above at an angle of a single squat round stone tower of\na 17th-century Spanish fort, grey weathered stone with battlements on\ntop and a dark doorway, standing alone on a plain flat light grey\nground, nothing else.",
+      "colour": null,
+      "detail": 0.8,
+      "cutout": true
+    },
+    {
+      "name": "rock",
+      "seed": 1665,
+      "prompt": "Photograph from above of a single jagged grey rock outcrop of a reef,\nwet dark stone, standing alone on a plain flat light grey ground,\nnothing else.",
+      "colour": null,
+      "detail": 0.8,
+      "cutout": true
+    }
+  ],
+  "tile": 72,
+  "terrain_sha256": "a35fd494cd5161d970659ca590f8ab02197cfa04854ee8f5c1d69f1850fb1c7a",
+  "id": "tiles/battle",
+  "file": "art/battle.tiles",
+  "atlas": "art/battle.png",
+  "profile": "draft",
+  "seed": 1660,
+  "composer": "tilemaker.py",
+  "comfyui": "0.42.0",
+  "generator": "026b21c",
+  "date": "2026-10-27T23:37:31+00:00"
+}
