@@ -1,0 +1,29 @@
+{
+  "id": "cur/fortbtl",
+  "file": "art/fortbtl.sheet",
+  "atlas": "art/fortbtl.png",
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph seen from the sea of a Spanish stone fort of the 1650s on a\nCaribbean shore: whitewashed stone walls with battlements and a square\nwatchtower on the left, a long rampart running down a green grassy\nslope to the water at the bottom left, two palm trees on the right,\nunder a clear turquoise sky. Historical reenactment photography, sharp\nfocus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "steps": [
+    {
+      "seed": 1661,
+      "instruction": "Cannon balls have hit the fort: a few holes and chipped stones in its walls, a little smoke rising."
+    },
+    {
+      "seed": 1662,
+      "instruction": "The fort is badly damaged: battlements shot away, a breach in the wall, fires burning and smoke darkening the sky."
+    },
+    {
+      "seed": 1663,
+      "instruction": "The fort is crumbling: the watchtower half collapsed, wide breaches in the walls, thick black smoke and flames, the sky grey with smoke."
+    },
+    {
+      "seed": 1664,
+      "instruction": "The fort is a ruin: its walls and tower fallen into heaps of rubble, everything burning, a dark sky full of black smoke."
+    }
+  ],
+  "comfyui": "0.42.0",
+  "generator": "6d586c3",
+  "date": "2026-10-27T21:14:46+00:00"
+}

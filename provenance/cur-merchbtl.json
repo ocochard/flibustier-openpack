@@ -1,0 +1,29 @@
+{
+  "frames": 5,
+  "frame": [
+    326,
+    194
+  ],
+  "size": null,
+  "class": "merchantman",
+  "prompts": [
+    "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nat sea, seen exactly from its side, its bow to the left, in daylight.\nPlain flat blue background. Historical reenactment photography, sharp\nfocus, realistic. The whole ship is built of planked wood: no tower,\nnothing of stone. Whole and undamaged, under full sail.",
+    "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nat sea, seen exactly from its side, its bow to the left, in daylight.\nPlain flat blue background. Historical reenactment photography, sharp\nfocus, realistic. The whole ship is built of planked wood: no tower,\nnothing of stone. Lightly damaged: a few holes shot through its sails.",
+    "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nat sea, seen exactly from its side, its bow to the left, in daylight.\nPlain flat blue background. Historical reenactment photography, sharp\nfocus, realistic. The whole ship is built of planked wood: no tower,\nnothing of stone. Badly damaged: its topmasts shot away, its aftmost mast gone, only a broken stump left, its sails torn with many holes, smoke drifting from its side.",
+    "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nat sea, seen exactly from its side, its bow to the left, in daylight.\nPlain flat blue background. Historical reenactment photography, sharp\nfocus, realistic. The whole ship is built of planked wood: no tower,\nnothing of stone. Crippled: its mainmast and aftmost mast gone, broken off as stumps, the mainmast fallen over the side, its last sails in rags, holes in its hull, flames and thick smoke.",
+    "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nat sea, seen exactly from its side, its bow to the left, in daylight.\nPlain flat blue background. Historical reenactment photography, sharp\nfocus, realistic. The whole ship is built of planked wood: no tower,\nnothing of stone. Sinking: all its masts gone, only broken stumps, listing heavily and down by the bow, low in the water, a burning dismasted wreck."
+  ],
+  "blend": "provenance/ships/cur-merchbtl.blend",
+  "denoise": 0.75,
+  "model_sha256": "f6b335e484feab12eaf5c6f3441da5391b36b51279df04174fe761c1472f5bde",
+  "id": "cur/merchbtl",
+  "file": "art/merchbtl.sheet",
+  "atlas": "art/merchbtl.png",
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nat sea, seen exactly from its side, its bow to the left, in daylight.\nPlain flat blue background. Historical reenactment photography, sharp\nfocus, realistic. The whole ship is built of planked wood: no tower,\nnothing of stone.",
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "6d586c3",
+  "date": "2026-10-27T22:15:58+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "frames": 5,
+  "frame": [
+    326,
+    194
+  ],
+  "size": null,
+  "class": "fast galleon",
+  "prompts": [
+    "Photograph of a sleek English race-built galleon of the 1580s, a low,\nlong hull with a low stern and bow, a small raised bow deck and a\nmoderately raised stern with a square transom and a small gallery, one\nrow of gun ports: square courses and topsails on the fore and main\nmasts, a lateen mizzen, a spritsail, the hull painted in bold red, gold\nand black bands, red below and black above, at sea, seen exactly from\nits side, its bow to the left, in daylight. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone. Whole and undamaged, under full sail.",
+    "Photograph of a sleek English race-built galleon of the 1580s, a low,\nlong hull with a low stern and bow, a small raised bow deck and a\nmoderately raised stern with a square transom and a small gallery, one\nrow of gun ports: square courses and topsails on the fore and main\nmasts, a lateen mizzen, a spritsail, the hull painted in bold red, gold\nand black bands, red below and black above, at sea, seen exactly from\nits side, its bow to the left, in daylight. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone. Lightly damaged: a few holes shot through its sails.",
+    "Photograph of a sleek English race-built galleon of the 1580s, a low,\nlong hull with a low stern and bow, a small raised bow deck and a\nmoderately raised stern with a square transom and a small gallery, one\nrow of gun ports: square courses and topsails on the fore and main\nmasts, a lateen mizzen, a spritsail, the hull painted in bold red, gold\nand black bands, red below and black above, at sea, seen exactly from\nits side, its bow to the left, in daylight. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone. Badly damaged: its topmasts shot away, its aftmost mast gone, only a broken stump left, its sails torn with many holes, smoke drifting from its side.",
+    "Photograph of a sleek English race-built galleon of the 1580s, a low,\nlong hull with a low stern and bow, a small raised bow deck and a\nmoderately raised stern with a square transom and a small gallery, one\nrow of gun ports: square courses and topsails on the fore and main\nmasts, a lateen mizzen, a spritsail, the hull painted in bold red, gold\nand black bands, red below and black above, at sea, seen exactly from\nits side, its bow to the left, in daylight. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone. Crippled: its mainmast and aftmost mast gone, broken off as stumps, the mainmast fallen over the side, its last sails in rags, holes in its hull, flames and thick smoke.",
+    "Photograph of a sleek English race-built galleon of the 1580s, a low,\nlong hull with a low stern and bow, a small raised bow deck and a\nmoderately raised stern with a square transom and a small gallery, one\nrow of gun ports: square courses and topsails on the fore and main\nmasts, a lateen mizzen, a spritsail, the hull painted in bold red, gold\nand black bands, red below and black above, at sea, seen exactly from\nits side, its bow to the left, in daylight. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone. Sinking: all its masts gone, only broken stumps, listing heavily and down by the bow, low in the water, a burning dismasted wreck."
+  ],
+  "blend": "provenance/ships/cur-fastgbtl.blend",
+  "denoise": 0.75,
+  "model_sha256": "f6b335e484feab12eaf5c6f3441da5391b36b51279df04174fe761c1472f5bde",
+  "id": "cur/fastgbtl",
+  "file": "art/fastgbtl.sheet",
+  "atlas": "art/fastgbtl.png",
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of a sleek English race-built galleon of the 1580s, a low,\nlong hull with a low stern and bow, a small raised bow deck and a\nmoderately raised stern with a square transom and a small gallery, one\nrow of gun ports: square courses and topsails on the fore and main\nmasts, a lateen mizzen, a spritsail, the hull painted in bold red, gold\nand black bands, red below and black above, at sea, seen exactly from\nits side, its bow to the left, in daylight. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone.",
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "6d586c3",
+  "date": "2026-10-27T22:30:15+00:00"
+}

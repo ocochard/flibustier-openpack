@@ -1,0 +1,29 @@
+{
+  "frames": 5,
+  "frame": [
+    326,
+    194
+  ],
+  "size": null,
+  "class": "sloop",
+  "prompts": [
+    "Photograph of a low, sleek single-masted Caribbean sloop of the 1670s\nwith a flush deck and a small square transom: one tall mast raked aft\nwith a large gaff mainsail on a long boom, two triangular jibs on a\nlong, nearly level bowsprit, a small square topsail high on the mast, a\nbare cedar hull with a black wale and a handful of small cannon along\nthe rail, at sea, seen exactly from its side, its bow to the left, in\ndaylight. Plain flat blue background. Historical reenactment\nphotography, sharp focus, realistic. The whole ship is built of planked\nwood: no tower, nothing of stone. Whole and undamaged, under full sail.",
+    "Photograph of a low, sleek single-masted Caribbean sloop of the 1670s\nwith a flush deck and a small square transom: one tall mast raked aft\nwith a large gaff mainsail on a long boom, two triangular jibs on a\nlong, nearly level bowsprit, a small square topsail high on the mast, a\nbare cedar hull with a black wale and a handful of small cannon along\nthe rail, at sea, seen exactly from its side, its bow to the left, in\ndaylight. Plain flat blue background. Historical reenactment\nphotography, sharp focus, realistic. The whole ship is built of planked\nwood: no tower, nothing of stone. Lightly damaged: a few holes shot through its sails.",
+    "Photograph of a low, sleek single-masted Caribbean sloop of the 1670s\nwith a flush deck and a small square transom: one tall mast raked aft\nwith a large gaff mainsail on a long boom, two triangular jibs on a\nlong, nearly level bowsprit, a small square topsail high on the mast, a\nbare cedar hull with a black wale and a handful of small cannon along\nthe rail, at sea, seen exactly from its side, its bow to the left, in\ndaylight. Plain flat blue background. Historical reenactment\nphotography, sharp focus, realistic. The whole ship is built of planked\nwood: no tower, nothing of stone. Badly damaged: its topmasts shot away, its aftmost mast gone, only a broken stump left, its sails torn with many holes, smoke drifting from its side.",
+    "Photograph of a low, sleek single-masted Caribbean sloop of the 1670s\nwith a flush deck and a small square transom: one tall mast raked aft\nwith a large gaff mainsail on a long boom, two triangular jibs on a\nlong, nearly level bowsprit, a small square topsail high on the mast, a\nbare cedar hull with a black wale and a handful of small cannon along\nthe rail, at sea, seen exactly from its side, its bow to the left, in\ndaylight. Plain flat blue background. Historical reenactment\nphotography, sharp focus, realistic. The whole ship is built of planked\nwood: no tower, nothing of stone. Crippled: its mainmast and aftmost mast gone, broken off as stumps, the mainmast fallen over the side, its last sails in rags, holes in its hull, flames and thick smoke.",
+    "Photograph of a low, sleek single-masted Caribbean sloop of the 1670s\nwith a flush deck and a small square transom: one tall mast raked aft\nwith a large gaff mainsail on a long boom, two triangular jibs on a\nlong, nearly level bowsprit, a small square topsail high on the mast, a\nbare cedar hull with a black wale and a handful of small cannon along\nthe rail, at sea, seen exactly from its side, its bow to the left, in\ndaylight. Plain flat blue background. Historical reenactment\nphotography, sharp focus, realistic. The whole ship is built of planked\nwood: no tower, nothing of stone. Sinking: all its masts gone, only broken stumps, listing heavily and down by the bow, low in the water, a burning dismasted wreck."
+  ],
+  "blend": "provenance/ships/cur-sloopbtl.blend",
+  "denoise": 0.75,
+  "model_sha256": "f6b335e484feab12eaf5c6f3441da5391b36b51279df04174fe761c1472f5bde",
+  "id": "cur/sloopbtl",
+  "file": "art/sloopbtl.sheet",
+  "atlas": "art/sloopbtl.png",
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of a low, sleek single-masted Caribbean sloop of the 1670s\nwith a flush deck and a small square transom: one tall mast raked aft\nwith a large gaff mainsail on a long boom, two triangular jibs on a\nlong, nearly level bowsprit, a small square topsail high on the mast, a\nbare cedar hull with a black wale and a handful of small cannon along\nthe rail, at sea, seen exactly from its side, its bow to the left, in\ndaylight. Plain flat blue background. Historical reenactment\nphotography, sharp focus, realistic. The whole ship is built of planked\nwood: no tower, nothing of stone.",
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "6d586c3",
+  "date": "2026-10-27T22:05:22+00:00"
+}
