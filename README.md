@@ -45,12 +45,11 @@ picture pillarboxed on a 16:9 screen.
 ## How the art is made
 
 The pictures are generated with [ComfyUI](https://www.comfy.org/) by
-`tools/artgen/artgen.py` of the flibustier repository, from the prompts
-and settings in `tools/artgen/assets.toml`. The line sketches and masks
-it uses, drawn from the game's click areas by
-`tools/artgen/layouts/sketch.py`, are in the same place; provenance
-paths are relative to `tools/artgen/`. The generator is not published
-yet: it will be once merged into flibustier.
+[`tools/artgen/artgen.py`](https://github.com/ocochard/flibustier/tree/main/tools/artgen)
+of the flibustier repository, from the prompts and settings in
+`tools/artgen/assets.toml`. The line sketches and masks it uses, drawn
+from the game's click areas by `tools/artgen/layouts/sketch.py`, are in
+the same place; provenance paths are relative to `tools/artgen/`.
 
 The models, all under open licences:
 
@@ -69,7 +68,8 @@ The models, all under open licences:
 - One colour grade, matched to the governor's picture, keeps the series
   consistent.
 
-To remake an asset (with ComfyUI and the models above on the server):
+To remake an asset (with ComfyUI and the models above on the server
+named by `--server` or `FLIBUSTIER_COMFYUI`):
 
 ```sh
 python3 tools/artgen/artgen.py --draft --pack ~/flibustier-openpack pic/tavern
