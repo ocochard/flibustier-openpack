@@ -1,8 +1,8 @@
 {
  "id": "sound/parry",
  "file": "sound/parry.ogg",
- "model": "stable_audio_3_small_sfx.safetensors",
- "text_encoder": "t5gemma_b_b_ul2.safetensors",
+ "model": "stable-audio-open-1.0.safetensors",
+ "text_encoder": "t5_base.safetensors",
  "prompt": "two steel swords clashing once, a sharp metallic ring",
  "seed": 1,
  "seconds": 1,
@@ -11,13 +11,13 @@
   "ckpt": {
    "class_type": "CheckpointLoaderSimple",
    "inputs": {
-    "ckpt_name": "stable_audio_3_small_sfx.safetensors"
+    "ckpt_name": "stable-audio-open-1.0.safetensors"
    }
   },
   "t5": {
    "class_type": "CLIPLoader",
    "inputs": {
-    "clip_name": "t5gemma_b_b_ul2.safetensors",
+    "clip_name": "t5_base.safetensors",
     "type": "stable_audio"
    }
   },
@@ -71,10 +71,10 @@
      0
     ],
     "seed": 1,
-    "steps": 8,
-    "cfg": 1.0,
-    "sampler_name": "euler_ancestral",
-    "scheduler": "simple",
+    "steps": 100,
+    "cfg": 7.0,
+    "sampler_name": "dpmpp_3m_sde_gpu",
+    "scheduler": "exponential",
     "denoise": 1.0,
     "positive": [
      "cond",
@@ -114,6 +114,6 @@
    }
   }
  },
- "tool": "tools/sfxgen/sfxgen.py@c5c68d7",
+ "tool": "tools/sfxgen/sfxgen.py@16ce45b",
  "date": "2026-10-27"
 }
