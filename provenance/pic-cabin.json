@@ -27,7 +27,7 @@
   "source": "layout from the game's spot rectangles",
   "cast": [
     {
-      "character": "an old hand-drawn treasure map of",
+      "character": "a real sheet of old, creased",
       "portrait": null,
       "portrait_sha256": null,
       "ref_crop": null,
@@ -38,8 +38,8 @@
         65
       ],
       "seed": 2061,
-      "prompt": "Image 1 is a part of a sea captain's cabin, the top of a wooden table. Add to image 1 an old hand-drawn treasure map of a Caribbean island on yellowed parchment lying flat on the table, a dagger stuck upright through it, in the middle of image 1, at the right scale. Add nothing else. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
-      "workflow_sha256": "392256751277bfcb0c6aae82aa1451eae76cd2369bae7c891ca38a6047940c61"
+      "prompt": "Image 1 is a part of a sea captain's cabin, the top of a wooden table. Add to image 1 a real sheet of old, creased and stained parchment lying flat on the table, photographed as it is: on it, the coastline of an island traced in faded brown ink with a small cross, the ink worn and blotched as on a 17th-century document; a real steel dagger stuck upright through it, casting a shadow, in the middle of image 1, at the right scale. Add nothing else. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+      "workflow_sha256": "10ec5bdd0cb99364736c63d9a604747f64843ef78ff3722e7533b119d9cc70ed"
     }
   ],
   "finish": [
@@ -55,7 +55,7 @@
       "prompt": "Photograph of a 17th-century sea captain's cabin: the top of a wooden\ntable, bare dark polished planks running from left to right with their\ngrain. Daylight from the stern windows, historical reenactment\nphotography, sharp focus, realistic."
     },
     {
-      "thing": "an old hand-drawn treasure map of a Caribbean island on yellowed parchment lying flat on the table, a dagger stuck upright through it",
+      "thing": "a real sheet of old, creased and stained parchment lying flat on the table, photographed as it is: on it, the coastline of an island traced in faded brown ink with a small cross, the ink worn and blotched as on a 17th-century document; a real steel dagger stuck upright through it, casting a shadow",
       "rect": [
         345,
         245,
@@ -74,6 +74,6 @@
   },
   "workflow_sha256": "b3ecf44921f9a26d977bb648051e923dba948fa82044204b6a6ba7a40176afe4",
   "comfyui": "0.42.0",
-  "generator": "d77e1fb",
-  "date": "2026-10-27T01:37:59+00:00"
+  "generator": "7abc705",
+  "date": "2026-10-27T08:29:14+00:00"
 }
