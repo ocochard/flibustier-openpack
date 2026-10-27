@@ -3,4 +3,4 @@
 image = cabin-sprites.png
 
 [frames]
-0 = 0 0 450 238
+0 = 0 0 459 243 -2 -2

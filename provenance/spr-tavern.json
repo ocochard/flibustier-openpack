@@ -9,9 +9,13 @@
     {
       "rect": [
         0,
-        255,
-        122,
-        188
+        252,
+        124,
+        192
+      ],
+      "at": [
+        0,
+        255
       ],
       "cast": [
         {
@@ -26,22 +30,26 @@
           ],
           "rect": [
             0,
-            255,
-            122,
-            188
+            252,
+            124,
+            192
           ],
           "seed": 1860,
           "prompt": "Image 1 is a part of a smoky harbour tavern with one person in it. Replace that person with the person from image 2, the map seller, an old man with a long grey beard and a patterned headscarf, a worn yellow-brown coat: the very same person, with the same face, hair, figure and clothes as in image 2, sitting behind the left end of the round table, facing us, his arms on it, his legs below it. Keep the same pose, position and size as the person in image 1. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
-          "workflow_sha256": "71b31d6020019405cb7f308b4d8f0923a2cac070ff332cd4efbff79409e80a21"
+          "workflow_sha256": "0e40603cfd3e45f27c9b083f41ba0d68b2a5197e845dc15a7d8d7e740090e969"
         }
       ]
     },
     {
       "rect": [
+        140,
+        256,
+        92,
+        196
+      ],
+      "at": [
         142,
-        259,
-        90,
-        190
+        259
       ],
       "cast": [
         {
@@ -55,28 +63,32 @@
             350
           ],
           "rect": [
-            142,
-            259,
-            90,
-            190
+            140,
+            256,
+            92,
+            196
           ],
           "seed": 1861,
           "prompt": "Image 1 is a part of a smoky harbour tavern with one person in it. Replace that person with the person from image 2, the informant, a shady man in his forties with a dark beard and a turban-like headscarf, a black waistcoat over a white shirt: the very same person, with the same face, hair, figure and clothes as in image 2, sitting behind the right end of the round table, facing us, his forearms on it, his legs below it. Keep the same pose, position and size as the person in image 1. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
-          "workflow_sha256": "9b58bf7b63675dcb932562d3119a8fcd3d9e4bfac0f917e17ae8ce47850dfe94"
+          "workflow_sha256": "9c8a5beebf223fd30663fcd94c3bbefa1e955b13be64a005608ea8c9414b34ce"
         }
       ]
     },
     {
       "rect": [
+        348,
+        196,
+        80,
+        164
+      ],
+      "at": [
         349,
-        199,
-        79,
-        161
+        199
       ],
       "cast": null
     }
   ],
   "comfyui": "0.42.0",
-  "generator": "cc7e124",
-  "date": "2026-10-27T01:05:33+00:00"
+  "generator": "64c8c1d",
+  "date": "2026-10-27T16:53:53+00:00"
 }
