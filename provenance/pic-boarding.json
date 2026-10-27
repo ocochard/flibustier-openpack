@@ -7,9 +7,16 @@
   ],
   "profile": "draft",
   "seed": 1660,
-  "prompt": "Photograph of a boarding fight on a 17th-century ship in a storm. On the\nleft, a fierce bearded pirate in a loose shirt lunges forward with a\ncutlass, torn sails and rigging behind him, dark storm clouds and sea\nspray. The lower right quarter of the frame is dark smoke and deep\nshadow, plain. Dramatic light, motion, historical reenactment\nphotography, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "prompt": "Photograph of a boarding fight on a 17th-century ship in a storm at\nnight. On the left of the picture, close to the camera, a fierce bearded\npirate in a loose stained shirt and a dark kerchief lunges forward,\nshouting, his cutlass raised high in his right hand. Behind him, a mast\nand torn sails flapping in the wind, tangled rigging, dark storm clouds\nand sea spray lit by lanterns. Dramatic light, motion, historical\nreenactment photography, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
   "frame": null,
   "field": null,
+  "control": {
+    "sketch": "layouts/boarding.png",
+    "sha256": "edf62c9c940868efbdc59313b251a8f1e9fb67d3632ca7f110e9847c527534ae",
+    "strength": 0.7,
+    "end": 0.5
+  },
+  "inpaint": null,
   "grade": {
     "reference": "art/governor.png",
     "method": "reinhard_lab",
@@ -18,15 +25,25 @@
     "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
   },
   "source": "layout described from the original screen",
+  "bevel": {
+    "masks": "layouts/boarding-panel",
+    "sha256": [
+      "724eeb089f43a20af98889b0d549c8202250e397712272a3db9a452165aa9d6a",
+      "ff981dcbd6722ec84057b06daac2b15cdeefb5236f95f5a64f87cee9326b9e7d"
+    ]
+  },
+  "cast": null,
+  "finish": null,
   "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
   "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
     "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
     "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
     "vae": "qwen_image_vae.safetensors",
     "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
   },
-  "workflow_sha256": "d067cde994cd39788321aac907e929395bfa2be50467a97782632f2db30d78a1",
+  "workflow_sha256": "bade39a5ab9bf0157741210c562f4f80df4e64154187e38f59426c02171b767b",
   "comfyui": "0.42.0",
-  "generator": "9e66d61",
-  "date": "2026-10-26T16:52:25+00:00"
+  "generator": "b718ce9",
+  "date": "2026-10-27T17:49:52+00:00"
 }
