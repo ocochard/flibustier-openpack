@@ -1,0 +1,49 @@
+{
+  "id": "pic/shipdeck",
+  "file": "art/shipdeck.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph in late afternoon sun on the main deck of a 17th-century\nSpanish galleon, looking aft from a little above. Across the back, the\nraised quarterdeck with a carved wooden balustrade along its edge, a\nwooden stair up to it at each side, and three plank doors with small\nwindows under it; behind and above, the mizzen mast, rigging and furled\nsails against an orange and blue evening sky with clouds, and lanterns\non the stern. The deck in front, from the foot of the quarterdeck to\nthe bottom of the picture, is wide empty planking with ropes coiled at\nits sides, open for two men to fight on. Nobody is on it. Historical\nreenactment photography, sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/deck.png",
+    "sha256": "77210f929a51fb805ff3f50ec3d7e73428e74701f199edd8284cf9b244365917",
+    "strength": 0.7,
+    "end": 0.5
+  },
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "bevel": {
+    "masks": "layouts/duel-panel",
+    "sha256": [
+      "f49fd495b984385ad9194c887f9bcaf6dce9692512207648550f25b16fea2a66",
+      "9f46daff6d8666d1ba3045b3ef14ad6734e1e4b6df04628b23249566fcb9962e"
+    ]
+  },
+  "cast": null,
+  "finish": null,
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "a62e6e314754801f3db3aacfe495e038571e14199be9f33ab66d065441fed066",
+  "comfyui": "0.42.0",
+  "generator": "dcc07bc",
+  "date": "2026-10-27T17:22:21+00:00"
+}

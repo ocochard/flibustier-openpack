@@ -1,0 +1,49 @@
+{
+  "id": "pic/alley",
+  "file": "art/alley.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph at night of a wide street in a Spanish port town of the\nCaribbean in the 1650s, seen from a little above, the houses standing\nwell back: they fill the upper two thirds of the picture, and the lower\nthird is the open street. Along the back, a row of two-storey houses of rough plastered stone, with\nheavy timber doors, small barred windows, a wooden balcony and iron\nlanterns burning on the walls; on the left, a palm tree leaning over\nthe roofs, and a glimpse of smaller houses with red tile roofs beyond;\non the right, a handcart loaded with sacks against a wall. Above, a deep\nblue night sky with stars. The street in front, from the foot of the\nhouses to the bottom of the picture, is wide empty packed earth with\ncart ruts and scattered straw, lit by the lanterns and the moon, open\nfor two men to fight on. Nobody is in the street. Historical reenactment\nphotography, sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/alley.png",
+    "sha256": "fb415420caf09734c72fc7887f6e9c81360ee2f34e839643d715801625c3266b",
+    "strength": 0.85,
+    "end": 0.6
+  },
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "bevel": {
+    "masks": "layouts/duel-panel",
+    "sha256": [
+      "f49fd495b984385ad9194c887f9bcaf6dce9692512207648550f25b16fea2a66",
+      "9f46daff6d8666d1ba3045b3ef14ad6734e1e4b6df04628b23249566fcb9962e"
+    ]
+  },
+  "cast": null,
+  "finish": null,
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "2fd8fc1d46d51a7c24f1a46c176fdb82f0ad2951a730881ebcba700fba8f014e",
+  "comfyui": "0.42.0",
+  "generator": "dcc07bc",
+  "date": "2026-10-27T17:11:20+00:00"
+}

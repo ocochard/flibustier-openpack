@@ -1,0 +1,49 @@
+{
+  "id": "pic/fort",
+  "file": "art/fort.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph in bright daylight along the top of the stone rampart of a\nSpanish fort in the Caribbean in the 1650s, seen from a little above\non the walkway. Across the back, a low wall of rough grey stone\nbattlements; beyond it, the deep blue sea to the horizon with a green\nisland on the right, under a blue sky with white clouds. On the left,\na wooden gallows post rises against the sky; on the right, a wooden\nladder leans against the rampart. In front of the battlements, a long\nwooden rail on posts with coiled rope and a hanging bucket. The walkway\nin front, from the foot of the rail to the bottom of the picture, is\nwide empty flagstones, open for two men to fight on. Nobody is on it.\nHistorical reenactment photography, sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/fort.png",
+    "sha256": "1190af6d933731027c79fd0c94f9ece587fbd39df2fcedd935309c7e8c5f6a79",
+    "strength": 0.85,
+    "end": 0.6
+  },
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "bevel": {
+    "masks": "layouts/duel-panel",
+    "sha256": [
+      "f49fd495b984385ad9194c887f9bcaf6dce9692512207648550f25b16fea2a66",
+      "9f46daff6d8666d1ba3045b3ef14ad6734e1e4b6df04628b23249566fcb9962e"
+    ]
+  },
+  "cast": null,
+  "finish": null,
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "229ee0450cd36028bc452307dc50c1ee5d7609de10c29c713c065ecf0cd57d56",
+  "comfyui": "0.42.0",
+  "generator": "dcc07bc",
+  "date": "2026-10-27T17:18:57+00:00"
+}
