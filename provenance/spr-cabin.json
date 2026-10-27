@@ -1,0 +1,22 @@
+{
+  "id": "spr/cabin",
+  "file": "art/cabin-sprites.sheet",
+  "atlas": "art/cabin-sprites.png",
+  "from": "pic/cabin",
+  "profile": "draft",
+  "seed": 1660,
+  "frames": [
+    {
+      "rect": [
+        325,
+        229,
+        200,
+        106
+      ],
+      "cast": null
+    }
+  ],
+  "comfyui": "0.42.0",
+  "generator": "d77e1fb",
+  "date": "2026-10-27T01:40:50+00:00"
+}

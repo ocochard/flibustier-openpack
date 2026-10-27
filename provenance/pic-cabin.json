@@ -12,7 +12,7 @@
   "field": null,
   "control": {
     "sketch": "layouts/cabin.png",
-    "sha256": "a90aae34ba34fd427bd3ad031b87a0146a7c7dd727ab5fc520ebce4e633942e3",
+    "sha256": "a41f74df8859ef16ad95d972255693af62721fe6f19719ae43208f7eeb66d5a8",
     "strength": 0.85,
     "end": 0.6
   },
@@ -25,6 +25,45 @@
     "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
   },
   "source": "layout from the game's spot rectangles",
+  "cast": [
+    {
+      "character": "an old hand-drawn treasure map of",
+      "portrait": null,
+      "portrait_sha256": null,
+      "ref_crop": null,
+      "rect": [
+        345,
+        245,
+        145,
+        65
+      ],
+      "seed": 2061,
+      "prompt": "Image 1 is a part of a sea captain's cabin, the top of a wooden table. Add to image 1 an old hand-drawn treasure map of a Caribbean island on yellowed parchment lying flat on the table, a dagger stuck upright through it, in the middle of image 1, at the right scale. Add nothing else. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+      "workflow_sha256": "392256751277bfcb0c6aae82aa1451eae76cd2369bae7c891ca38a6047940c61"
+    }
+  ],
+  "finish": [
+    {
+      "mask": "layouts/cabin-table-top.png",
+      "sha256": "3d3a4208085a2c14cc7093fa0b5e8b3ab22ef0cc57f54d0bf7700894e30f6565",
+      "rect": [
+        200,
+        200,
+        340,
+        160
+      ],
+      "prompt": "Photograph of a 17th-century sea captain's cabin: the top of a wooden\ntable, bare dark polished planks running from left to right with their\ngrain. Daylight from the stern windows, historical reenactment\nphotography, sharp focus, realistic."
+    },
+    {
+      "thing": "an old hand-drawn treasure map of a Caribbean island on yellowed parchment lying flat on the table, a dagger stuck upright through it",
+      "rect": [
+        345,
+        245,
+        145,
+        65
+      ]
+    }
+  ],
   "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
   "models": {
     "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
@@ -33,8 +72,8 @@
     "vae": "qwen_image_vae.safetensors",
     "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
   },
-  "workflow_sha256": "53c1d388e34052c90042d266e5eae7049ca6471bf4d4f230a5beeaa0697e7861",
+  "workflow_sha256": "b3ecf44921f9a26d977bb648051e923dba948fa82044204b6a6ba7a40176afe4",
   "comfyui": "0.42.0",
-  "generator": "343a73b",
-  "date": "2026-10-26T18:56:34+00:00"
+  "generator": "d77e1fb",
+  "date": "2026-10-27T01:37:59+00:00"
 }
