@@ -1,0 +1,20 @@
+{
+  "headings": 16,
+  "frame": [
+    176,
+    130
+  ],
+  "size": 1,
+  "denoise": 0.75,
+  "model_sha256": "5f8617b8bc3fad54530496e25f53bbc4d08b834eb4265da42f13d6ae9a3d2766",
+  "id": "spr/ship1",
+  "file": "art/ship1.sheet",
+  "atlas": "art/ship1.png",
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of a real 17th-century three-masted merchantman, a plain\nworking cargo ship under sail, seen from above at an angle: a plain\nbrown oak hull, low and flat-sided, with a low stern and no castle, a\nsingle row of a few small gun ports, no gilding, no carving, no painted\nbands; two square sails on each of its fore and main masts and a\ntriangular lateen sail on the mizzen, patched cream canvas, tarred\nrigging. It floats on the\nwater, its hull cut at the waterline. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic.",
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "1cb5967",
+  "date": "2026-10-27T18:57:34+00:00"
+}

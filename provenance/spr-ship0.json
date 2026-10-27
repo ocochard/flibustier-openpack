@@ -1,0 +1,20 @@
+{
+  "headings": 16,
+  "frame": [
+    176,
+    130
+  ],
+  "size": 0,
+  "denoise": 0.75,
+  "model_sha256": "30dffc642571a8b4a81304719b9df9dff5dcf371e295880b4a965944e9146584",
+  "id": "spr/ship0",
+  "file": "art/ship0.sheet",
+  "atlas": "art/ship0.png",
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of a real small 17th-century two-masted sloop under sail, seen\nfrom above at an angle: low weathered dark oak hull with a small raised\nstern, a few gun ports, tarred rigging, patched cream canvas sails all\nset and full. It floats on the water, its hull cut at the waterline.\nPlain flat blue background. Historical reenactment photography, sharp\nfocus, realistic.",
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "1cb5967",
+  "date": "2026-10-27T18:44:30+00:00"
+}

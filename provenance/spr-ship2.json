@@ -1,0 +1,20 @@
+{
+  "headings": 16,
+  "frame": [
+    176,
+    130
+  ],
+  "size": 2,
+  "denoise": 0.75,
+  "model_sha256": "0ac310dd3d9367cefc487636c710f7a1eec503d2a1e414c22e9901085df1a664",
+  "id": "spr/ship2",
+  "file": "art/ship2.sheet",
+  "atlas": "art/ship2.png",
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of a real 17th-century Spanish war galleon under sail, seen\nfrom above at an angle: a large weathered dark oak hull whose deck\nrises in steps to a raised sterncastle two decks high, its stern a\ncarved and gilded transom with open stern galleries, part of the hull\nand of the same wood; painted bands along its side, two rows of gun\nports, tarred rigging,\npatched cream canvas sails all set and full. It floats on the water,\nits hull cut at the waterline. Plain flat blue background. Historical\nreenactment photography, sharp focus, realistic.",
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "1cb5967",
+  "date": "2026-10-27T19:10:16+00:00"
+}
