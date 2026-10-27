@@ -1,0 +1,43 @@
+{
+  "id": "img/wpnsel",
+  "file": "art/wpnsel.png",
+  "size": [
+    461,
+    868
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph, straight on, of a tall rectangular display board filling the\nwhole picture: a heavy frame of dark carved pewter with a beaded inner\nedge, and inside it deep crimson velvet. On the velvet hang three\nperiod swords side by side, upright, hilts at the top and points down,\nwell apart, each plainly different: on the left a rapier with a\nneedle-thin blade no wider than a pencil and a swept hilt of looping\nblued steel bars and rings around the grip; in the middle a short broad\ncutlass with a curved blade and a brass shell guard; on the right a\nheavy broadsword with a wide straight double-edged blade, three times\nas wide as the rapier's, with a long gilded cross guard, a leather grip\nand a round gilded pommel at the top; its blade narrows to a single\nsharp point at the bottom, with nothing below the point. Each sword has\none hilt only, at its top. Even museum light, sharp focus,\nrealistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/wpnsel.png",
+    "sha256": "b3aa1bb4217bdec34d4f8a134aacb6353242991ee11a39913c5da43332f0d9f7",
+    "strength": 0.85,
+    "end": 0.6
+  },
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "bevel": null,
+  "cast": null,
+  "finish": null,
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "248fe82da5e7c68a73a346c819d4ddaa2e7c9a3b214923fc83bd8147d90a0f18",
+  "comfyui": "0.42.0",
+  "generator": "f04f8c3",
+  "date": "2026-10-27T17:39:54+00:00"
+}
