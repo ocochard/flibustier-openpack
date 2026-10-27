@@ -1,0 +1,119 @@
+{
+ "id": "sound/blow",
+ "file": "sound/blow.ogg",
+ "model": "stable_audio_3_small_sfx.safetensors",
+ "text_encoder": "t5gemma_b_b_ul2.safetensors",
+ "prompt": "a blade striking a wooden shield, a dull thud",
+ "seed": 1,
+ "seconds": 1,
+ "length": 0.19,
+ "workflow": {
+  "ckpt": {
+   "class_type": "CheckpointLoaderSimple",
+   "inputs": {
+    "ckpt_name": "stable_audio_3_small_sfx.safetensors"
+   }
+  },
+  "t5": {
+   "class_type": "CLIPLoader",
+   "inputs": {
+    "clip_name": "t5gemma_b_b_ul2.safetensors",
+    "type": "stable_audio"
+   }
+  },
+  "pos": {
+   "class_type": "CLIPTextEncode",
+   "inputs": {
+    "text": "a blade striking a wooden shield, a dull thud",
+    "clip": [
+     "t5",
+     0
+    ]
+   }
+  },
+  "neg": {
+   "class_type": "CLIPTextEncode",
+   "inputs": {
+    "text": "music, melody, singing, speech, voice, vocals, shouting, screaming, talking, low quality, distorted, noise, hiss, static",
+    "clip": [
+     "t5",
+     0
+    ]
+   }
+  },
+  "cond": {
+   "class_type": "ConditioningStableAudio",
+   "inputs": {
+    "positive": [
+     "pos",
+     0
+    ],
+    "negative": [
+     "neg",
+     0
+    ],
+    "seconds_start": 0.0,
+    "seconds_total": 1.0
+   }
+  },
+  "latent": {
+   "class_type": "EmptyLatentAudio",
+   "inputs": {
+    "seconds": 1.0,
+    "batch_size": 1
+   }
+  },
+  "sample": {
+   "class_type": "KSampler",
+   "inputs": {
+    "model": [
+     "ckpt",
+     0
+    ],
+    "seed": 1,
+    "steps": 8,
+    "cfg": 1.0,
+    "sampler_name": "euler_ancestral",
+    "scheduler": "simple",
+    "denoise": 1.0,
+    "positive": [
+     "cond",
+     0
+    ],
+    "negative": [
+     "cond",
+     1
+    ],
+    "latent_image": [
+     "latent",
+     0
+    ]
+   }
+  },
+  "decode": {
+   "class_type": "VAEDecodeAudio",
+   "inputs": {
+    "samples": [
+     "sample",
+     0
+    ],
+    "vae": [
+     "ckpt",
+     2
+    ]
+   }
+  },
+  "save": {
+   "class_type": "SaveAudio",
+   "inputs": {
+    "audio": [
+     "decode",
+     0
+    ],
+    "filename_prefix": "flibustier/sound-blow"
+   }
+  }
+ },
+ "tool": "tools/sfxgen/sfxgen.py@c5c68d7",
+ "date": "2026-10-27"
+}
