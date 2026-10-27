@@ -1,11 +1,12 @@
 # flibustier open pack
 
-High-resolution, photographic replacement art for
+High-resolution, photographic replacement art and remade music for
 [flibustier](https://github.com/ocochard/flibustier), an open source engine
 re-implementation of MicroProse's *Pirates! Gold*.
 
 This pack holds no original game data. Every picture here was generated
-from text prompts, with no original picture used as an input image.
+from text prompts, with no original picture used as an input image; the
+music is a fan remake recorded by its own author (see [Music](#music)).
 
 ## Status
 
@@ -14,14 +15,16 @@ settle the compositions, the characters and the colour grade before the
 final full-quality renders. Some screens are still missing, and the
 game's small original sprites still draw over a few of these pictures.
 
-The licence is **not decided yet**. Until a licence file is added, no
-rights are granted to reuse this art outside of playing flibustier.
+The licence of the art is **not decided yet**. Until a licence file is
+added, no rights are granted to reuse it outside of playing flibustier.
+The music is not covered by this pack's licence: it belongs to its
+author.
 
 ## Using it
 
 The pack sits on top of the original data, which you still need: the
-engine shows these pictures where the pack has them and the original
-ones everywhere else.
+engine shows these pictures and plays this music where the pack has
+them, and the original's everywhere else.
 
 ```sh
 flibustier --data ~/games/pirates_gold --pack ~/flibustier-openpack
@@ -33,10 +36,15 @@ picture pillarboxed on a 16:9 screen.
 ## Contents
 
 - `pack.ini`: the pack's name, licence and art height, and the asset ID
-  each file replaces (for example `pic/tavern = art/tavern.png`).
+  each picture replaces (for example `pic/tavern = art/tavern.png`),
+  written by the art generator.
+- `pack.d/`: more of those lists, one per tool: `pack.d/music.ini` maps
+  each of the game's tunes to a recording.
 - `art/`: the pictures (PNG, 1440x1080 for full screens), and sprite
   sheets: a PNG with a `.sheet` file listing the rectangle of each frame
-  (`art/tavern-sprites.sheet`, the tavern's visitors).
+  (`art/tavern-sprites.sheet`, the tavern's visitors), and where a frame
+  reaching past the original's is drawn from.
+- `music/`: the recordings (OGG Vorbis) and their credits.
 - `provenance/`: one JSON file per asset, recording how it was made, so
   any picture can be traced and remade: the prompts, seed, models,
   sketches and masks used (with their SHA-256), the colour grade, and

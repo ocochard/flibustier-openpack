@@ -1,0 +1,55 @@
+{
+  "id": "spr/town",
+  "file": "art/town-sprites.sheet",
+  "atlas": "art/town-sprites.png",
+  "from": "pic/town",
+  "profile": "draft",
+  "seed": 1660,
+  "frames": [
+    {
+      "rect": [
+        0,
+        148,
+        176,
+        332
+      ],
+      "at": [
+        0,
+        258
+      ],
+      "cast": null
+    },
+    {
+      "rect": [
+        580,
+        216,
+        60,
+        52
+      ],
+      "at": [
+        582,
+        216
+      ],
+      "cast": [
+        {
+          "character": "a closed wrought-iron gate standing shut",
+          "portrait": null,
+          "portrait_sha256": null,
+          "ref_crop": null,
+          "rect": [
+            572,
+            206,
+            68,
+            66
+          ],
+          "seed": 1920,
+          "prompt": "Image 1 is a part of a Caribbean port town of the 1650s, a gateway on a path. Add to image 1 a closed wrought-iron gate standing shut between the two stone pillars, filling the gap between them, in the middle of image 1, at the right scale. Add nothing else. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+          "workflow_sha256": "943bf241395d0c9aa842a07a889e77f86e750956ccee90138ad74e239ccac622"
+        }
+      ]
+    }
+  ],
+  "comfyui": "0.42.0",
+  "generator": "c281a37",
+  "date": "2026-10-27T16:19:14+00:00"
+}

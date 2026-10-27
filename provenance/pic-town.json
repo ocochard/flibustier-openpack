@@ -12,7 +12,7 @@
   "field": null,
   "control": {
     "sketch": "layouts/town.png",
-    "sha256": "f45220ed1d7b3f7f4065bb080846769e0112d0927fe4324ac8f6686d79ec68ff",
+    "sha256": "2f25219ce05f4763bb08035fcd9ca25af67b930e64c929a8786a89db7b1862f9",
     "strength": 0.85,
     "end": 0.6
   },
@@ -25,6 +25,54 @@
     "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
   },
   "source": "layout from the game's spot rectangles",
+  "cast": [
+    {
+      "character": "a gateway on the path, two",
+      "portrait": null,
+      "portrait_sha256": null,
+      "ref_crop": null,
+      "rect": [
+        572,
+        206,
+        68,
+        66
+      ],
+      "seed": 2062,
+      "prompt": "Image 1 is a part of a Caribbean port town of the 1650s, the path up to the governor's residence. Add to image 1 a gateway on the path, two weathered stone pillars of the same stone as the wall beside them, a wrought-iron gate swung wide open against one of them, in the middle of image 1, at the right scale. Add nothing else. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+      "workflow_sha256": "28e985ef648e7075b1d4d269963111357857f199e914f66ba3876bdbd91c3f00"
+    }
+  ],
+  "finish": [
+    {
+      "mask": "layouts/town-harbour.png",
+      "rect": [
+        0,
+        140,
+        200,
+        140
+      ],
+      "instruction": "Remove the sailing ship from the sea: show the empty sea and the beach that were behind it."
+    },
+    {
+      "mask": "layouts/town-harbour.png",
+      "rect": [
+        0,
+        300,
+        180,
+        180
+      ],
+      "instruction": "Remove the timber shed and the boat under it completely: show the dirt road, the grass and the bushes that were behind them, open ground."
+    },
+    {
+      "thing": "a gateway on the path, two weathered stone pillars of the same stone as the wall beside them, a wrought-iron gate swung wide open against one of them",
+      "rect": [
+        572,
+        206,
+        68,
+        66
+      ]
+    }
+  ],
   "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
   "models": {
     "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
@@ -33,8 +81,8 @@
     "vae": "qwen_image_vae.safetensors",
     "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
   },
-  "workflow_sha256": "9659d8f1c28dc9425ca8a7f5f1dce0d9dec07d0f6ccdff9b1d5800f665a20b8a",
+  "workflow_sha256": "926d244a8f014b100830fc68cd917ed4e648bb114bbeceee8f721dd5717d6196",
   "comfyui": "0.42.0",
-  "generator": "343a73b",
-  "date": "2026-10-26T18:58:18+00:00"
+  "generator": "d27f237",
+  "date": "2026-10-27T16:15:19+00:00"
 }
