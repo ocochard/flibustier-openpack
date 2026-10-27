@@ -1,0 +1,47 @@
+{
+  "textures": [
+    {
+      "name": "sea",
+      "seed": 1660,
+      "prompt": "Aerial photograph taken straight down from very high above of calm deep\nopen sea, an even deep blue with a very fine, faint, uniform texture of\ntiny ripples, low contrast, no foam, no glare, no sun reflection,\nnothing else, filling the whole image.",
+      "colour": "#123A78",
+      "detail": 0.45,
+      "cutout": false
+    },
+    {
+      "name": "land",
+      "seed": 1661,
+      "prompt": "Satellite photograph taken straight down from very high above of a vast\ntropical rainforest, the canopy seen as a fine, even, uniform texture of\ncountless tiny green tree crowns, low contrast, no clearings, no rivers,\nnothing else, filling the whole image.",
+      "colour": "#3C6E28",
+      "detail": 0.8,
+      "cutout": false
+    },
+    {
+      "name": "sand",
+      "seed": 1662,
+      "prompt": "Aerial photograph taken straight down of pale golden beach sand, fine,\neven and uniform, low contrast, nothing else, filling the whole image.",
+      "colour": "#D2B478",
+      "detail": 0.6,
+      "cutout": false
+    },
+    {
+      "name": "town",
+      "seed": 1663,
+      "prompt": "Photograph from above at an angle of a single small 17th-century\nCaribbean colonial house with white plastered walls, a red clay tile\nroof, a dark door and two small windows, standing alone on a plain flat\nlight grey ground, nothing else.",
+      "colour": null,
+      "detail": 0.8,
+      "cutout": true
+    }
+  ],
+  "tile": 36,
+  "terrain_sha256": "ddfb9665995a7764273586c4692704e6a9a3a0e9554c4f5d4e919ab047c35f9d",
+  "id": "tiles/map",
+  "file": "art/map.tiles",
+  "atlas": "art/map.png",
+  "profile": "draft",
+  "seed": 1660,
+  "composer": "tilemaker.py",
+  "comfyui": "0.42.0",
+  "generator": "73b9c5f",
+  "date": "2026-10-27T19:58:57+00:00"
+}
