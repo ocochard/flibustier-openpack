@@ -81,3 +81,14 @@ Leave out `--draft` for the full-quality render.
 
 Pictures, fonts and audio are stored with [Git LFS](https://git-lfs.com/):
 run `git lfs install` once before cloning.
+
+## Music
+
+The `music/` directory holds **"Pirates! Gold (HQ Remake)" by Pieces of
+8-bit** (<https://soundcloud.com/piecesof8bit>), a fan remake of the
+game's music, converted to OGG Vorbis. Unlike the generated art, these
+recordings belong to their author and are used with the author's credit, kept
+in `music/CREDITS.txt` and in `pack.d/music.ini`, which maps each tune of
+the game to a track (variants such as `music/tavern-2` are picked at
+random). `tools/music_pack.py` in the flibustier repository rebuilds
+them from the album.
