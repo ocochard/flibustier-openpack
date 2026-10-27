@@ -1,0 +1,32 @@
+{
+  "id": "pic/textback",
+  "file": "art/textback.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph, straight on and evenly lit, of a sheet of old cream parchment\nthat fills the entire image edge to edge, with no table, background or\nborder visible anywhere. Faint, barely visible embossed lines of a\nship's rigging radiate from a point near the centre right, like a\nwatermark. No writing, no marks, soft uniform light, very low contrast,\nrealistic paper texture. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "292447017359fc24596bd56cc5e7435e649962419499c4df26c0ee05de5685f4",
+  "comfyui": "0.42.0",
+  "generator": "4c903ea",
+  "date": "2026-10-26T18:19:49+00:00"
+}

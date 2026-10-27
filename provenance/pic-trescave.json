@@ -1,0 +1,44 @@
+{
+  "id": "pic/trescave",
+  "file": "art/trescave.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1663,
+  "prompt": "Photograph from deep inside a dark sea cave. Through a jagged opening in\nthe upper centre, a bright glimpse of the sea and a distant sailing\nship. On the right, the skeleton of a long-dead pirate hangs from the\ncave ceiling by its two wrists tied together: both wrist bones are\nlocked side by side in one heavy iron shackle, and a very short iron\nchain of a few links joins that shackle to an iron ring in the rock\nright above it. Its long arms are stretched straight up in a narrow V\nfrom the shoulders to the bound wrists, and the skull hangs far below\nthe hands, between the shoulders, bare, with nothing touching it. It is\ndressed in a ragged shirt and long ragged trousers that cover its leg\nbones down to the ankles; only the bony feet show below the trouser\nhems, dangling above the rocks. The rest of the cave, especially the\nleft half and the bottom, is rock in deep darkness. Dramatic\nchiaroscuro, realistic textures, sharp focus. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/trescave.png",
+    "sha256": "dfe1212ec204d76fde00e9b6eb6847ce12dc59d1d4b1bc09b4b81b40e50ed965",
+    "strength": 0.7,
+    "end": 0.6
+  },
+  "inpaint": {
+    "mask": "layouts/trescave-inpaint.png",
+    "sha256": "3a72cbcd995d31e8fd7b9892a8663edae25ceb4db2e65136f33b0478ed6365f2",
+    "prompt": "Photograph detail inside a dark sea cave: empty dark air in deep shadow,\nwith the dim rock wall of the cave behind it."
+  },
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "chain attached to the skull, chain on the head, chain around the neck,\nnoose, rope around the neck, hanged by the neck, loose shackles, bare\nleg bones, text, watermark, frame, border, cartoon, illustration,\npainting, 3d render, lowres, blurry, deformed\n",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "d26bc1ff140fb8b46de6799fb1948f90378cadfdffa4060b9179fdc7efee19de",
+  "comfyui": "0.42.0",
+  "generator": "343a73b",
+  "date": "2026-10-26T18:44:39+00:00"
+}

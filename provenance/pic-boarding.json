@@ -1,0 +1,32 @@
+{
+  "id": "pic/boarding",
+  "file": "art/boarding.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of a boarding fight on a 17th-century ship in a storm. On the\nleft, a fierce bearded pirate in a loose shirt lunges forward with a\ncutlass, torn sails and rigging behind him, dark storm clouds and sea\nspray. The lower right quarter of the frame is dark smoke and deep\nshadow, plain. Dramatic light, motion, historical reenactment\nphotography, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "d067cde994cd39788321aac907e929395bfa2be50467a97782632f2db30d78a1",
+  "comfyui": "0.42.0",
+  "generator": "9e66d61",
+  "date": "2026-10-26T16:52:25+00:00"
+}

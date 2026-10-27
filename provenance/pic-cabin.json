@@ -1,0 +1,40 @@
+{
+  "id": "pic/cabin",
+  "file": "art/cabin.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of a 17th-century sea captain's cabin in the stern of a\ngalleon, warm and cluttered, lit by daylight from the stern windows. Low\nwooden ceiling beams run across the top of the picture. Two stern windows look out on the blue sea. On the\nupper left wall, two crossed swords; below them, on a small shelf, a\nthick leather-bound log book. On the left, an iron-bound wooden sea\nchest. A brass telescope stands on a tripod left of centre. At the back\ncentre, a bed with heavy dark red curtains. In the middle, a wooden\ntable with sea charts and maps spread on it. At the bottom left of\ncentre, a large antique globe on a wooden stand. On the right, a tall\ndark wooden chest of drawers with a mirror above it. At the bottom\nright, a pair of tall leather sea boots standing on the floor. No\npeople. Historical reenactment photography, wide lens, sharp focus,\nrealistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/cabin.png",
+    "sha256": "a90aae34ba34fd427bd3ad031b87a0146a7c7dd727ab5fc520ebce4e633942e3",
+    "strength": 0.85,
+    "end": 0.6
+  },
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout from the game's spot rectangles",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "53c1d388e34052c90042d266e5eae7049ca6471bf4d4f230a5beeaa0697e7861",
+  "comfyui": "0.42.0",
+  "generator": "343a73b",
+  "date": "2026-10-26T18:56:34+00:00"
+}

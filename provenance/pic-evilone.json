@@ -1,0 +1,37 @@
+{
+  "id": "pic/evilone",
+  "file": "art/evilone.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Portrait photograph of a menacing Spanish nobleman of the 1660s, bald\nwith a thin moustache and a cold stare, a gold earring, black velvet\nclothes with a high collar, dark background, hard side light,\nhistorical reenactment photography. The photograph is mounted in an ornate antique gilded wooden picture\nframe that fills the whole image edge to edge, no wall around it. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": [
+    19,
+    31,
+    308,
+    412
+  ],
+  "field": "#521008",
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "be3c2427491f09fbf2ef79d809b66bc02264ca7d5be60a4c48d13cd66ddf3730",
+  "comfyui": "0.42.0",
+  "generator": "9e66d61",
+  "date": "2026-10-26T17:03:56+00:00"
+}

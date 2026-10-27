@@ -1,0 +1,37 @@
+{
+  "id": "pic/credpic",
+  "file": "art/credpic.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of the stern of a 17th-century galleon at sea, its carved and\ngilded transom with lanterns and rows of windows, sails above, blue sea,\nseen from slightly below. The photograph is mounted in an ornate antique gilded wooden picture\nframe that fills the whole image edge to edge, no wall around it. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": [
+    12,
+    29,
+    363,
+    404
+  ],
+  "field": "#CD9462",
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "fb0edd98eec642071d627b8d0f297f880b734299a35169ed1f930c184326ccd5",
+  "comfyui": "0.42.0",
+  "generator": "9e66d61",
+  "date": "2026-10-26T17:02:23+00:00"
+}

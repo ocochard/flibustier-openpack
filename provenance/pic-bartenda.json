@@ -1,0 +1,34 @@
+{
+  "id": "pic/bartenda",
+  "file": "art/bartenda.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of the tavern keeper, a tall, rough working man in his forties with short dark hair and a few days' stubble, a faded red shirt with sweat stains and rolled sleeves, a long apron of coarse linen, grimy and stained with wine and grease, standing at the far left of the frame, arms\ncrossed, looking at the viewer, his skin and clothes worn by hard work\nin a hot tavern. Behind him and across the whole rest of the frame, a\nplain, softly lit pale yellow-green plaster wall, empty and out of\nfocus. Warm light. Historical reenactment photography, 50mm lens,\nrealistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": null,
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "da8255f1862b72cf189036dd4c70b19cc5ae072377246a28ed1228209548dca9",
+  "comfyui": "0.42.0",
+  "generator": "343a73b",
+  "date": "2026-10-26T18:59:52+00:00"
+}

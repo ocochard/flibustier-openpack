@@ -1,0 +1,26 @@
+{
+  "id": "pic/governor",
+  "file": "art/governor.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "A single continuous photograph of one room: a colonial governor's study\nin the Caribbean in the 1660s, seen from the doorway. A stern governor\nin period dress, a long dark wig, a brocade coat with lace cravat, sits\nbehind a heavy carved wooden desk with papers, a quill and a brass\ncandlestick, placed in the left third of the picture. The candle on the\ndesk is the only light: it lights the governor warmly, and the same\nwood-panelled wall continues to the right, fading gradually into deep\nshadow, plain and empty, filling the right half of the picture.\nHistorical reenactment photography, 35mm lens, natural textures, sharp\nfocus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "grade": null,
+  "source": "text",
+  "negative": "split screen, diptych, two panels, collage, vertical dividing line,\ntext, letters, watermark, signature, frame, border, cartoon,\nillustration, painting, 3d render, lowres, blurry, deformed\n",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "587c3d38f1f92abc2a78c1825078cf39ebf2abf1ef258ab43fea4025121902d2",
+  "comfyui": "0.42.0",
+  "generator": "f72d91d",
+  "date": "2026-10-26T16:16:03+00:00"
+}

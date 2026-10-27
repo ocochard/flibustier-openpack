@@ -1,0 +1,37 @@
+{
+  "id": "pic/find-t",
+  "file": "art/find-t.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of two very different pirates on a sandy Caribbean beach under\npalm trees, kneeling over a freshly dug hole and lifting the lid of a\nwooden treasure chest full of gold coins: on the left a heavy-set older\nman in his fifties with a grey beard, a black tricorn hat and a long\nfaded blue coat; on the right a lean young man in his twenties,\nclean-shaven, with long black hair tied back under a red headscarf and\na loose white shirt with rolled sleeves. Bright sun. The photograph is mounted in an ornate antique gilded wooden picture\nframe that fills the whole image edge to edge, no wall around it. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": [
+    170,
+    17,
+    311,
+    258
+  ],
+  "field": "#7B0000",
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "4cc6915f3f5bf001fac7b64db3d302d531c3d49d2ba893373b011fd4d6d462ab",
+  "comfyui": "0.42.0",
+  "generator": "9e66d61",
+  "date": "2026-10-26T17:25:43+00:00"
+}

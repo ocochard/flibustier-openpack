@@ -1,0 +1,37 @@
+{
+  "id": "pic/search",
+  "file": "art/search.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of three very different sailors of the 1660s digging in the\nsand of a Caribbean beach with shovels, searching for buried treasure:\na stocky middle-aged man with a red beard and a battered felt hat; a\ntall thin young man with long black hair, bare-chested and sunburnt;\nand a short grey-haired old man in a blue coat leaning on his shovel\nwhile pointing at the sand. The turquoise sea and a blue sky behind\nthem. The photograph is mounted in an ornate antique gilded wooden picture\nframe that fills the whole image edge to edge, no wall around it. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": [
+    150,
+    26,
+    346,
+    254
+  ],
+  "field": "#202900",
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "b57cebd9659506ee534c48511211d78f9b8f42264110daf3aa93c52ed603fd4b",
+  "comfyui": "0.42.0",
+  "generator": "9e66d61",
+  "date": "2026-10-26T17:27:19+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pic/merchant",
+  "file": "art/merchant.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph inside a dim 17th-century Caribbean harbour warehouse. In the\ncentre right, an old merchant with white hair and a green waistcoat over\na white shirt sits writing in a ledger at a wooden table piled with\npapers and an inkwell. Barrels, sacks and crates stand along the walls\non both sides; soft daylight comes through tall openings behind him.\nMuted warm colours. Historical reenactment photography, 35mm lens,\nnatural textures, sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "83dbe74a44be89ce163ddad7bbea00cc4ad0d572be12641870b7b1ba86b3ebc3",
+  "comfyui": "0.42.0",
+  "generator": "f72d91d",
+  "date": "2026-10-26T16:30:26+00:00"
+}

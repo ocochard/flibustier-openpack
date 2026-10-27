@@ -1,0 +1,162 @@
+{
+  "id": "pic/tavern",
+  "file": "art/tavern.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph inside a smoky Caribbean harbour tavern of the 1660s, lit by\noil lamps and daylight. Heavy dark ceiling beams run across the top of\nthe picture. At the back left, a long wooden bar with shelves of bottles\nbehind it; nobody is behind the bar. In the middle of the back wall, a\ndark arched doorway to a back room; the rough stone and timber wall\naround it is hung with a lantern, a ship's wheel and old nets. At the\nfar left, a small empty round table with a stool, and a second small\nempty table just right of it near the end of the bar. In the foreground\nat the\nbottom centre right, a large round table with pewter mugs, a knife and\ncoins, seen close, with three empty stools around it. On the far right\nedge, the open wooden door of the tavern with daylight beyond.\nThe room is empty, nobody is in it. Warm amber light, historical\nreenactment photography, sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/tavern.png",
+    "sha256": "1be870fa92e20e155c5d6206415ca299e9cac68b9143eb1f6beee8d5221b35c3",
+    "strength": 0.85,
+    "end": 0.6
+  },
+  "inpaint": {
+    "mask": "layouts/tavern-people.png",
+    "sha256": "6fe61412be1d073418fc1d50ec5c051e9a8dc1312a0a57f6d1915f1e84cc71e1",
+    "prompt": "Photograph inside a smoky Caribbean harbour tavern of the 1660s. Behind\nthe bar on the left, {bartender}, standing, polishing a mug, seen from\nthe waist up above the counter. In the centre right, {barmaid},\nstanding, holding a tray. In the foreground, three sailors sit around\nthe same table at the bottom centre right, large and close to the\ncamera, cut by the bottom edge of the picture, arm-wrestling and\ndrinking: {sailor_young} at the front left, his back half turned to us;\n{sailor_old} behind the table, facing us; {sailor_big} at the front\nright. Each person is exactly where the room has space for them.\nWarm amber light, historical reenactment photography, sharp focus,\nrealistic."
+  },
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout from the game's spot rectangles",
+  "cast": [
+    {
+      "character": "bartender",
+      "portrait": "pic/bartenda",
+      "portrait_sha256": "b13292f3ca76a0aa6b6a6e5d280c854735bef454b12ed04168c0f9a241bd71c8",
+      "ref_crop": [
+        0,
+        0,
+        276,
+        480
+      ],
+      "rect": [
+        55,
+        180,
+        115,
+        120
+      ],
+      "seed": 1760,
+      "prompt": "Image 1 is a part of a smoky harbour tavern with one person in it. Replace that person with the person from image 2, the tavern keeper, a tall, rough working man in his forties with short dark hair and a few days' stubble, a faded red shirt with sweat stains and rolled sleeves, a long apron of coarse linen, grimy and stained with wine and grease: the very same person, with the same face, hair, figure and clothes as in image 2, standing behind the bar counter, polishing a mug. Keep the same pose, position and size as the person in image 1. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+      "workflow_sha256": "e619adeab6bd841f188482ab10d87bc31f817fa0bbebe832f84e2f225e69fae2"
+    },
+    {
+      "character": "barmaid",
+      "portrait": "pic/barmaid",
+      "portrait_sha256": "3a434a56c92a82c64fb2e29af315039ea3712ec8e1215fde50fd24ec81be0b65",
+      "ref_crop": [
+        358,
+        28,
+        240,
+        427
+      ],
+      "rect": [
+        400,
+        165,
+        110,
+        210
+      ],
+      "seed": 1761,
+      "prompt": "Image 1 is a part of a smoky harbour tavern with one person in it. Replace that person with the person from image 2, the barmaid, a young full-figured woman in her late twenties with a round face, a broad warm smile, a generous bust, long dark curly hair and small gold earrings, a low-cut white off-shoulder blouse, a tight black laced bodice and a long red skirt: the very same person, with the same face, hair, figure and clothes as in image 2 (image 3 is a close-up of the same person's face: keep exactly that face and expression), standing on the floor, holding a tray. Keep the same pose, position and size as the person in image 1. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+      "workflow_sha256": "56ba46786bbf90c16d4ca4b471058ec3c412561fd5670e8cde182bbab625eaf7"
+    },
+    {
+      "character": "sailor_old",
+      "portrait": "pic/crew",
+      "portrait_sha256": "43795556f01587d4e41fc8e35348111756f4f917e6956269aaa382ab2f1c3b6d",
+      "ref_crop": [
+        75,
+        20,
+        160,
+        235
+      ],
+      "rect": [
+        275,
+        245,
+        110,
+        160
+      ],
+      "seed": 1762,
+      "prompt": "Image 1 is a part of a smoky harbour tavern with one person in it. Replace that person with the person from image 2, an old weathered sailor with a white beard and a green turban, a rough shirt: the very same person, with the same face, hair, figure and clothes as in image 2, sitting behind the table, facing us, a mug in his hand. Keep the same pose, position and size as the person in image 1. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+      "workflow_sha256": "a0489162250a2f0d5bb13e68226ed7d7a68b2faefbb70b47b6693d62d5f1160d"
+    },
+    {
+      "character": "sailor_young",
+      "portrait": "pic/crew",
+      "portrait_sha256": "43795556f01587d4e41fc8e35348111756f4f917e6956269aaa382ab2f1c3b6d",
+      "ref_crop": [
+        240,
+        20,
+        160,
+        235
+      ],
+      "rect": [
+        190,
+        270,
+        170,
+        210
+      ],
+      "seed": 1763,
+      "prompt": "Image 1 is a part of a smoky harbour tavern with one person in it. Replace that person with the person from image 2, a young clean-shaven sailor with curly brown hair and a red neckerchief, a rough shirt: the very same person, with the same face, hair, figure and clothes as in image 2, sitting at the front left of the table, close to the camera, arm-wrestling. Keep the same pose, position and size as the person in image 1. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+      "workflow_sha256": "2f021e9b04decd0d673d5658c11728a28192c0790e7a1a19663d782524537cda"
+    },
+    {
+      "character": "sailor_big",
+      "portrait": "pic/crew",
+      "portrait_sha256": "43795556f01587d4e41fc8e35348111756f4f917e6956269aaa382ab2f1c3b6d",
+      "ref_crop": [
+        410,
+        20,
+        160,
+        235
+      ],
+      "rect": [
+        480,
+        255,
+        145,
+        225
+      ],
+      "seed": 1764,
+      "prompt": "Image 1 is a part of a smoky harbour tavern with one person in it. Replace that person with the person from image 2, a broad dark-skinned sailor in his forties with a shaved head, a short black beard and a gold earring, a rough shirt: the very same person, with the same face, hair, figure and clothes as in image 2, sitting at the front right of the table, close to the camera. Keep the same pose, position and size as the person in image 1. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+      "workflow_sha256": "e9fb512c0ba2286cb02beb6d5e2802112b915e59a5bf097cc4ee2ccdcddce429"
+    }
+  ],
+  "finish": [
+    {
+      "mask": "layouts/tavern-table-end.png",
+      "sha256": "2fa4dfab091e5ec35f25851bb6dede253332ea72c994db879c27dfbaf8709dae",
+      "rect": [
+        0,
+        250,
+        260,
+        200
+      ],
+      "prompt": "Photograph inside a smoky Caribbean harbour tavern of the 1660s: one\nlarge oval wooden table top, a single piece of dark smooth wood with a\nrounded edge, empty, seen slightly from above in front of the wooden\nbar. Warm amber light, historical\nreenactment photography, sharp focus, realistic."
+    }
+  ],
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors",
+    "edit": "qwen_image_edit_2511_int8_convrot.safetensors",
+    "edit_lightning": "Qwen-Image-Edit-2511-Lightning-8steps-V1.0-bf16.safetensors",
+    "matte": "birefnet.safetensors"
+  },
+  "workflow_sha256": "3c7e827b94fc9a3ac71afc910938cc9778cbf7fcc506f87c46cd265202cf324d",
+  "comfyui": "0.42.0",
+  "generator": "cc7e124",
+  "date": "2026-10-27T00:31:24+00:00"
+}

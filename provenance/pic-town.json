@@ -1,0 +1,40 @@
+{
+  "id": "pic/town",
+  "file": "art/town.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of the main square of a small, rough Spanish port town in the\nCaribbean in the 1650s, a frontier settlement, not a restored old town.\nAbove the town, a bright blue sky with white clouds. The buildings are\nlow and weathered: walls of coral stone and rubble with peeling,\nstained lime plaster, roofs of curved clay barrel tiles or of thatched\npalm fronds, small windows with heavy wooden shutters and iron bars and\nno glass, wooden balconies with turned posts, rough timber doors. On\nthe far left, a muddy rutted dirt road leads down past palm trees\ntowards the harbour with a sailing ship at anchor, and at the bottom\nleft a small open timber shipwright's shed with planks and barrels.\nLeft of centre, the tavern: a two-storey plastered house with a\nbalcony, a wide open timber door and a hanging lantern. In the centre\nright, a small merchant's store with a canvas awning on wooden poles\nand sacks and crates by its door. On the right, the counting house: a\nsquat building of dressed stone with a heavy iron-studded door. On the\nfar right, up the hill, the governor's residence behind a stone wall\nwith a gate, a Spanish flag on a pole, and a squat stone church bell\ntower behind it. The square is bare trampled earth with puddles, a few\nchickens and a goat, no people. Hot sun, dust, historical\nreenactment photography, wide lens, sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/town.png",
+    "sha256": "f45220ed1d7b3f7f4065bb080846769e0112d0927fe4324ac8f6686d79ec68ff",
+    "strength": 0.85,
+    "end": 0.6
+  },
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout from the game's spot rectangles",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "9659d8f1c28dc9425ca8a7f5f1dce0d9dec07d0f6ccdff9b1d5800f665a20b8a",
+  "comfyui": "0.42.0",
+  "generator": "343a73b",
+  "date": "2026-10-26T18:58:18+00:00"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "spr/tavern",
+  "file": "art/tavern-sprites.sheet",
+  "atlas": "art/tavern-sprites.png",
+  "from": "pic/tavern",
+  "profile": "draft",
+  "seed": 1660,
+  "frames": [
+    {
+      "rect": [
+        0,
+        255,
+        122,
+        188
+      ],
+      "cast": [
+        {
+          "character": "mapman",
+          "portrait": "pic/mapman",
+          "portrait_sha256": "b3e4eb1f46e98b56fa594777050c61bfa56c3fa8deece0882a98d5044e3ff2ef",
+          "ref_crop": [
+            50,
+            60,
+            230,
+            340
+          ],
+          "rect": [
+            0,
+            255,
+            122,
+            188
+          ],
+          "seed": 1860,
+          "prompt": "Image 1 is a part of a smoky harbour tavern with one person in it. Replace that person with the person from image 2, the map seller, an old man with a long grey beard and a patterned headscarf, a worn yellow-brown coat: the very same person, with the same face, hair, figure and clothes as in image 2, sitting behind the left end of the round table, facing us, his arms on it, his legs below it. Keep the same pose, position and size as the person in image 1. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+          "workflow_sha256": "71b31d6020019405cb7f308b4d8f0923a2cac070ff332cd4efbff79409e80a21"
+        }
+      ]
+    },
+    {
+      "rect": [
+        142,
+        259,
+        90,
+        190
+      ],
+      "cast": [
+        {
+          "character": "infoman",
+          "portrait": "pic/infoman",
+          "portrait_sha256": "2a097cca8335d0c9b4d066da7144f05e4e51cdb2b9fe48c2e16ba9ab164400d0",
+          "ref_crop": [
+            370,
+            60,
+            230,
+            350
+          ],
+          "rect": [
+            142,
+            259,
+            90,
+            190
+          ],
+          "seed": 1861,
+          "prompt": "Image 1 is a part of a smoky harbour tavern with one person in it. Replace that person with the person from image 2, the informant, a shady man in his forties with a dark beard and a turban-like headscarf, a black waistcoat over a white shirt: the very same person, with the same face, hair, figure and clothes as in image 2, sitting behind the right end of the round table, facing us, his forearms on it, his legs below it. Keep the same pose, position and size as the person in image 1. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+          "workflow_sha256": "9b58bf7b63675dcb932562d3119a8fcd3d9e4bfac0f917e17ae8ce47850dfe94"
+        }
+      ]
+    },
+    {
+      "rect": [
+        349,
+        199,
+        79,
+        161
+      ],
+      "cast": null
+    }
+  ],
+  "comfyui": "0.42.0",
+  "generator": "cc7e124",
+  "date": "2026-10-27T01:05:33+00:00"
+}

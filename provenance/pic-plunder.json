@@ -1,0 +1,32 @@
+{
+  "id": "pic/plunder",
+  "file": "art/plunder.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph on the deck of a 17th-century sailing ship under a clear pale\nblue sky. Along the bottom third of the frame, four very different\npirates haul treasure across the deck by the rail: on the left a burly\nbald man in his forties with a thick black beard and a sleeveless brown\nleather jerkin, bent under a heavy wooden chest; next to him a skinny\nred-haired young man of twenty, freckled and clean-shaven, in a striped\nshirt and a blue headscarf, dragging a sack; then a grey-haired old\nsailor with a white stubble and a wide-brimmed straw hat, carrying a\nsmall iron-bound casket; on the right a tall dark-skinned man in his\nthirties with braided hair, a red sash and an open white shirt, lifting\na chest onto his shoulder. White sails at the left and right edges. The\nupper two thirds of the frame are open plain sky. Bright sunlight.\nHistorical reenactment photography, natural textures, sharp focus,\nrealistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "3050d7009f31175fb3e1d55f1bdd370272d38603bbe8a586a0629a2bdab40953",
+  "comfyui": "0.42.0",
+  "generator": "9e66d61",
+  "date": "2026-10-26T17:20:56+00:00"
+}
