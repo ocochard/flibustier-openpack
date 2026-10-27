@@ -48,7 +48,9 @@ picture pillarboxed on a 16:9 screen.
 - `provenance/`: one JSON file per asset, recording how it was made, so
   any picture can be traced and remade: the prompts, seed, models,
   sketches and masks used (with their SHA-256), the colour grade, and
-  the generator's git commit.
+  the generator's git commit.  `provenance/ships/` holds the ships' 3D
+  models (Blender files, built by `tools/artgen/ships/ship.py`), to open
+  and change.
 
 ## How the art is made
 

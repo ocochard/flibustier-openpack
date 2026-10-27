@@ -16,5 +16,6 @@
   "model": "ships/ship.py",
   "comfyui": "0.42.0",
   "generator": "1cb5967",
-  "date": "2026-10-27T18:57:34+00:00"
+  "date": "2026-10-27T18:57:34+00:00",
+  "blend": "provenance/ships/spr-ship1.blend"
 }
