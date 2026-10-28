@@ -1,0 +1,37 @@
+{
+  "id": "pic/lbat",
+  "file": "art/lbat.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Close-up photograph, straight on and flat, of a tall board of polished\nhoney-coloured oak, its fine straight grain running from top to bottom,\nfilling the whole image with no seam, edge, border or shadow, warm even\nlight. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": null,
+  "inpaint": null,
+  "grade": null,
+  "source": "layout described from the original screen",
+  "bevel": {
+    "masks": "layouts/lbat-panel",
+    "sha256": [
+      "70a9a031300c75f86a36ccd24f36de2e267feb9d5b760d77cd0e1cf9f950709a",
+      "678ac5ac432635a4478f9ee2d6588da3b0cd73e64a5102e37e9b681c1201acff"
+    ]
+  },
+  "cast": null,
+  "finish": null,
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "6da4e0cd1ef1e599d96dfb7bb45d49f69bcb6579e878834e81a3697c9346dd30",
+  "comfyui": "0.42.0",
+  "generator": "fd38f97",
+  "date": "2026-10-28T00:11:37+00:00"
+}

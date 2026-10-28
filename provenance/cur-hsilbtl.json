@@ -1,0 +1,16 @@
+{
+  "id": "cur/hsilbtl",
+  "file": "art/hsilbtl.sheet",
+  "atlas": "art/hsilbtl.png",
+  "profile": "draft",
+  "seed": 1660,
+  "prompts": [
+    "Photograph of a company of colonial soldiers in red coats and morion helmets advancing to the right with muskets and pikes, in open grassy hills under a blue sky, seen from the side in daylight. Historical reenactment photography, sharp focus, realistic.",
+    "Photograph of a company of colonial soldiers in red coats and morion helmets advancing to the right with muskets and pikes, in a dense tropical jungle of tall trees, seen from the side in daylight. Historical reenactment photography, sharp focus, realistic.",
+    "Photograph of a company of colonial soldiers in red coats and morion helmets advancing to the right with muskets and pikes, in a swamp of dead trees and tall reeds, with mangrove roots, under a teal sky, seen from the side in daylight. Historical reenactment photography, sharp focus, realistic.",
+    "Photograph of a company of colonial soldiers in red coats and morion helmets advancing to the right with muskets and pikes, the surf of a beach, wading through white foaming water up to their knees, seen from the side in daylight. Historical reenactment photography, sharp focus, realistic."
+  ],
+  "comfyui": "0.42.0",
+  "generator": "fd38f97",
+  "date": "2026-10-28T00:06:41+00:00"
+}
