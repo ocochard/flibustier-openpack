@@ -2,57 +2,52 @@
   "groups": {
     "grp/mybody": {
       "layer": "body",
-      "redrawn": true,
-      "prompt": "Photograph of a 17th-century buccaneer fighting with a sword, seen from the side, his bare head and face uncovered: a lean young man with long brown hair, a loose white linen shirt with full sleeves, a red sash at the waist, dark brown breeches and tall black boots; his empty left hand open, no second weapon, no mask, no helmet. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+      "photo": "body"
     },
     "grp/myrapier": {
       "layer": "rapier",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/mycutlas": {
       "layer": "cutlass",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/mysword": {
       "layer": "sword",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/myhead": {
       "layer": "head",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/mychest": {
       "layer": "chest",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/mylegs": {
       "layer": "legs",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     }
   },
   "frame": [
     317,
     202
   ],
+  "redraw": {
+    "body": "Photograph of a 17th-century buccaneer fighting with a sword, seen from the side facing left, his face in profile turned to the left, his bare head and face uncovered: a lean young man with long brown hair, a loose white linen shirt with full sleeves, a red sash at the waist, dark brown breeches and tall black boots; his empty left hand open, no second weapon, no mask, no helmet. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+  },
   "render": [
     951,
     609
   ],
-  "denoise": 0.6,
+  "denoise": 0.5,
   "blend": "provenance/fencers/my.blend",
-  "model_sha256": "a092689b6912185dc1f2946f3bdfc8f6b1806d662a155c6f375d8c3b85883c21",
+  "model_sha256": "6ef5455a7f8f972c571acdf16642662e3eccf2d2f5685f487851ab97fa1aae04",
   "id": "fencer/my",
   "profile": "draft",
   "seed": 1660,
   "model": "fencers/fencer.py",
   "comfyui": "0.42.0",
-  "generator": "2038eec",
-  "date": "2026-10-28T09:26:48+00:00",
-  "after": "every frame flipped left to right and moved +122 pixels, to face and stand as the game's (fencers/fencer.py renders so from now on)"
+  "generator": "9fea052",
+  "date": "2026-10-28T19:46:12+00:00"
 }

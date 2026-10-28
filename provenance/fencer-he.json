@@ -2,72 +2,66 @@
   "groups": {
     "grp/hebody": {
       "layer": "body",
-      "redrawn": true,
-      "prompt": "Photograph of a 17th-century soldier fighting with a sword, seen from the side, his bare face uncovered, a red kerchief on his hair, a black beard: a stocky man in a loose green linen shirt, a brown leather belt, black breeches and tall black boots; his empty left hand open, no second weapon. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+      "photo": "bodyref1"
     },
     "grp/hehead1": {
       "layer": "head1",
-      "redrawn": true,
-      "prompt": "Photograph of the head of a 17th-century sailor seen from the side: a hard face with a black beard, a red kerchief tied over his hair. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+      "photo": "bodyref1"
     },
     "grp/hehead2": {
       "layer": "head2",
-      "redrawn": true,
-      "prompt": "Photograph of the head of a 17th-century colonial officer seen from the side: a hard face with a black beard, a broad-brimmed black hat. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+      "photo": "bodyref2"
     },
     "grp/hehead3": {
       "layer": "head3",
-      "redrawn": true,
-      "prompt": "Photograph of the head of a 17th-century Spanish soldier seen from the side: a hard face with a black beard, a polished steel morion helmet with a crest and an upturned rim. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+      "photo": "bodyref3"
     },
     "grp/herapier": {
       "layer": "rapier",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/hecutlas": {
       "layer": "cutlass",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/hesword": {
       "layer": "sword",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/hehead": {
       "layer": "head",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/hechest": {
       "layer": "chest",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     },
     "grp/helegs": {
       "layer": "legs",
-      "redrawn": false,
-      "prompt": null
+      "photo": null
     }
   },
   "frame": [
     317,
     202
   ],
+  "redraw": {
+    "bodyref1": "Photograph of a 17th-century sailor fighting with a sword, seen from the side facing right, his face in profile turned to the right, toward his opponent, his face uncovered, a red kerchief tied over his hair, a black beard: a stocky man in a loose green linen shirt, a brown leather belt, black breeches and tall black boots; his empty left hand open, no second weapon. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic.",
+    "bodyref2": "Photograph of a 17th-century colonial officer fighting with a sword, seen from the side facing right, his face in profile turned to the right, toward his opponent, his face uncovered, a broad-brimmed black hat on his head, a black beard: a stocky man in a loose green linen shirt, a brown leather belt, black breeches and tall black boots; his empty left hand open, no second weapon. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic.",
+    "bodyref3": "Photograph of a 17th-century Spanish soldier fighting with a sword, seen from the side facing right, his face in profile turned to the right, toward his opponent, his face uncovered, a polished steel morion helmet with a crest and an upturned rim on his head, a black beard: a stocky man in a loose green linen shirt, a brown leather belt, black breeches and tall black boots; his empty left hand open, no second weapon. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+  },
   "render": [
     951,
     609
   ],
-  "denoise": 0.6,
+  "denoise": 0.5,
   "blend": "provenance/fencers/he.blend",
-  "model_sha256": "a092689b6912185dc1f2946f3bdfc8f6b1806d662a155c6f375d8c3b85883c21",
+  "model_sha256": "6ef5455a7f8f972c571acdf16642662e3eccf2d2f5685f487851ab97fa1aae04",
   "id": "fencer/he",
   "profile": "draft",
   "seed": 1661,
   "model": "fencers/fencer.py",
   "comfyui": "0.42.0",
-  "generator": "73db2e3",
-  "date": "2026-10-28T12:24:42+00:00",
-  "after": "every frame flipped left to right and moved -128 pixels, to face and stand as the game's (fencers/fencer.py renders so from now on)"
+  "generator": "9fea052",
+  "date": "2026-10-28T22:10:01+00:00"
 }

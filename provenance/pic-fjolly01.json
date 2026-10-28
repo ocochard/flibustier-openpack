@@ -1,13 +1,13 @@
 {
   "design": "A simple flat emblem in the style of a crude stencil or woodcut, solid flat shapes with hard edges, no shading, no texture, no detail, filling the whole picture edge to edge on a plain solid black background: a white skeleton holding an hourglass in one hand and a spear in the other, facing a man raising a cup.",
   "torn": true,
-  "model_sha256": "7c486515ecb7bb2a13f41802a162072e35181a27fa870e6e18938bdc8c8b52a6",
+  "model_sha256": "a133668bdbb458f1c4acfcf6ee206103fe157d16eb3bbce1e7cb2415c2da2ea9",
   "id": "pic/fjolly01",
   "file": "art/fjolly01.png",
   "profile": "draft",
   "seed": 1660,
   "model": "flags/flag.py",
   "comfyui": "0.42.0",
-  "generator": "21571e4",
-  "date": "2026-10-28T15:36:59+00:00"
+  "generator": "9fea052",
+  "date": "2026-10-28T22:30:00+00:00"
 }

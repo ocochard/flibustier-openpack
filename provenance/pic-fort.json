@@ -7,23 +7,17 @@
   ],
   "profile": "draft",
   "seed": 1660,
-  "prompt": "Photograph in bright daylight along the top of the stone rampart of a\nSpanish fort in the Caribbean in the 1650s, seen from a little above\non the walkway. Across the back, a low wall of rough grey stone\nbattlements; beyond it, the deep blue sea to the horizon with a green\nisland on the right, under a blue sky with white clouds. On the left,\na wooden gallows post rises against the sky; on the right, a wooden\nladder leans against the rampart. In front of the battlements, a long\nwooden rail on posts with coiled rope and a hanging bucket. The walkway\nin front, from the foot of the rail to the bottom of the picture, is\nwide empty flagstones, open for two men to fight on. Nobody is on it.\nHistorical reenactment photography, sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "prompt": "Wide photograph in bright daylight along the top of the stone rampart\nof a Spanish fort in the Caribbean in the 1650s, seen from a little\nabove on the walkway and from far back, so the whole rampart is small in\nthe picture. Across the back, one single low parapet wall of rough\ngrey stone, only as high as a man's chest, a single row of small\nmerlons along its top, nothing behind or above it but the sea; beyond\nit, the deep blue sea to the horizon with a green island on the right,\nunder a blue sky with white clouds. On the far left, a small wooden\ngallows post against the sky. In front of the battlements, a low wooden\nrail on short posts, waist high. The walkway in front, from the foot of\nthe rail to the bottom of the picture, is wide empty flagstones, open\nfor two men to fight on. No ladder, no bucket, no barrels. Nobody is on\nit. Historical reenactment photography, sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
   "frame": null,
   "field": null,
   "control": {
     "sketch": "layouts/fort.png",
-    "sha256": "1190af6d933731027c79fd0c94f9ece587fbd39df2fcedd935309c7e8c5f6a79",
+    "sha256": "4d32deb42d09fcaa05322373fe1f2b5eeafab950982192ad3d33f6187a9df142",
     "strength": 0.85,
     "end": 0.6
   },
   "inpaint": null,
-  "grade": {
-    "reference": "art/governor.png",
-    "method": "reinhard_lab",
-    "strength": 0.5,
-    "contrast": 1.05,
-    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
-  },
+  "grade": null,
   "source": "layout described from the original screen",
   "bevel": {
     "masks": "layouts/duel-panel",
@@ -42,8 +36,8 @@
     "vae": "qwen_image_vae.safetensors",
     "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
   },
-  "workflow_sha256": "229ee0450cd36028bc452307dc50c1ee5d7609de10c29c713c065ecf0cd57d56",
+  "workflow_sha256": "96058905fdaeb2f5b5007db84b2d1a11bc2dc9591d0e33a5f436fc2473f70779",
   "comfyui": "0.42.0",
-  "generator": "dcc07bc",
-  "date": "2026-10-27T17:18:57+00:00"
+  "generator": "9fea052",
+  "date": "2026-10-28T18:58:34+00:00"
 }
