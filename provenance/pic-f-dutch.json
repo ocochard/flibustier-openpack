@@ -1,0 +1,13 @@
+{
+  "design": "Flat straight-on photograph of a whole rectangular flag of old, worn, hand-sewn linen, laid flat and filling the whole picture edge to edge, no pole, no background: the flag of Holland: golden yellow with a red lion standing on its hind legs, holding a sword, the colours slightly faded.",
+  "torn": false,
+  "model_sha256": "7c486515ecb7bb2a13f41802a162072e35181a27fa870e6e18938bdc8c8b52a6",
+  "id": "pic/f-dutch",
+  "file": "art/f-dutch.png",
+  "profile": "draft",
+  "seed": 1660,
+  "model": "flags/flag.py",
+  "comfyui": "0.42.0",
+  "generator": "21571e4",
+  "date": "2026-10-28T14:13:13+00:00"
+}

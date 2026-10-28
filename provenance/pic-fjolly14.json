@@ -1,0 +1,13 @@
+{
+  "design": "A simple flat emblem in the style of a crude stencil or woodcut, solid flat shapes with hard edges, no shading, no texture, no detail, filling the whole picture edge to edge on a plain solid black background: a white man walking with a cutlass, and a small white skull and crossbones. No frame, no border, no box around it.",
+  "torn": true,
+  "model_sha256": "7c486515ecb7bb2a13f41802a162072e35181a27fa870e6e18938bdc8c8b52a6",
+  "id": "pic/fjolly14",
+  "file": "art/fjolly14.png",
+  "profile": "draft",
+  "seed": 1661,
+  "model": "flags/flag.py",
+  "comfyui": "0.42.0",
+  "generator": "21571e4",
+  "date": "2026-10-28T16:12:24+00:00"
+}
