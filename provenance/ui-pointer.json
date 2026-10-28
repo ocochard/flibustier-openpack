@@ -1,0 +1,14 @@
+{
+  "size": [
+    54,
+    61
+  ],
+  "prompt": "Photograph of a single cutlass of about 1700 lying diagonally across a\nplain flat light grey background, seen from above, its point at the\ntop left corner and its hilt at the bottom right: a short, broad,\nslightly curved steel blade sharpened on one edge, a polished gilded\nbrass shell guard and knuckle bow shining gold, and a deep red grip\nwrapped with fine gold wire, a round gilt pommel. Studio light, sharp\nfocus, realistic.",
+  "id": "ui/pointer",
+  "file": "art/pointer.sheet",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "1db42d1",
+  "date": "2026-10-28T17:33:05+00:00"
+}

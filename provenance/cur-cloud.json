@@ -1,0 +1,19 @@
+{
+  "size": [
+    112,
+    38
+  ],
+  "prompts": [
+    "Aerial photograph taken straight down from high above of a single long, flat white cumulus cloud alone on a pure black background, soft fluffy edges, nothing else.",
+    "Aerial photograph taken straight down from high above of a single round, puffy white cumulus cloud alone on a pure black background, soft fluffy edges, nothing else.",
+    "Aerial photograph taken straight down from high above of a single ragged, broken white cumulus cloud alone on a pure black background, soft fluffy edges, nothing else."
+  ],
+  "shadow": 0.45,
+  "id": "cur/cloud",
+  "file": "art/clouds.sheet",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "1db42d1",
+  "date": "2026-10-28T17:20:15+00:00"
+}
