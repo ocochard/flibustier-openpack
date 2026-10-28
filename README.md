@@ -105,3 +105,14 @@ in `music/CREDITS.txt` and in `pack.d/music.ini`, which maps each tune of
 the game to a track (variants such as `music/tavern-2` are picked at
 random). `tools/music_pack.py` in the flibustier repository rebuilds
 them from the album.
+
+## Fonts
+
+The `fonts/` directory holds two typefaces under the SIL Open Font
+License 1.1 (each directory's `OFL.txt`), not this pack's licence:
+**IM Fell English** by Igino Marini, for the text, and **Pirata One** by
+Rodrigo Fuenzalida and Nicolas Massi, for the large headings and the drop
+capitals. `pack.d/fonts.ini` maps the game's fonts to them, and each
+`.font` file sets its size and baseline in the original's 640x480 line.
+`tools/font_pack.py` in the flibustier repository fetches them, pinned
+and checked by SHA-256, and rewrites these files.
