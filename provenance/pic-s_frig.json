@@ -1,0 +1,14 @@
+{
+  "class": "frigate",
+  "denoise": 0.75,
+  "prompt": "Photograph of a sleek Dutch light frigate of about 1665, a low-slung,\nfine-lined hull with one continuous row of gun ports and a short raised\nbow deck, a modest raised quarterdeck ending in a flat carved transom\nwith light gilding: square courses, topsails and topgallants, a lateen\nmizzen under a small square topsail, a spritsail and spritsail topsail,\na black hull with yellow-ochre bands and red gun-port lids, under sail\nat sea, seen from low over the water, her bow to the left and a little\ntowards us, a blue sea with white crests and the open sea running to the\nhorizon all round her and a sky of soft even blue with a few white\nclouds, a natural photograph with no frame, no border and no circle.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone.",
+  "model_sha256": "4f1c05e4d0cb1eaceb835b8f2cff98945fb31445f15a6dbd9f993a9974f77853",
+  "id": "pic/s_frig",
+  "file": "art/s_frig.png",
+  "profile": "draft",
+  "seed": 1660,
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "9a82723",
+  "date": "2026-10-28T13:33:00+00:00"
+}

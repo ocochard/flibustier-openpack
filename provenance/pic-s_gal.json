@@ -1,0 +1,14 @@
+{
+  "class": "galleon",
+  "denoise": 0.75,
+  "prompt": "Photograph of a Spanish treasure galleon of about 1600 with a broad\nhull, a high wooden stern rising three decks, its flat planked transom\npainted with saints and quarter galleries, a lower raised bow deck and a\nlong, low beakhead: square courses and topsails on the fore and main\nmasts, a lateen mizzen, two square sails on the bowsprit, an ochre and\ndark red hull with gilded trim and gun ports, under sail at sea, seen\nfrom low over the water, her bow to the left and a little towards us, a\nblue sea with white crests and the open sea running to the horizon all\nround her and a sky of soft even blue with a few white clouds, a natural\nphotograph with no frame, no border and no circle. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone.",
+  "model_sha256": "4f1c05e4d0cb1eaceb835b8f2cff98945fb31445f15a6dbd9f993a9974f77853",
+  "id": "pic/s_gal",
+  "file": "art/s_gal.png",
+  "profile": "draft",
+  "seed": 1660,
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "9a82723",
+  "date": "2026-10-28T13:36:04+00:00"
+}

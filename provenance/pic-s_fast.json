@@ -1,0 +1,14 @@
+{
+  "class": "fast galleon",
+  "denoise": 0.75,
+  "prompt": "Photograph of a sleek English race-built galleon of the 1580s, a low,\nlong hull with a low stern and bow, a small raised bow deck and a\nmoderately raised stern with a square transom and a small gallery, one\nrow of gun ports: square courses and topsails on the fore and main\nmasts, a lateen mizzen, a spritsail, the hull painted in bold red, gold\nand black bands, red below and black above, under sail at sea, seen from\nlow over the water, her bow to the left and a little towards us, a blue\nsea with white crests and the open sea running to the horizon all round\nher and a sky of soft even blue with a few white clouds, a natural\nphotograph with no frame, no border and no circle. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone.",
+  "model_sha256": "4f1c05e4d0cb1eaceb835b8f2cff98945fb31445f15a6dbd9f993a9974f77853",
+  "id": "pic/s_fast",
+  "file": "art/s_fast.png",
+  "profile": "draft",
+  "seed": 1660,
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "9a82723",
+  "date": "2026-10-28T13:37:37+00:00"
+}

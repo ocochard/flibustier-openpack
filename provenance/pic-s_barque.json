@@ -1,0 +1,14 @@
+{
+  "class": "barque",
+  "denoise": 0.75,
+  "prompt": "Photograph of a small three-masted Elizabethan bark with a stout, plain\nwooden hull, a modest raised bow deck and a raised square stern: square\ncourse and topsail on the fore and main masts, a single lateen sail on\nthe short mizzen, a spritsail under the raked bowsprit, a tarred brown\nhull with a few red gun-port lids, under sail at sea, seen from low over\nthe water, her bow to the left and a little towards us, a blue sea with\nwhite crests and the open sea running to the horizon all round her and a\nsky of soft even blue with a few white clouds, a natural photograph with\nno frame, no border and no circle. Historical reenactment photography,\nsharp focus, realistic. The whole ship is built of planked wood: no\ntower, nothing of stone.",
+  "model_sha256": "4f1c05e4d0cb1eaceb835b8f2cff98945fb31445f15a6dbd9f993a9974f77853",
+  "id": "pic/s_barque",
+  "file": "art/s_barque.png",
+  "profile": "draft",
+  "seed": 1660,
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "9a82723",
+  "date": "2026-10-28T13:28:25+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "class": "pinnace",
+  "denoise": 0.75,
+  "prompt": "Photograph of a small, slim Dutch three-masted pinnace in dark oiled\noak: a low single-deck hull with a modest raised stern ending in a flat,\nsquare transom, a short beakhead, square course and topsail on the fore\nand main masts, a triangular lateen sail on the small mizzen, a square\nspritsail under the bowsprit, a few gun ports, under sail at sea, seen\nfrom low over the water, her bow to the left and a little towards us, a\nblue sea with white crests and the open sea running to the horizon all\nround her and a sky of soft even blue with a few white clouds, a natural\nphotograph with no frame, no border and no circle. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone.",
+  "model_sha256": "4f1c05e4d0cb1eaceb835b8f2cff98945fb31445f15a6dbd9f993a9974f77853",
+  "id": "pic/s_pinn",
+  "file": "art/s_pinn.png",
+  "profile": "draft",
+  "seed": 1660,
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "9a82723",
+  "date": "2026-10-28T13:25:20+00:00"
+}

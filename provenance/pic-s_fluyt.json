@@ -1,0 +1,14 @@
+{
+  "class": "fluyt",
+  "denoise": 0.75,
+  "prompt": "Photograph of a Dutch fluyt of the 1650s, a long narrow cargo ship whose\nsides curve sharply inward above the waterline, a rounded stern topped\nby a tall, narrow, flat transom with a small carved panel, almost no\nraised bow deck, three tall masts with square sails on the fore and\nmain, a lateen mizzen and a spritsail, a dark varnished hull with green\nand ochre trim and few gun ports, under sail at sea, seen from low over\nthe water, her bow to the left and a little towards us, a blue sea with\nwhite crests and the open sea running to the horizon all round her and a\nsky of soft even blue with a few white clouds, a natural photograph with\nno frame, no border and no circle. Historical reenactment photography,\nsharp focus, realistic. The whole ship is built of planked wood: no\ntower, nothing of stone.",
+  "model_sha256": "4f1c05e4d0cb1eaceb835b8f2cff98945fb31445f15a6dbd9f993a9974f77853",
+  "id": "pic/s_fluyt",
+  "file": "art/s_fluyt.png",
+  "profile": "draft",
+  "seed": 1660,
+  "model": "ships/ship.py",
+  "comfyui": "0.42.0",
+  "generator": "9a82723",
+  "date": "2026-10-28T13:29:56+00:00"
+}
