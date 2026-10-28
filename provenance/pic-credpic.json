@@ -15,6 +15,8 @@
     404
   ],
   "field": "#CD9462",
+  "control": null,
+  "inpaint": null,
   "grade": {
     "reference": "art/governor.png",
     "method": "reinhard_lab",
@@ -23,6 +25,9 @@
     "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
   },
   "source": "layout described from the original screen",
+  "bevel": null,
+  "cast": null,
+  "finish": null,
   "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
   "models": {
     "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
@@ -30,8 +35,8 @@
     "vae": "qwen_image_vae.safetensors",
     "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
   },
-  "workflow_sha256": "fb0edd98eec642071d627b8d0f297f880b734299a35169ed1f930c184326ccd5",
+  "workflow_sha256": "b8ff5cbbcc114975c9e64b2321ba2c424c13574d301b3607cfcb425f40239d95",
   "comfyui": "0.42.0",
-  "generator": "9e66d61",
-  "date": "2026-10-26T17:02:23+00:00"
+  "generator": "73db2e3",
+  "date": "2026-10-28T12:57:09+00:00"
 }

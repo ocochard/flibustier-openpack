@@ -1,0 +1,73 @@
+{
+  "groups": {
+    "grp/hebody": {
+      "layer": "body",
+      "redrawn": true,
+      "prompt": "Photograph of a 17th-century soldier fighting with a sword, seen from the side, his bare face uncovered, a red kerchief on his hair, a black beard: a stocky man in a loose green linen shirt, a brown leather belt, black breeches and tall black boots; his empty left hand open, no second weapon. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+    },
+    "grp/hehead1": {
+      "layer": "head1",
+      "redrawn": true,
+      "prompt": "Photograph of the head of a 17th-century sailor seen from the side: a hard face with a black beard, a red kerchief tied over his hair. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+    },
+    "grp/hehead2": {
+      "layer": "head2",
+      "redrawn": true,
+      "prompt": "Photograph of the head of a 17th-century colonial officer seen from the side: a hard face with a black beard, a broad-brimmed black hat. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+    },
+    "grp/hehead3": {
+      "layer": "head3",
+      "redrawn": true,
+      "prompt": "Photograph of the head of a 17th-century Spanish soldier seen from the side: a hard face with a black beard, a polished steel morion helmet with a crest and an upturned rim. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
+    },
+    "grp/herapier": {
+      "layer": "rapier",
+      "redrawn": false,
+      "prompt": null
+    },
+    "grp/hecutlas": {
+      "layer": "cutlass",
+      "redrawn": false,
+      "prompt": null
+    },
+    "grp/hesword": {
+      "layer": "sword",
+      "redrawn": false,
+      "prompt": null
+    },
+    "grp/hehead": {
+      "layer": "head",
+      "redrawn": false,
+      "prompt": null
+    },
+    "grp/hechest": {
+      "layer": "chest",
+      "redrawn": false,
+      "prompt": null
+    },
+    "grp/helegs": {
+      "layer": "legs",
+      "redrawn": false,
+      "prompt": null
+    }
+  },
+  "frame": [
+    317,
+    202
+  ],
+  "render": [
+    951,
+    609
+  ],
+  "denoise": 0.6,
+  "blend": "provenance/fencers/he.blend",
+  "model_sha256": "a092689b6912185dc1f2946f3bdfc8f6b1806d662a155c6f375d8c3b85883c21",
+  "id": "fencer/he",
+  "profile": "draft",
+  "seed": 1661,
+  "model": "fencers/fencer.py",
+  "comfyui": "0.42.0",
+  "generator": "73db2e3",
+  "date": "2026-10-28T12:24:42+00:00",
+  "after": "every frame flipped left to right and moved -128 pixels, to face and stand as the game's (fencers/fencer.py renders so from now on)"
+}
