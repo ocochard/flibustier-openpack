@@ -1,0 +1,42 @@
+{
+  "id": "pic/sail-ho",
+  "file": "art/sail-ho.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph of a lookout high on the rigging of a 17th-century sailing\nship, a lean tanned sailor in his thirties with a red headscarf, a short\nblack beard, an open brown leather vest and loose red breeches, holding\na brass spyglass to his eye and gazing far out to sea, one hand gripping\nthe shrouds; behind him a big billowing canvas sail, ropes and a blue\nsky with white clouds, historical reenactment photography. The photograph is mounted in an ornate antique gilded wooden picture\nframe that fills the whole image edge to edge, no wall around it. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": [
+    209,
+    5,
+    225,
+    242
+  ],
+  "field": "#830000",
+  "control": null,
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout described from the original screen",
+  "bevel": null,
+  "cast": null,
+  "finish": null,
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "eb517363009b5b71a73134a49fd38145ab3270156415f6a1b535f01bf1bdbc24",
+  "comfyui": "0.42.0",
+  "generator": "ec18b61",
+  "date": "2026-10-29T11:43:12+00:00"
+}
