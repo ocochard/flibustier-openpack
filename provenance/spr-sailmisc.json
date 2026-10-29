@@ -1,0 +1,21 @@
+{
+  "render": [
+    384,
+    624
+  ],
+  "frame": [
+    36,
+    58
+  ],
+  "blend": "provenance/fencers/walker.blend",
+  "redrawn": false,
+  "prompt": "Photograph from above at a slant of a 17th-century sailor walking: a loose white linen shirt, a red sash, dark brown breeches, black boots, a red kerchief tied over his hair, his face uncovered. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic.",
+  "model_sha256": "be69cbff639cc9734b15e032ba5147e745dcced8019f414c92c5c08298962f98",
+  "id": "spr/sailmisc",
+  "file": "art/sailmisc.sheet",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "e61e23a",
+  "date": "2026-10-29T10:31:25+00:00"
+}
