@@ -1,0 +1,39 @@
+{
+  "banks": {
+    "spr/bigfen": "art/bigfen.sheet",
+    "spr/bigcha": "art/bigcha.sheet",
+    "spr/bignav": "art/bignav.sheet",
+    "spr/biggun": "art/biggun.sheet",
+    "spr/bigmed": "art/bigmed.sheet",
+    "spr/bigsflg": "art/bigsflg.sheet",
+    "spr/bigeflg": "art/bigeflg.sheet",
+    "spr/bigfflg": "art/bigfflg.sheet",
+    "spr/bigdflg": "art/bigdflg.sheet",
+    "spr/bigman0": "art/bigman0.sheet",
+    "spr/bigman1": "art/bigman1.sheet",
+    "spr/bigman2": "art/bigman2.sheet",
+    "spr/bigman3": "art/bigman3.sheet"
+  },
+  "items": {
+    "bigfen": "Photograph of a single 17th-century rapier standing upright, its point down, a swept steel hilt with curling guards and a dark wire-bound grip at the top, its long slender blade bright, alone on a plain light grey background, seen from the front, studio light, sharp focus, realistic.",
+    "bigcha": "Photograph of a single deep red rose in full bloom on a long green stem with two leaves, standing upright, alone on a plain light grey background, studio light, sharp focus, realistic.",
+    "bignav": "Photograph from straight above of an old brass mariner's astrolabe lying on a dark blue star chart drawn on old paper, the chart's stars and lines faint, the astrolabe's ring and pointer worn and glinting, filling the picture, warm candle light, sharp focus, realistic.",
+    "biggun": "Photograph of a single 17th-century black iron ship's cannon on its wooden carriage with four small wooden wheels, seen from the front left at an angle, its muzzle pointing to the upper right, alone on a plain light grey background, studio light, sharp focus, realistic.",
+    "bigmed": "Photograph of a single old bronze caduceus standing upright: a short staff with two snakes coiled around it and a pair of spread wings at its top, alone on a plain light grey background, seen from the front, studio light, sharp focus, realistic.",
+    "bigsflg": "pic/f-span",
+    "bigeflg": "pic/f-engl",
+    "bigfflg": "pic/f-french",
+    "bigdflg": "pic/f-dutch",
+    "bigman0": "Head and shoulders portrait photograph of a young buccaneer of twenty five, lean, clean-shaven, long brown hair under a red kerchief, a gold ring in one ear, an open white linen shirt, against a pale blue sky, historical reenactment photography, sharp focus, realistic.",
+    "bigman1": "Head and shoulders portrait photograph of a buccaneer of thirty with long brown hair and a thin moustache, a brown leather coat over an open white shirt, against a cloudy evening sky, historical reenactment photography, sharp focus, realistic.",
+    "bigman2": "Head and shoulders portrait photograph of a sea captain of thirty five with long brown hair, a moustache and a small beard, a black tricorn hat, a dark blue coat with brass buttons and a leather baldric, against a blue sky with white clouds, historical reenactment photography, sharp focus, realistic.",
+    "bigman3": "Head and shoulders portrait photograph of a famous pirate captain of forty with long dark curled hair, a moustache and a pointed beard, a broad black hat with a red plume, a rich red velvet coat with gold braid and a lace collar, against a stormy red sunset sky, historical reenactment photography, sharp focus, realistic."
+  },
+  "id": "spr/bigfen",
+  "file": "art/bigfen.sheet",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "fb2b221",
+  "date": "2026-10-29T08:42:02+00:00"
+}
