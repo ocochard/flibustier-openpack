@@ -627,7 +627,8 @@
    "Mutin",
    "Capitaine ennemi",
    "Capitaine",
-   "Second"
+   "Second",
+   "%2$s %1$s"
   ],
   "75": [
    "au nord",
