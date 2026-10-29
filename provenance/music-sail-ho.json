@@ -1,0 +1,8 @@
+{
+ "id": "music/sail-ho",
+ "file": "music/sail-ho.ogg",
+ "source": "a marine whistle, recorded for the pack by Olivier Cochard-Labbé",
+ "original": "whistle-burst1.wav, 48 kHz 16-bit stereo, 2.84 s",
+ "encoding": "ffmpeg libvorbis -q:a 6",
+ "date": "2026-10-29"
+}
