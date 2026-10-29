@@ -1,0 +1,15 @@
+{
+  "paint": {
+    "wood": "Close-up photograph taken straight on, perfectly flat with no perspective, of an old table top of warm dark oak planks lying side by side, their grain running across, a few knots, even warm light, no shadow, filling the whole image.",
+    "view": "Photograph of a wide bright blue sky full of soft white cumulus clouds, and only at the very bottom of the picture a thin strip of calm blue sea along a low horizon, nothing on it, no land, no ship.",
+    "brass": "Close-up photograph, straight on and perfectly flat, of a plain sheet of old brushed brass, warm gold, fine straight brushing lines running across, slightly worn, even light, no reflection, no curve, no ridge, filling the whole image.",
+    "parchment": "Close-up photograph, straight on and flat, of smooth old cream parchment, faintly mottled, no folds, no creases, no lines, even light, filling the whole image, no writing."
+  },
+  "id": "pic/shipsel",
+  "file": "art/shipsel.png",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "b761c34",
+  "date": "2026-10-29T21:26:50+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "paint": {
+    "sea": "Close-up photograph, straight on and flat, of a sheet of old paper evenly washed with deep teal-blue paint, smooth and faintly mottled, no waves, no pattern, no picture, even light, filling the whole image.",
+    "land": "Close-up photograph, straight on and flat, of old warm tan parchment, faintly stained and mottled, even light, filling the whole image, no writing.",
+    "wood": "Close-up photograph taken straight on, perfectly flat with no perspective, of an old table top of warm honey-coloured oak planks lying side by side, their grain running across, even warm light, no shadow, filling the whole image.",
+    "brass": "Close-up photograph, straight on and flat, of old polished brass, warm and slightly worn, soft highlights, filling the whole image, no pattern.",
+    "compass": "Photograph of a single round brass compass rose medallion engraved with a sun face and the four points, seen straight on, alone on a plain light grey background, studio light, sharp focus, realistic."
+  },
+  "id": "pic/citymap",
+  "file": "art/citymap.png",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "b761c34",
+  "date": "2026-10-29T21:29:21+00:00"
+}

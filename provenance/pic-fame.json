@@ -1,0 +1,43 @@
+{
+  "id": "pic/fame",
+  "file": "art/fame.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph, straight on, of a hall of honour in a Caribbean governor's\npalace of the 1660s: across the top a heavy carved and gilded wooden\npediment with a plain cream silk ribbon banner hung across its middle,\nnothing written on it; two carved gilded pillars standing down the left\nand right; between them, filling the middle from under the pediment to\nthe floor, a deep red velvet curtain hanging in soft folds, dark and\nplain; the walls beyond the pillars in deep shadow, nearly black. Warm\ncandle light, sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/fame.png",
+    "sha256": "89cad88c48c12bde602d536ee3fc4194b79eff1a74e8fbc0624e92b7e9fa7985",
+    "strength": 0.8,
+    "end": 0.55
+  },
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout from the game's hall of fame rows",
+  "bevel": null,
+  "cast": null,
+  "finish": null,
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "79719a941f70afde547ede33b0c4dcc5d8d9cca5efa448652a684a5e258b48e6",
+  "comfyui": "0.42.0",
+  "generator": "b761c34",
+  "date": "2026-10-29T21:35:45+00:00"
+}

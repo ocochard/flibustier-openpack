@@ -1,0 +1,43 @@
+{
+  "id": "pic/idselect",
+  "file": "art/idselect.png",
+  "size": [
+    1440,
+    1080
+  ],
+  "profile": "draft",
+  "seed": 1660,
+  "prompt": "Photograph, straight on and filling the whole picture, of an old deep\nnavy-blue shipwright's drawing on paper, faint pale blue lines of a\nship's hull and rigging all over it, and on it, in the\nupper middle, an ornate oval picture frame of dark carved bronze with\ngilt highlights, a crest of carved leaves on its top, its inside empty\nand black; across the lower part, a long unrolled cream parchment scroll\nwith curled ends, its middle plain and empty. Sharp focus, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "frame": null,
+  "field": null,
+  "control": {
+    "sketch": "layouts/idselect.png",
+    "sha256": "4f4e9a0f0b0f8282ebbdf3f9e36c065f411e5d7ce0ed966ad3ca8a2b32d8fdf3",
+    "strength": 0.85,
+    "end": 0.6
+  },
+  "inpaint": null,
+  "grade": {
+    "reference": "art/governor.png",
+    "method": "reinhard_lab",
+    "strength": 0.5,
+    "contrast": 1.05,
+    "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
+  },
+  "source": "layout from the game's identity screen places",
+  "bevel": null,
+  "cast": null,
+  "finish": null,
+  "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
+  "models": {
+    "controlnet": "qwen_image_canny_diffsynth_controlnet.safetensors",
+    "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
+    "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    "vae": "qwen_image_vae.safetensors",
+    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+  },
+  "workflow_sha256": "4c0535a2616a5c8e4e57c59200f1fc6d3af5d3db9f091d8212e3358a1b8199d4",
+  "comfyui": "0.42.0",
+  "generator": "b761c34",
+  "date": "2026-10-29T20:59:28+00:00"
+}
