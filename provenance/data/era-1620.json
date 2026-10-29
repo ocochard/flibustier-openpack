@@ -1,0 +1,8 @@
+{
+  "id": "data/era/1620",
+  "file": "data/era-1620.json",
+  "generator": "6b3c64b",
+  "module": "tools/opendata/tables/era.py",
+  "date": "2026-10-29",
+  "design": "Designed for the open pack, from history and sailing physics; nothing from the original game.  Speeds: a square-rig and a fore-and-aft polar (best on the quarter and on the beam, astern head to wind) blended per class by its rig and scaled by its best speed, square rigs gaining weatherliness by era (0.2 here).  Ships met: per region five archetypes from the least to the most dangerous, chosen for the era's history (the Dutch war resumes and the Thirty Years' War spreads to the colonies), navies scaled x0.90, raiders' role +1, Spanish gold x1.00, goods x1.00; the treasure galleon's gold factor 80.  Enemy captain: strength = 2 x hull + guns + crew comparison + nerve 0; he boards when ahead with the stronger crew, lies broadside when ahead, runs when behind or holed.  Diplomacy range 90, Spanish shipwrights' tolerance 55 (loosening as Spain's monopoly weakens)."
+}

@@ -1,7 +1,7 @@
 {
   "id": "data/layout/cabin",
   "file": "data/layout-cabin.json",
-  "generator": "7f45cde",
+  "generator": "6b3c64b",
   "module": "tools/opendata/tables/layouts.py",
   "date": "2026-10-29",
   "design": "Measured on the open pack's art/cabin.png scaled to 640x480 over a 20-pixel grid: each spot covers the object that stands for it (telescope, chart, chest, book, globe, boots, mirror, sill book, drawers, bed, crossed swords). Divide and join party, which the engine never offers, are off."

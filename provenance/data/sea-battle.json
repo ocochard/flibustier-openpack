@@ -1,0 +1,8 @@
+{
+  "id": "data/sea-battle",
+  "file": "data/sea-battle.json",
+  "generator": "6b3c64b",
+  "module": "tools/opendata/tables/sea_battle.py",
+  "date": "2026-10-29",
+  "design": "Designed for the open pack; nothing from the original game. Hit boxes: the mean half extent over 16 headings of the open battle ship sprites (opaque hull and sails, 1080-line art scaled to 640x480), one sprite per size of three types, the three types of a size at 0.9, 1.0 and 1.1 of it so a bigger ship is easier to hit; the fort's entry, not read by the engine, is a 48-pixel square. Widening: 4 quarters at the easiest level down to none at the hardest. Shot arc: a parabola 12 pixels high over the 16 steps, 0 at both ends; the spread opens one frame every 4 steps. Bow cross: an ellipse measured on the medium ship's bow (20.9 pixels east and west, 16.4 north and south) plus a 5-pixel gap, at the 16 headings clockwise from north, offset by the drawing's origin (29, 21)."
+}
