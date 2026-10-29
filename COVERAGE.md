@@ -31,14 +31,14 @@ The pack also holds 1 assets the engine does not ask for: `ui/pointer`.
 
 ## Text entries
 
-Entries the original's tables have and the pack's lack (shown empty in the game).
+Entries the engine reads (the text catalogue) that the original's tables have and the pack's lack (shown empty in the game).
 
-- `text/eng/cstn`: 11 missing: group 0 (0 of 1 words), group 1 (0 of 1 words), group 17 (0 of 5 words), group 19 (0 of 4 words), group 24 (0 of 3 words), group 76 (0 of 12 words), group 85 (0 of 1 words), group 88 (0 of 1 words), group 91 (0 of 20 words), group 102 (0 of 5 words), group 103 (0 of 3 words)
-- `text/eng/cstr`: 55 missing: string 4, string 5, string 6, string 11, string 12, string 16, string 28, string 29, string 30, string 47, string 50, string 51, string 52, string 53, string 54, string 55, string 56, string 57, string 58, string 59, string 60, string 61, string 63, string 71, string 79, string 80, string 81, string 83, string 84, string 92, string 93, string 98, string 99, string 102, string 103, string 106, string 111, string 123, string 128, string 129, string 150, string 172, string 255, string 276, string 278, string 280, string 281, string 287, string 288, string 289, string 310, string 311, string 314, string 316, string 318
-- `text/fre/cstn`: 11 missing: group 0 (0 of 1 words), group 1 (0 of 1 words), group 17 (0 of 5 words), group 19 (0 of 4 words), group 24 (0 of 3 words), group 76 (0 of 12 words), group 85 (0 of 1 words), group 88 (0 of 1 words), group 91 (0 of 20 words), group 102 (0 of 5 words), group 103 (0 of 3 words)
-- `text/fre/cstr`: 52 missing: string 4, string 5, string 11, string 12, string 16, string 28, string 29, string 30, string 47, string 50, string 51, string 52, string 53, string 54, string 55, string 56, string 57, string 58, string 59, string 60, string 61, string 63, string 71, string 79, string 80, string 81, string 83, string 84, string 92, string 93, string 98, string 99, string 102, string 103, string 106, string 111, string 123, string 128, string 129, string 150, string 172, string 255, string 276, string 278, string 280, string 281, string 287, string 288, string 289, string 310, string 311, string 318
-- `text/ger/cstn`: 13 missing: group 0 (0 of 1 words), group 1 (0 of 1 words), group 17 (0 of 5 words), group 19 (0 of 4 words), group 24 (0 of 3 words), group 25 (9 of 11 words), group 76 (0 of 12 words), group 82 (4 of 5 words), group 85 (0 of 1 words), group 88 (0 of 1 words), group 91 (0 of 20 words), group 102 (0 of 5 words), group 103 (0 of 3 words)
-- `text/ger/cstr`: 51 missing: string 4, string 5, string 11, string 12, string 16, string 28, string 29, string 30, string 47, string 50, string 51, string 52, string 53, string 54, string 55, string 56, string 57, string 58, string 59, string 60, string 61, string 63, string 71, string 79, string 80, string 81, string 83, string 84, string 92, string 93, string 98, string 99, string 102, string 103, string 106, string 111, string 123, string 128, string 129, string 150, string 172, string 255, string 278, string 280, string 281, string 287, string 288, string 289, string 310, string 311, string 318
+- `text/eng/cstn`: complete
+- `text/eng/cstr`: complete
+- `text/fre/cstn`: complete
+- `text/fre/cstr`: complete
+- `text/ger/cstn`: complete
+- `text/ger/cstr`: complete
 
 ## Every asset
 
