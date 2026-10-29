@@ -116,3 +116,15 @@ capitals. `pack.d/fonts.ini` maps the game's fonts to them, and each
 `.font` file sets its size and baseline in the original's 640x480 line.
 `tools/font_pack.py` in the flibustier repository fetches them, pinned
 and checked by SHA-256, and rewrites these files.
+
+## Text
+
+The pack has no text of its own yet: the game's text still comes from
+the original. Replacement text is two JSON files per language, given as
+`text/<lang>/cstr` and `text/<lang>/cstn` in the asset lists, in the
+format of "Open text" in
+[`asset-packs.md`](https://github.com/ocochard/flibustier/blob/main/aidd_docs/memory/internal/asset-packs.md#open-text).
+[`text-catalogue.md`](https://github.com/ocochard/flibustier/blob/main/aidd_docs/memory/internal/text-catalogue.md)
+says what each entry is for, its `%s` arguments and its constraints.
+The text must be newly written, never copied or paraphrased from the
+original.
