@@ -1,0 +1,21 @@
+{
+  "flags": [
+    "pic/fjolly04",
+    "pic/f-span",
+    "pic/f-engl",
+    "pic/f-french",
+    "pic/f-dutch",
+    "pic/fjolly04"
+  ],
+  "frame": [
+    101,
+    63
+  ],
+  "id": "spr/miscswrd",
+  "file": "art/miscswrd.sheet",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "e75b61a",
+  "date": "2026-10-29T21:42:43+00:00"
+}
