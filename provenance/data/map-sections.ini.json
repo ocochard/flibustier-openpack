@@ -1,0 +1,7 @@
+{
+  "file": "art/map-sections.ini",
+  "generator": "81d031e",
+  "module": "tools/opendata/tables/tile_terrain.py",
+  "date": "2026-10-29",
+  "design": "Map shores ([coast]): a tile with at least 5% land whose east, south or west edge (its outer three terrain pixels) is at least 75% sea or shallows; of those, the most open edge, ties in the order south, east, west. The rules step one tile that way from the shore and put a new ship there (src/sim/prison.c). 32 east, 37 south, 30 west."
+}
