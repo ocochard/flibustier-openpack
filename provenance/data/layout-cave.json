@@ -1,7 +1,7 @@
 {
   "id": "data/layout/cave",
   "file": "data/layout-cave.json",
-  "generator": "6b3c64b",
+  "generator": "d5078e7",
   "module": "tools/opendata/tables/layouts.py",
   "date": "2026-10-29",
   "design": "Designed on the open pack's art/trescave.png with the piles art/tcave0-7: positions chosen by composing them on the cave floor so each stays visible; fortune marks designed to roughly double, from 300 (a career starts with 200) to 60000."

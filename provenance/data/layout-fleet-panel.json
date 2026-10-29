@@ -1,8 +1,8 @@
 {
   "id": "data/layout/fleet-panel",
   "file": "data/layout-fleet-panel.json",
-  "generator": "6b3c64b",
+  "generator": "d5078e7",
   "module": "tools/opendata/tables/layouts.py",
   "date": "2026-10-29",
-  "design": "Designed: two rows of four columns 160 wide, each ship's battle picture (145x86 on screen) centred in its column, its type and damage labels below it, the ship's spot around all three; the button's spot around its label at (510, 436), right of the prompt."
+  "design": "Measured on the open pack's art/shipsel.png scaled to 640x480: each ship's battle picture (145x86 on screen) at the top left of its window's picture area, which is its size; the type and damage labels centred on the window's two plaques; the ship's spot around the window and both plaques; the button's spot around the button plaque and its arrow, below the prompt."
 }
