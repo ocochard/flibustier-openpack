@@ -1,0 +1,8 @@
+{
+  "id": "data/layout/fleet-panel",
+  "file": "data/layout-fleet-panel.json",
+  "generator": "7f45cde",
+  "module": "tools/opendata/tables/layouts.py",
+  "date": "2026-10-29",
+  "design": "Designed: two rows of four columns 160 wide, each ship's battle picture (145x86 on screen) centred in its column, its type and damage labels below it, the ship's spot around all three; the button's spot around its label at (510, 436), right of the prompt."
+}
