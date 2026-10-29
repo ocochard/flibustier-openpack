@@ -5,30 +5,6 @@
       "lines": ["Pirates! Gold", "MicroProse, 1993", "and to Sid Meier,", "who created Pirates!"]
     },
     {
-      "heading": "Art direction",
-      "lines": ["Michael Haire"]
-    },
-    {
-      "heading": "Programming",
-      "lines": ["Randall Don Masteller", "Ned Way", "David McKibbin"]
-    },
-    {
-      "heading": "Sound and music code",
-      "lines": ["Ken Lagace", "Jim McConkey", "Jack Miller"]
-    },
-    {
-      "heading": "Music",
-      "lines": ["J. S. Bach", "Jeffery L. Briggs", "Roland Rizzo", "Anonymous"]
-    },
-    {
-      "heading": "Illustration and animation",
-      "lines": ["Chris Soares", "Harry Teasley", "Andy Laken", "Murray Taylor", "Frank Vivirito, ship models"]
-    },
-    {
-      "heading": "Quality assurance",
-      "lines": ["Michael Craighead", "David Ginsburg", "Vaughn Thomas", "Mike Rea", "Walter Carter", "Leith Askins", "Mike Corcoran"]
-    },
-    {
       "heading": "This new engine and its art",
       "lines": ["Olivier Cochard-Labbé"]
     },
