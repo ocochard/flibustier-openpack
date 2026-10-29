@@ -1,0 +1,39 @@
+{
+  "id": "spr/gov",
+  "file": "art/gov-sprites.sheet",
+  "atlas": "art/gov-sprites.png",
+  "from": "pic/governor",
+  "profile": "draft",
+  "seed": 1660,
+  "frames": [
+    {
+      "rect": [
+        164,
+        164,
+        72,
+        80
+      ],
+      "at": [
+        140,
+        35
+      ],
+      "cast": null
+    },
+    {
+      "rect": [
+        108,
+        264,
+        176,
+        88
+      ],
+      "at": [
+        113,
+        262
+      ],
+      "cast": null
+    }
+  ],
+  "comfyui": "0.42.0",
+  "generator": "4566172",
+  "date": "2026-10-29T18:10:25+00:00"
+}
