@@ -1,0 +1,890 @@
+{
+ "groups": {
+  "2": [
+   "Villalobos",
+   "Quiroga",
+   "Barrero",
+   "Montesinos",
+   "Ocampo",
+   "Sotelo",
+   "Arriaga",
+   "Cabrera",
+   "Valdivieso",
+   "Ledesma",
+   "Zamudio",
+   "Peralta",
+   "Benavides",
+   "Carrizo",
+   "Ibarra",
+   "Salcedo"
+  ],
+  "3": [
+   "Whitlock",
+   "Penhallow",
+   "Ashcombe",
+   "Thursby",
+   "Blackmore",
+   "Fenwick",
+   "Greythorne",
+   "Tolley",
+   "Prideaux",
+   "Garrard",
+   "Ruddock",
+   "Stainer",
+   "Bulwer",
+   "Kempe",
+   "Oakes",
+   "Wetherby"
+  ],
+  "4": [
+   "Ravenel",
+   "Desmarets",
+   "Chauvelin",
+   "Brissac",
+   "Lambert",
+   "Tissot",
+   "Vauclair",
+   "Faucher",
+   "Picard",
+   "Delaunay",
+   "Bellefond",
+   "Marsolet",
+   "Lesueur",
+   "Boisrenard",
+   "Valcourt",
+   "Thibault"
+  ],
+  "5": [
+   "Verbrugge",
+   "Dekker",
+   "Hoekstra",
+   "Van Velsen",
+   "Brouwer",
+   "Kuipers",
+   "Vermeulen",
+   "Visser",
+   "Bakker",
+   "Jansen",
+   "Haverkamp",
+   "Wijnants",
+   "Prins",
+   "Koster",
+   "Bosch",
+   "Ten Hove"
+  ],
+  "6": [
+   "Janv.",
+   "Févr.",
+   "Mars",
+   "Avr.",
+   "Mai",
+   "Juin",
+   "Juil.",
+   "Août",
+   "Sept.",
+   "Oct.",
+   "Nov.",
+   "Déc."
+  ],
+  "7": [
+   "Janvier",
+   "Février",
+   "Mars",
+   "Avril",
+   "Mai",
+   "Juin",
+   "Juillet",
+   "Août",
+   "Septembre",
+   "Octobre",
+   "Novembre",
+   "Décembre"
+  ],
+  "8": [
+   "Pinasse",
+   "Sloop",
+   "Barque",
+   "Flûte",
+   "Marchand",
+   "Frégate",
+   "Galion armé",
+   "Galion",
+   "Galion rapide",
+   "Fort",
+   " (avaries)"
+  ],
+  "9": [
+   "Pauvre",
+   "Modeste",
+   "Prospère",
+   "Riche"
+  ],
+  "10": [
+   "Prix",
+   "Fret",
+   "Vivres",
+   "Marchandises",
+   "Canons",
+   "En cale",
+   " pièces d'or saisies !",
+   "",
+   "tonneaux",
+   "barils",
+   "balles",
+   "pièces"
+  ],
+  "11": [
+   "une pinasse",
+   "un sloop",
+   "une barque",
+   "une flûte",
+   "un navire marchand",
+   "une frégate",
+   "un galion armé",
+   "un galion",
+   "un galion rapide"
+  ],
+  "12": [
+   "Faible",
+   "Frais",
+   "Fort"
+  ],
+  "13": [
+   "S",
+   "SSO",
+   "SO",
+   "OSO",
+   "O",
+   "ONO",
+   "NO",
+   "NNO",
+   "N",
+   "NNE",
+   "NE",
+   "ENE",
+   "E",
+   "ESE",
+   "SE",
+   "SSE"
+  ],
+  "14": [
+   " ",
+   "Peu avarié",
+   "Avarié",
+   "Fort avarié",
+   "Sombre !"
+  ],
+  "15": [
+   "une part",
+   "la moitié",
+   "l'essentiel"
+  ],
+  "16": [
+   "On raconte",
+   "L'hôte dit",
+   "Un moine dit",
+   "Vos hommes disent"
+  ],
+  "18": [
+   "",
+   "`Or çà, Capitaine, on dit :\n\n",
+   "Nouvelles du bord",
+   " Aucune nouvelle.\n"
+  ],
+  "20": [
+   "%s %s : %s\n",
+   "Visité %s.",
+   "Titre %s : %s.",
+   "Pillé %s.",
+   "Navire %s pris (%s).",
+   "Navire %s coulé (%s).",
+   "Navire %s affronté (%s).",
+   "Trouvé le trésor d'une cité perdue.",
+   "Déterré un trésor enfoui.",
+   "%s à %s.",
+   "%s pardonne aux pirates.",
+   "Raid indien sur %s.",
+   "Mine d'or ouverte à %s.",
+   "La fièvre ravage %s.",
+   "Nouveau gouverneur à %s.",
+   "Pirates pillent %s.",
+   "Guerre entre %s et %s.",
+   "Paix entre %s et %s.",
+   "%s s'allie à %s.",
+   "%s prend %s.",
+   "Flotte du trésor à %s.",
+   "Convoi d'argent à %s.",
+   "Pris %s pour %s.",
+   "Échec devant %s.",
+   "Pris la flotte du trésor.",
+   "Pris le convoi d'argent.",
+   "Délivré : %s.",
+   "",
+   "Lettre à porter à %s.",
+   "Papiers à porter à %s.",
+   "%s croise devant %s.",
+   "Juré de délivrer un captif à %s.",
+   "Lettre remise à %s.",
+   "Papiers remis à %s.",
+   "%s livré à la justice.",
+   "Délivré un prisonnier à %s.",
+   "Un gouverneur est fort mécontent."
+  ],
+  "21": [
+   "Lettre de marque",
+   "(sans titre)",
+   "Suspect",
+   "Hostile"
+  ],
+  "22": [
+   "Prisonniers\n",
+   "%s (chasseur)\n",
+   "%s (pirate)\n",
+   "Autres\n"
+  ],
+  "23": [
+   "%s\nPavillon %s\n%s\n%s\n%s soldats\n%s habitants\n%s",
+   "%s\nOn ne sait rien.\n",
+   " %s fort%s",
+   " Or : %s 000",
+   "%s : nos nouvelles en sont vieilles, et peut-être fausses.\n"
+  ],
+  "25": [
+   "%s %s, nous sommes",
+   " en alliance avec ",
+   " %sen guerre contre ",
+   "%s",
+   "%s et %s",
+   "%s, %s et %s",
+   ". Frappez-les sans merci, et la Couronne s'en souviendra.",
+   "mais ",
+   ".\n"
+  ],
+  "26": [
+   "`Après souper, %s vous prend à part et, à mi-voix, vous apprend tout ce que l'on sait de la flotte du trésor et du convoi d'argent.",
+   "son commis",
+   "sa femme"
+  ],
+  "27": [
+   "%s est à %s.",
+   "la voile",
+   "la mine"
+  ],
+  "28": [
+   "Quel navire voulez-vous vendre ?\n",
+   "Quel navire faut-il radouber ?\n",
+   "~Non, merci\n",
+   "~%s%s : %s pièces d'or\n",
+   "~%s : en bon état\n",
+   "~Terminé\n",
+   "~Tout est radoubé\n"
+  ],
+  "29": [
+   "Un fort garde l'entrée du port.\n",
+   "Le port est gardé par %s forts.\n",
+   "La flotte du trésor mouille au port !\n",
+   "Le convoi d'argent fait halte ici !\n",
+   "Entrer au port",
+   "Marcher sur la ville",
+   "village",
+   "port",
+   "Un fort veille sur la ville.\n",
+   "La ville est gardée par %s forts.\n"
+  ],
+  "30": [
+   "Rechargement",
+   "Canons parés",
+   "Voiles de combat",
+   "Toutes voiles",
+   "On hisse la toile",
+   "On cargue la toile",
+   "Intact",
+   "le capitaine ennemi",
+   "Vent %s",
+   "de %s",
+   "Canons : ",
+   "Hommes : ",
+   "Allure : "
+  ],
+  "31": [
+   "Carte d'un trésor enfoui",
+   "Pour retrouver votre %s",
+   "Carte d'un trésor perdu",
+   "Lambeau",
+   "Quelque part vers %s"
+  ],
+  "32": [
+   "Plaine",
+   "Bois",
+   "Marais",
+   "Eau",
+   "",
+   "Hommes  Mousquets",
+   "et ses gens",
+   "Défenseurs",
+   "Terrain :",
+   "Moral :"
+  ],
+  "33": [
+   "vos grands projets",
+   "votre voyage à %s",
+   "vos honneurs au service %s (%s)",
+   "votre coup de main sur %s",
+   "votre prise d'un navire %s (%s)",
+   "le navire %s (%s) que vous avez coulé",
+   "votre combat contre un navire %s (%s)",
+   "votre trésor d'une cité perdue",
+   "le trésor enfoui que vous avez déterré",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "%s, que vous avez prise au service %s",
+   "votre assaut manqué contre %s",
+   "votre prise de la flotte du trésor",
+   "votre prise du convoi d'argent",
+   "la délivrance de votre %s"
+  ],
+  "34": [
+   "lâche",
+   "jeune",
+   "rude",
+   "hardi",
+   "fameux",
+   "célèbre"
+  ],
+  "35": [
+   "Mousse",
+   "Matelot",
+   "Loup de mer",
+   "Écumeur",
+   "Mousse"
+  ],
+  "36": [
+   "Robuste",
+   "Passable",
+   "Fragile",
+   "Faible"
+  ],
+  "37": [
+   "sœur",
+   "père",
+   "nièce",
+   "oncle"
+  ],
+  "38": [
+   "`Vous ne reçûtes jamais aucun titre",
+   "`Vous eûtes rang au service ",
+   "%s (%s)",
+   " et %s (%s)",
+   "un manant",
+   "un roturier",
+   "un bourgeois",
+   "un notable",
+   "un honnête homme",
+   "un gentilhomme",
+   "un grand seigneur",
+   "un très haut seigneur"
+  ],
+  "39": [
+   "`Vous amassâtes %s pièces d'or %sau cours de votre carrière, et vous voici %s.",
+   "et %s arpents de terre ",
+   "un misérable sans le sou",
+   "de maigre fortune",
+   "un homme d'honnête aisance",
+   "un homme de belle fortune",
+   "un riche gentilhomme",
+   "un homme fort riche",
+   "aussi riche qu'un prince"
+  ],
+  "40": [
+   "`Vos exploits sur les mers vous ont valu le renom de capitaine %s.",
+   "`Votre part du butin de l'expédition se monta à %s pièces d'or, et le monde se souvient de vous comme d'un capitaine %s.",
+   "lâche et méprisé",
+   "sans éclat",
+   "passablement habile",
+   "hardi et capable",
+   "fameux",
+   "des plus illustres",
+   "sans égal"
+  ],
+  "41": [
+   "Vous ne prîtes jamais femme.\n",
+   "Vous épousâtes %s.\n",
+   "la fille d'un riche marchand",
+   "la fille d'un gouverneur",
+   "la nièce d'un gouverneur",
+   "une dame de haute naissance"
+  ],
+  "42": [
+   "En songeant à vos voyages, vous êtes %s.\n",
+   "amer et seul",
+   "aigri et las",
+   "d'humeur égale",
+   "content de votre sort",
+   "allègre",
+   "joyeux et en paix"
+  ],
+  "43": [
+   "conseiller du Roi",
+   "gouverneur",
+   "grand seigneur",
+   "rentier",
+   "magistrat",
+   "prince du négoce",
+   "planteur notable",
+   "banquier",
+   "douanier",
+   "armateur prospère",
+   "planteur de canne",
+   "marchand",
+   "charpentier de marine",
+   "fermier",
+   "cabaretier",
+   "humble pêcheur",
+   "matelot",
+   "porteur",
+   "marmiton",
+   "vagabond",
+   "indigent",
+   "mendiant",
+   "captif",
+   "inconnu"
+  ],
+  "44": [
+   "le Roi lui-même prenait votre conseil sur les affaires des Indes.",
+   "votre parole pesait dans les conseils du royaume.",
+   "seigneurs et prélats se pressaient à vos levers."
+  ],
+  "45": [
+   "vous gouverniez au nom de Sa Majesté, et les planteurs se découvraient au passage de votre carrosse.",
+   "vous teniez cour chaque soir et pendiez un pirate de temps à autre, pour la forme.",
+   "les colons maudissaient vos impôts, mais buvaient à votre santé."
+  ],
+  "46": [
+   "vous teniez grande maison et une meute de chiens.",
+   "votre table était la plus fine à cent lieues à la ronde.",
+   "vous mangiez dans l'argent, et vos gens vous disaient bon maître."
+  ],
+  "47": [
+   "vos champs s'étendaient à perte de vue.",
+   "vous parcouriez vos terres chaque matin à cheval, fort content de votre sort.",
+   "la paroisse vous fit marguillier, et nul n'osait vous rappeler votre passé."
+  ],
+  "48": [
+   "vous jugiez des coquins qui ne valaient pas pis que vous jadis.",
+   "l'on vous savait sévère en vos sentences, mais tendre de cœur.",
+   "vous envoyiez maint contrebandier au pilori, et fermiez les yeux sur quelques vieux compagnons."
+  ],
+  "49": [
+   "vos navires portaient sucre et cuirs dans tous les ports d'Europe.",
+   "votre comptoir bourdonnait de vos affaires.",
+   "vous prêtiez aux gouverneurs, qui vous payaient en faveurs."
+  ],
+  "50": [
+   "votre tabac se vendait au meilleur prix sur le quai.",
+   "vous regardiez la mer, le soir, depuis votre galerie.",
+   "vos récoltes faisaient l'envie des voisins, et votre rhum était fameux."
+  ],
+  "51": [
+   "la moitié des capitaines du port vous devaient de l'argent.",
+   "vous prêtiez à taux honnête, du moins l'assuriez-vous à vos clients.",
+   "votre coffre tenait plus de doublons que vous n'en prîtes jamais en mer."
+  ],
+  "52": [
+   "nul navire ne jetait l'ancre sans votre permission.",
+   "vous perceviez les droits de port et contiez vos voyages à chaque nouveau venu.",
+   "vous regardiez les navires aller et venir, et rêviez d'être à leur bord."
+  ],
+  "53": [
+   "vos trois sloops couraient la côte et rapportaient un bon profit.",
+   "vous envoyiez d'autres hommes en mer, et gardiez pour vous la meilleure part.",
+   "vos navires voguaient, votre bourse gonflait."
+  ],
+  "54": [
+   "le moulin tournait et le sucre coulait de l'aube au soir.",
+   "votre canne poussait haut, et vos comptes grossissaient.",
+   "la chaleur et les mouches vous tourmentaient, mais le sucre payait tout."
+  ],
+  "55": [
+   "vous vendiez drap et chandelles à profit modeste.",
+   "votre boutique était connue, et vos balances presque honnêtes.",
+   "vous marchandiez chaque sou avec l'ardeur que vous mettiez jadis à chasser les galions."
+  ],
+  "56": [
+   "vous bâtissiez des sloops pour des têtes brûlées comme vous jadis.",
+   "l'odeur du brai ne vous quittait plus.",
+   "vous radoubiez les prises des autres, et teniez votre langue."
+  ],
+  "57": [
+   "vous plantiez des ignames et gardiez des chèvres.",
+   "vous labouriez un petit champ et priiez chaque année pour la pluie.",
+   "vos mains étaient rudes, mais votre conscience en paix."
+  ],
+  "58": [
+   "vous versiez le rhum aux marins et vendiez des nouvelles à tout capitaine bien en fonds.",
+   "vos histoires grandissaient à chaque pichet que vous versiez.",
+   "vous gardiez un coutelas sous le comptoir et un perroquet sur l'étagère."
+  ],
+  "59": [
+   "vous ravaudiez vos filets en regardant passer les voiles.",
+   "la mer vous nourrissait encore, ne fût-ce que de menu poisson.",
+   "vous sortiez à l'aube dans une barque qui prenait l'eau, et soupiriez quand passait au loin un galion."
+  ],
+  "60": [
+   "vous haliez les manœuvres d'un capitaine blanc-bec.",
+   "vous briquiez le pont et taisiez votre passé.",
+   "vous serviez sous les ordres d'un autre, et grogniez à chaque quart."
+  ],
+  "61": [
+   "vous portiez les marchandises d'autrui sur le quai en rêvant de l'or d'antan.",
+   "votre dos vous faisait souffrir chaque soir, à force de barils de lard salé.",
+   "vous chargiez les navires mêmes que jadis vous auriez capturés."
+  ],
+  "62": [
+   "vous récuriez les chaudrons d'une taverne pour votre pain.",
+   "vous faisiez les courses d'un marchand qui ne vous demanda jamais votre nom.",
+   "nul ne se souvenait du capitaine d'autrefois."
+  ],
+  "63": [
+   "vous alliez de ville en ville, un sac sur le dos.",
+   "vous dormiez à la belle étoile et chantiez de vieilles chansons de mer pour une croûte.",
+   "vous couriez les chemins, seul."
+  ],
+  "64": [
+   "vous viviez de la charité de l'Église.",
+   "vous dormiez sous un porche et rêviez d'or.",
+   "vous restiez sur le quai en haillons, contant des trésors auxquels nul ne croyait."
+  ],
+  "65": [
+   "vous mendiiez auprès des marins qui jadis craignaient votre nom.",
+   "vous tendiez votre chapeau aux passants sur le quai.",
+   "vous mendiiez à la porte de l'église, et les enfants raillaient vos récits de gloire."
+  ],
+  "66": [
+   "vous pourrissiez dans un cachot en maudissant le jour où vous prîtes la mer.",
+   "le geôlier était votre seule compagnie.",
+   "vous comptiez les jours dans les fers, et les rats étaient vos seuls compagnons."
+  ],
+  "67": [
+   "votre nom fut bientôt oublié, comme si vous n'aviez jamais navigué.",
+   "nul ne remarqua votre départ, et la mer garda vos secrets.",
+   "le vent souffle sur une tombe sans nom."
+  ],
+  "68": [
+   "espagnol",
+   "anglais",
+   "français",
+   "hollandais",
+   "pirate"
+  ],
+  "69": [
+   "Brisé",
+   "Ébranlé",
+   "Inquiet",
+   "Ferme",
+   "Ardent",
+   "Farouche"
+  ],
+  "70": [
+   "Rapière",
+   "Épée longue",
+   "Coutelas"
+  ],
+  "71": [
+   "espagnol",
+   "anglais",
+   "français",
+   "hollandais",
+   "pirate",
+   "inconnu"
+  ],
+  "72": [
+   "mutin",
+   "maussade",
+   "content",
+   "joyeux"
+  ],
+  "73": [
+   "un mousse",
+   "un matelot",
+   "un loup de mer",
+   "un écumeur",
+   "un mousse"
+  ],
+  "74": [
+   "Garde",
+   "Prétendant",
+   "Mutin",
+   "Capitaine ennemi",
+   "Capitaine",
+   "Second"
+  ],
+  "75": [
+   "au nord",
+   "au sud",
+   "à l'est",
+   "à l'ouest",
+   "au nord-ouest",
+   "au nord-est",
+   "au sud-ouest",
+   "au sud-est",
+   "d'ici"
+  ],
+  "77": [
+   "%s %s %s",
+   "Ennemi",
+   "Vous",
+   " Hommes",
+   "la cale",
+   "Équipage"
+  ],
+  "78": [
+   "Monsieur",
+   "Enseigne",
+   "Capitaine",
+   "Major",
+   "Colonel",
+   "Amiral",
+   "Baron",
+   "Comte",
+   "Marquis",
+   "Duc"
+  ],
+  "79": [
+   "s",
+   "un",
+   "deux",
+   "trois",
+   "quatre",
+   "cinq"
+  ],
+  "80": [
+   "une fois",
+   "deux fois",
+   "maintes fois"
+  ],
+  "81": [
+   "l'Espagne",
+   "l'Angleterre",
+   "la France",
+   "la Hollande"
+  ],
+  "82": [
+   "Pavillon anglais",
+   "Pavillon français",
+   "Pavillon hollandais",
+   "Pavillon espagnol"
+  ],
+  "83": [
+   "Art de l'escrime",
+   "Esprit et charme",
+   "Art de la navigation",
+   "Art de l'artillerie",
+   "Art de la médecine"
+  ],
+  "84": [
+   "Voir le gouverneur",
+   "Traiter avec le marchand",
+   "Voir le banquier",
+   "Aller à la taverne",
+   "Voir le charpentier",
+   "S'enquérir de la ville",
+   "Quitter la ville",
+   "Cabine du capitaine"
+  ],
+  "86": [
+   "Reprendre la mer",
+   "Cartes au trésor",
+   "Grotte au trésor",
+   "Journal de bord",
+   "Carte des Îles",
+   "Fouiller",
+   "Partager le butin",
+   "Réunir les forces",
+   "Sauvegarder",
+   "Quitter le jeu",
+   "Leçon d'escrime"
+  ],
+  "87": [
+   " ",
+   "Choisir",
+   "Réparer",
+   "Vendre",
+   "Acheter"
+  ],
+  "89": [
+   "fille",
+   "nièce"
+  ],
+  "90": [
+   "Marchand de cartes",
+   "Gazetier",
+   "Matelots à louer",
+   "L'hôte",
+   "Servante",
+   "Un inconnu",
+   "Sortir",
+   "Matelots à louer",
+   "Matelots à louer",
+   "Matelots à louer"
+  ],
+  "92": [
+   "",
+   "Pierre Lamy",
+   "Nicolas Ferrand",
+   "Jean Morel",
+   "Jean Hardy",
+   "?",
+   " ",
+   "Cabine du capitaine",
+   "~Terminé",
+   "Aucun",
+   "Sans nom",
+   ""
+  ],
+  "93": [
+   "Aztèques",
+   "Incas",
+   "Mayas",
+   "Muiscas"
+  ],
+  "94": [
+   "Forts : ",
+   "Fortune : ",
+   "Nation : ",
+   "Soldats : ",
+   "Habitants : ",
+   "Terminé"
+  ],
+  "95": [
+   "Livre de bord",
+   "Votre troupe",
+   "État personnel",
+   "État du navire",
+   "Otages",
+   "Fermer",
+   "Journal de bord"
+  ],
+  "96": [
+   "L'Ancre rouillée",
+   "La Mouette",
+   "La Lanterne sourde",
+   "Le Bœuf doré",
+   "Le Rat noyé",
+   "Le Repos du marin",
+   "Le Baril de sel",
+   "La Mitre",
+   "La Bourse de la sirène",
+   "Les Trois Matelots",
+   "À l'enseigne du Compas",
+   "Le Cygne noir",
+   "Le Mât tordu",
+   "Le Coq hardi",
+   "Le Perroquet",
+   "Le Bosco fourbu",
+   "Le Pot de goudron",
+   "Le Dauphin d'argent",
+   "La Cloche et le Sabre",
+   "L'Écaille de tortue",
+   "Le Pain de sucre",
+   "Vent et Marée",
+   "La Tête du Roi",
+   "Le Poisson volant",
+   "La Perruque de l'Amiral",
+   "La Dame espagnole",
+   "Le Vieux Canon",
+   "L'Espoir du marin",
+   "Le Seau percé",
+   "Le Gros Moine",
+   "Le Cochon et la Poudre",
+   "Le Tonneau de rhum",
+   "Le Serpent de mer",
+   "Le Doublon heureux",
+   "Perroquet et Perle",
+   "L'Aviron brisé",
+   "Le Gai Tonnelier",
+   "Le Coutelas",
+   "Le Crabe errant",
+   "La Marmite",
+   "Les Sept Étoiles",
+   "Le Hamac et le Crochet",
+   "Le Nid de mouette",
+   "La Cloche fêlée",
+   "La Goutte du gouverneur",
+   "La Dent de baleine",
+   "La Lampe du contrebandier",
+   "Le Sablier",
+   "La Longue-vue",
+   "Le Repos du pilote"
+  ],
+  "97": [
+   "Espagnol",
+   "Anglais",
+   "Français",
+   "Hollandais"
+  ],
+  "98": [
+   "1560 : L'or de l'Espagne",
+   "1600 : Les marchands aventuriers",
+   "1620 : Les premiers colons",
+   "1640 : Fruits de la guerre",
+   "1660 : Les Frères de la Côte",
+   "1680 : Les derniers boucaniers"
+  ],
+  "99": [
+   "1569 : John Hawkins, marchand aventurier",
+   "1572 : Le raid de Francis Drake",
+   "1628 : La prise de Piet Heyn",
+   "1666 : L'Olonnais à Maracaibo",
+   "1670 : Morgan à Panama",
+   "1697 : De Pointis à Carthagène"
+  ],
+  "100": [
+   "Flibustier",
+   "Gentilshommes de fortune,",
+   "corsaires et",
+   "boucaniers de la",
+   "Terre Ferme",
+   "Vos ordres ?",
+   "Commencer une nouvelle carrière",
+   "Reprendre une carrière",
+   "Suivre une expédition fameuse",
+   "Quitter le jeu"
+  ],
+  "101": [
+   "Eaux paisibles",
+   "Un juste défi",
+   "Gros temps en vue",
+   "Aux plus hardis"
+  ],
+  "104": [
+   "espagnole",
+   "anglaise",
+   "française",
+   "hollandaise",
+   "pirate"
+  ],
+  "105": [
+   "pirate",
+   "chasseur de pirates"
+  ],
+  "106": [
+   "espagnol",
+   "anglais",
+   "français",
+   "hollandais",
+   "pirate",
+   "inconnu"
+  ]
+ }
+}

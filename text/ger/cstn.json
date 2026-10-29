@@ -1,0 +1,890 @@
+{
+ "groups": {
+  "2": [
+   "Villalobos",
+   "Quiroga",
+   "Barrero",
+   "Montesinos",
+   "Ocampo",
+   "Sotelo",
+   "Arriaga",
+   "Cabrera",
+   "Valdivieso",
+   "Ledesma",
+   "Zamudio",
+   "Peralta",
+   "Benavides",
+   "Carrizo",
+   "Ibarra",
+   "Salcedo"
+  ],
+  "3": [
+   "Whitlock",
+   "Penhallow",
+   "Ashcombe",
+   "Thursby",
+   "Blackmore",
+   "Fenwick",
+   "Greythorne",
+   "Tolley",
+   "Prideaux",
+   "Garrard",
+   "Ruddock",
+   "Stainer",
+   "Bulwer",
+   "Kempe",
+   "Oakes",
+   "Wetherby"
+  ],
+  "4": [
+   "Ravenel",
+   "Desmarets",
+   "Chauvelin",
+   "Brissac",
+   "Lambert",
+   "Tissot",
+   "Vauclair",
+   "Faucher",
+   "Picard",
+   "Delaunay",
+   "Bellefond",
+   "Marsolet",
+   "Lesueur",
+   "Boisrenard",
+   "Valcourt",
+   "Thibault"
+  ],
+  "5": [
+   "Verbrugge",
+   "Dekker",
+   "Hoekstra",
+   "Van Velsen",
+   "Brouwer",
+   "Kuipers",
+   "Vermeulen",
+   "Visser",
+   "Bakker",
+   "Jansen",
+   "Haverkamp",
+   "Wijnants",
+   "Prins",
+   "Koster",
+   "Bosch",
+   "Ten Hove"
+  ],
+  "6": [
+   "Jan",
+   "Feb",
+   "Mär",
+   "Apr",
+   "Mai",
+   "Jun",
+   "Jul",
+   "Aug",
+   "Sep",
+   "Okt",
+   "Nov",
+   "Dez"
+  ],
+  "7": [
+   "Januar",
+   "Februar",
+   "März",
+   "April",
+   "Mai",
+   "Juni",
+   "Juli",
+   "August",
+   "September",
+   "Oktober",
+   "November",
+   "Dezember"
+  ],
+  "8": [
+   "Pinasse",
+   "Schaluppe",
+   "Bark",
+   "Fleute",
+   "Handelsschiff",
+   "Fregatte",
+   "Kriegsgaleone",
+   "Galeone",
+   "Schnelle Galeone",
+   "Fort",
+   " (beschädigt)"
+  ],
+  "9": [
+   "Arm",
+   "Bescheiden",
+   "Blühend",
+   "Reich"
+  ],
+  "10": [
+   "Preis",
+   "Fracht",
+   "Proviant",
+   "Waren",
+   "Kanonen",
+   "Im Laderaum",
+   " Goldstücke erbeutet!",
+   "",
+   "Tonnen",
+   "Fässer",
+   "Ballen",
+   "Stück"
+  ],
+  "11": [
+   "eine Pinasse",
+   "eine Schaluppe",
+   "eine Bark",
+   "eine Fleute",
+   "ein Handelsschiff",
+   "eine Fregatte",
+   "eine Kriegsgaleone",
+   "eine Galeone",
+   "eine schnelle Galeone"
+  ],
+  "12": [
+   "Schwach",
+   "Frisch",
+   "Stark"
+  ],
+  "13": [
+   "S",
+   "SSW",
+   "SW",
+   "WSW",
+   "W",
+   "WNW",
+   "NW",
+   "NNW",
+   "N",
+   "NNO",
+   "NO",
+   "ONO",
+   "O",
+   "OSO",
+   "SO",
+   "SSO"
+  ],
+  "14": [
+   " ",
+   "Angeschlagen",
+   "Beschädigt",
+   "Zerschossen",
+   "Sinkt!"
+  ],
+  "15": [
+   "einiges",
+   "die Hälfte",
+   "das meiste"
+  ],
+  "16": [
+   "Die Leute sagen",
+   "Der Wirt sagt",
+   "Ein Hausierer sagt",
+   "Eure Leute sagen"
+  ],
+  "18": [
+   "",
+   "`Hört, was man sich erzählt:\n\n",
+   "Nachrichten zur See",
+   " Keine Neuigkeiten.\n"
+  ],
+  "20": [
+   "%s %s: %s\n",
+   "Besuchte %s.",
+   "Wurde %s %s.",
+   "Plünderte %s.",
+   "Kaperte %s %s.",
+   "Versenkte %s %s.",
+   "Gefecht mit %s %s.",
+   "Fand den Schatz einer verschollenen Stadt.",
+   "Hob einen vergrabenen Schatz.",
+   "%s in %s.",
+   "%s verspricht Piraten Pardon.",
+   "Indianer überfallen %s.",
+   "Gold bei %s gefunden.",
+   "Fieber wütet in %s.",
+   "Neuer Gouverneur in %s.",
+   "Piraten plündern %s.",
+   "%s im Krieg mit %s.",
+   "%s schließt Frieden mit %s.",
+   "%s verbündet sich mit %s.",
+   "%s nimmt %s ein.",
+   "Die Schatzflotte liegt in %s.",
+   "Silberzug in %s.",
+   "Nahm %s für %s.",
+   "Angriff auf %s gescheitert.",
+   "Nahm die Schatzflotte.",
+   "Nahm den Silberzug.",
+   "%s gerettet.",
+   "",
+   "Brief nach %s zu bringen.",
+   "Papiere nach %s zu bringen.",
+   "%s bei %s gesehen.",
+   "Will einen Gefangenen aus %s befreien.",
+   "Brief in %s abgegeben.",
+   "Papiere in %s abgegeben.",
+   "%s der Justiz übergeben.",
+   "Gefangenen aus %s befreit.",
+   "Ein Gouverneur ist höchst ungehalten."
+  ],
+  "21": [
+   "Kaperbrief",
+   "Ohne Titel",
+   "Verdächtig",
+   "Feindlich"
+  ],
+  "22": [
+   "Gefangene\n",
+   "%s (Jäger)\n",
+   "%s (Pirat)\n",
+   "Andere\n"
+  ],
+  "23": [
+   "%s\nFlagge: %s\n%s\n%s\n%s Soldaten\n%s Bürger\n%s",
+   "%s\nNichts bekannt.\n",
+   " %s Fort%s",
+   " Gold: %s.000",
+   "%s: unsere Kunde ist alt und mag falsch sein.\n"
+  ],
+  "25": [
+   "%s %s, wir sind",
+   " verbündet mit ",
+   " %sim Krieg mit ",
+   "%s",
+   "%s und %s",
+   "%s, %s und %s",
+   ". Schlagt sie hart, und die Krone wird es Euch nicht vergessen.",
+   "und ",
+   ".\n"
+  ],
+  "26": [
+   "`Nach der Tafel nimmt Euch des Gouverneurs %s beiseite und berichtet mit gedämpfter Stimme alles, was man über die Schatzflotte und den Silberzug weiß.",
+   "Schreiber",
+   "Gattin"
+  ],
+  "27": [
+   "%s befindet sich zu %s.",
+   "Wasser",
+   "Lande"
+  ],
+  "28": [
+   "Welches Schiff wollt Ihr verkaufen?\n",
+   "Welches Schiff soll ausgebessert werden?\n",
+   "~Heute nicht\n",
+   "~%s%s: %s Gold\n",
+   "~%s: unversehrt\n",
+   "~Fertig\n",
+   "~Alles ausgebessert\n"
+  ],
+  "29": [
+   "Den Hafen schützt ein Fort.\n",
+   "Der Hafen wird von %s Forts bewacht.\n",
+   "Im Hafen ankert die Schatzflotte!\n",
+   "Der Silberzug rastet hier!\n",
+   "In den Hafen segeln",
+   "In die Stadt marschieren",
+   "das Dorf",
+   "die Hafenstadt",
+   "Ein starkes Fort wacht über den Ort.\n",
+   "Der Ort wird von %s Forts bewacht.\n"
+  ],
+  "30": [
+   "Lädt nach",
+   "Feuerbereit",
+   "Gefechtssegel",
+   "Volle Segel",
+   "Segel setzen",
+   "Segel bergen",
+   "Keine Schäden",
+   "der feindliche Kapitän",
+   "%s-Wind",
+   "aus %s",
+   "Kanonen: ",
+   "Männer: ",
+   "Fahrt: "
+  ],
+  "31": [
+   "Schatzkarte",
+   "Karte: %s in Gefangenschaft",
+   "Karte zu einem verschollenen Schatz",
+   "Kartenfetzen",
+   "Irgendwo bei %s"
+  ],
+  "32": [
+   "Feld",
+   "Wald",
+   "Sumpf",
+   "Wasser",
+   "",
+   "Männer  Musketen",
+   "Trupp",
+   "Verteidiger",
+   "Gelände:",
+   "Moral:"
+  ],
+  "33": [
+   "Eure Hoffnungen und Pläne",
+   "Eure Fahrt nach %s",
+   "Eure Ehren als %s %s",
+   "Eure Plünderung der Stadt %s",
+   "Eure Kaperung von %s %s",
+   "Eure Versenkung von %s %s",
+   "Euer Gefecht mit %s %s",
+   "Euer Fund vom Gold einer verschollenen Stadt",
+   "Euer ausgegrabener Schatz",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Eure Eroberung von %s für die Krone von %s",
+   "Euer gescheiterter Angriff auf %s",
+   "Eure Kaperung der Schatzflotte",
+   "Eure Kaperung des Silberzugs",
+   "wie Ihr heimholtet, wer Euch %s ist"
+  ],
+  "34": [
+   "feige",
+   "aufstrebend",
+   "erfahren",
+   "verwegen",
+   "berühmt",
+   "legendär"
+  ],
+  "35": [
+   "Neuling",
+   "Seemann",
+   "Seebär",
+   "Seewolf",
+   "Neuling"
+  ],
+  "36": [
+   "Gesund",
+   "Leidlich",
+   "Schwach",
+   "Hinfällig"
+  ],
+  "37": [
+   "Schwester",
+   "Vater",
+   "Nichte",
+   "Onkel"
+  ],
+  "38": [
+   "`Nie errangt Ihr einen Titel",
+   "`Ihr wurdet ",
+   "%s %s",
+   " und %s %s",
+   "unbedeutendes",
+   "bescheidenes",
+   "ehrbares",
+   "geachtetes",
+   "angesehenes",
+   "vornehmes",
+   "hochangesehenes",
+   "höchst erlauchtes"
+  ],
+  "39": [
+   "`Ihr habt in Eurer Laufbahn %s Goldstücke %serworben und seid nun %s.",
+   "und %s Morgen Land ",
+   "ein bettelarmer Lump",
+   "von schmalen Mitteln",
+   "ein Mann von bescheidenem Vermögen",
+   "ein Mann von stattlichem Vermögen",
+   "ein wohlhabender Herr",
+   "steinreich",
+   "so reich wie ein Fürst"
+  ],
+  "40": [
+   "`Eure Taten auf hoher See haben Euch Ruhm eingetragen: Ihr geltet als %s.",
+   "`Euer Anteil an der Beute der Expedition belief sich auf %s Goldstücke, und noch heute geltet Ihr als %s.",
+   "ein feiger, verachteter Kapitän",
+   "ein unauffälliger Kapitän",
+   "ein leidlich fähiger Kapitän",
+   "ein kühner, fähiger Kapitän",
+   "ein berühmter Kapitän",
+   "ein hochberühmter Kapitän",
+   "der gefeiertste Kapitän seiner Zeit"
+  ],
+  "41": [
+   "Ihr bliebt zeitlebens unvermählt.\n",
+   "Ihr ehelichtet %s.\n",
+   "die Tochter eines reichen Kaufmanns",
+   "eines Gouverneurs schöne Tochter",
+   "eines Gouverneurs holde Nichte",
+   "eine Dame von hoher Geburt"
+  ],
+  "42": [
+   "Im Rückblick seid Ihr %s.\n",
+   "bitter und einsam",
+   "mürrisch und müde",
+   "weder froh noch trüb",
+   "mit Eurem Los zufrieden",
+   "frohen Herzens",
+   "glücklich und in Frieden"
+  ],
+  "43": [
+   "königlicher Rat",
+   "Gouverneur",
+   "reicher Edelmann",
+   "Gutsherr",
+   "Friedensrichter",
+   "Handelsfürst",
+   "angesehener Pflanzer",
+   "Bankier",
+   "Hafenmeister",
+   "vermögender Reeder",
+   "Zuckerbauer",
+   "Kaufmann",
+   "Schiffbauer",
+   "Bauer",
+   "Schankwirt",
+   "Fischer",
+   "Decksmann",
+   "Stauer",
+   "Knecht",
+   "Vagabund",
+   "Armer",
+   "Bettler",
+   "Häftling",
+   "Niemand"
+  ],
+  "44": [
+   "der König selbst Euch in den Angelegenheiten der Indien um Rat fragt.",
+   "Euer Wort in den Hallen der Macht Gewicht hat.",
+   "Herren und Bischöfe bei jedem Empfang Eurer Wünsche harren."
+  ],
+  "45": [
+   "Ihr im Namen Seiner Majestät herrscht und die Pflanzer vor Eurer Kutsche den Hut ziehen.",
+   "Ihr jeden Abend Hof haltet und der Form halber dann und wann einen Piraten hängt.",
+   "die Siedler über Eure Steuern murren, aber auf Euer Wohl trinken."
+  ],
+  "46": [
+   "Ihr ein großes Haus und eine Meute Hunde haltet.",
+   "Eure Tafel die beste auf hundert Meilen ist.",
+   "Ihr von Silber speist und Eure Pächter Euch einen gerechten Herrn nennen."
+  ],
+  "47": [
+   "Eure Felder weiter reichen, als das Auge sieht.",
+   "Ihr jeden Morgen über Eure Ländereien reitet und rundum zufrieden seid.",
+   "die Gemeinde Euch zum Kirchenvorsteher wählt und keiner Eure Vergangenheit erwähnt."
+  ],
+  "48": [
+   "Ihr über Schurken zu Gericht sitzt, die nicht schlimmer sind, als Ihr selbst einst wart.",
+   "man Euch für harte Urteile und ein weiches Herz kennt.",
+   "Ihr manchen Schmuggler an den Pranger bringt und bei alten Kameraden ein Auge zudrückt."
+  ],
+  "49": [
+   "Eure Schiffe Zucker und Häute in jeden Hafen Europas tragen.",
+   "Euer Kontor von Geschäften summt.",
+   "Ihr Gouverneuren Geld leiht und in Gefälligkeiten bezahlt werdet, was Euch besser behagt."
+  ],
+  "50": [
+   "Euer Tabak den besten Preis am Kai erzielt.",
+   "Ihr abends auf Eurer Veranda aufs Meer schaut.",
+   "Eure Ernten der Neid der Nachbarn sind und Euer Rum weithin gerühmt wird."
+  ],
+  "51": [
+   "die Hälfte der Kapitäne im Hafen Euch Geld schuldet und es weiß.",
+   "Ihr Gold zu redlichem Zins verleiht, so versichert Ihr Euren Kunden.",
+   "in Eurer Schatzkammer mehr Dublonen liegen, als Ihr je auf See erbeutet habt."
+  ],
+  "52": [
+   "kein Schiff ohne Eure Erlaubnis Anker wirft.",
+   "Ihr die Hafengebühren eintreibt und jedem Neuankömmling Seemannsgarn von Euren Fahrten spinnt.",
+   "Ihr die Schiffe kommen und gehen seht und Euch an Bord wünscht."
+  ],
+  "53": [
+   "Eure drei Schaluppen die Küste befahren und Gewinn bringen.",
+   "Ihr andere zur See schickt und den besseren Teil behaltet.",
+   "Eure Schiffe segeln und Euer Beutel wächst."
+  ],
+  "54": [
+   "die Mühle sich dreht und der Zucker von früh bis spät rinnt.",
+   "Euer Rohr hoch wächst und Eure Bücher fett werden.",
+   "Hitze und Fliegen Euch plagen, doch der Zucker alles bezahlt."
+  ],
+  "55": [
+   "Ihr Tuch und Kerzen mit bescheidenem Gewinn verkauft.",
+   "Euer Laden wohlbekannt und Eure Waage meist ehrlich ist.",
+   "Ihr um jeden Heller mit dem Eifer feilscht, den Ihr einst an spanische Galeonen gewandt habt."
+  ],
+  "56": [
+   "Ihr Schaluppen für Männer baut, so tollkühn wie Ihr einst.",
+   "Euch der Geruch von Pech und Sägemehl begleitet.",
+   "Ihr die Rümpfe fremder Prisen flickt und schweigt."
+  ],
+  "57": [
+   "Ihr Yams anbaut und ein paar Ziegen haltet.",
+   "Ihr ein kleines Feld pflügt und jedes Jahr um Regen betet.",
+   "Eure Hände rau sind und Euer Gewissen leicht."
+  ],
+  "58": [
+   "Ihr Seeleuten Rum einschenkt und jedem Kapitän mit Münze Gerüchte verkauft.",
+   "Eure Geschichten mit jedem Krug, den Ihr einschenkt, wachsen.",
+   "Ihr ein Entermesser hinter dem Schanktisch und einen Papagei auf dem Bord haltet."
+  ],
+  "59": [
+   "Ihr Eure Netze flickt und den Segeln nachschaut.",
+   "das Meer Euch noch immer nährt, wenn auch nur mit kleinen Fischen.",
+   "Ihr jeden Morgen in einem lecken Boot hinausrudert und seufzt, wenn fern eine Galeone vorüberzieht."
+  ],
+  "60": [
+   "Ihr für einen Kapitän halb so alt wie Ihr Taue holt.",
+   "Ihr Decks schrubbt und Eure Vergangenheit verschweigt.",
+   "Ihr unter dem Befehl eines anderen segelt und über jede Wache murrt."
+  ],
+  "61": [
+   "Ihr fremde Fracht den Kai hinaufschleppt und vom Gold träumt, das einst Euer war.",
+   "Euch jeden Abend der Rücken von Pökelfleischfässern schmerzt.",
+   "Ihr genau die Schiffe beladet, die Ihr einst als Prisen genommen hättet."
+  ],
+  "62": [
+   "Ihr für Euer Brot in einer Schenke Töpfe schrubbt.",
+   "Ihr für einen Kaufmann Botengänge tut, der Euch nicht ein einziges Mal nach Eurem Namen fragt.",
+   "sich niemand an den Kapitän erinnert, der Ihr einst wart."
+  ],
+  "63": [
+   "Ihr mit einem Sack auf dem Rücken von Stadt zu Stadt zieht.",
+   "Ihr unter den Sternen schlaft und für eine Brotrinde Seemannslieder singt.",
+   "Ihr allein die Landstraßen durchstreift."
+  ],
+  "64": [
+   "Ihr von der Mildtätigkeit der Kirche lebt.",
+   "Ihr in einem Torweg schlaft und von Gold träumt.",
+   "Ihr in Lumpen am Kai sitzt und von Schätzen erzählt, die Euch keiner glaubt."
+  ],
+  "65": [
+   "Ihr die Seeleute, die einst Euren Namen fürchteten, um Kupfermünzen anbettelt.",
+   "Ihr Fremden am Kai Euren Hut hinhaltet.",
+   "Ihr an der Kirchentür bettelt und die Kinder Eure Ruhmesgeschichten verspotten."
+  ],
+  "66": [
+   "Ihr in einer Zelle verrottet und den Tag verflucht, an dem Ihr zur See gingt.",
+   "der Kerkermeister Eure einzige Gesellschaft ist.",
+   "Ihr in Ketten die Tage zählt und die Ratten Eure einzigen Kameraden sind."
+  ],
+  "67": [
+   "Euer Name bald vergessen ist, als wärt Ihr nie gesegelt.",
+   "niemand Euer Hinscheiden bemerkt und das Meer Eure Geheimnisse bewahrt.",
+   "der Wind über ein namenloses Grab weht und die Welt Euch vergisst."
+  ],
+  "68": [
+   "Spaniens",
+   "Englands",
+   "Frankreichs",
+   "Hollands",
+   "eines Piraten"
+  ],
+  "69": [
+   "Gebrochen",
+   "Erschüttert",
+   "Unruhig",
+   "Standhaft",
+   "Eifrig",
+   "Kühn"
+  ],
+  "70": [
+   "Rapier",
+   "Schwert",
+   "Entermesser"
+  ],
+  "71": [
+   "Spanien",
+   "England",
+   "Frankreich",
+   "Holland",
+   "Piraten",
+   "niemand"
+  ],
+  "72": [
+   "Meuterisch",
+   "Mürrisch",
+   "Zufrieden",
+   "Fröhlich"
+  ],
+  "73": [
+   "Neuling",
+   "Seemann",
+   "Seebär",
+   "Seewolf",
+   "Neuling"
+  ],
+  "74": [
+   "Wache",
+   "Freier",
+   "Meuterer",
+   "Feindkapitän",
+   "Kapitän",
+   "Erster Maat"
+  ],
+  "75": [
+   "Norden",
+   "Süden",
+   "Osten",
+   "Westen",
+   "Nordwesten",
+   "Nordosten",
+   "Südwesten",
+   "Südosten",
+   "Umland"
+  ],
+  "77": [
+   "%s %s %s",
+   "Feind",
+   "Ihr",
+   "Männer",
+   "das Schiff",
+   "Leute"
+  ],
+  "78": [
+   "Herr",
+   "Fähnrich",
+   "Kapitän",
+   "Major",
+   "Oberst",
+   "Admiral",
+   "Baron",
+   "Graf",
+   "Markgraf",
+   "Herzog"
+  ],
+  "79": [
+   "s",
+   "ein",
+   "zwei",
+   "drei",
+   "vier",
+   "fünf"
+  ],
+  "80": [
+   "einmal",
+   "zweimal",
+   "oftmals"
+  ],
+  "81": [
+   "Spanien",
+   "England",
+   "Frankreich",
+   "Holland"
+  ],
+  "82": [
+   "Englische Flagge",
+   "Französische Flagge",
+   "Holländische Flagge",
+   "Spanische Flagge"
+  ],
+  "83": [
+   "Geschick im Fechten",
+   "Witz und Charme",
+   "Geschick im Navigieren",
+   "Geschick am Geschütz",
+   "Kenntnis der Heilkunst"
+  ],
+  "84": [
+   "Zum Gouverneur",
+   "Handel mit dem Kaufmann",
+   "Zum Bankier",
+   "In die Schenke",
+   "Zum Schiffbauer",
+   "Kunde über die Stadt",
+   "Stadt verlassen",
+   "Kapitänskajüte"
+  ],
+  "86": [
+   "Weiter segeln",
+   "Schatzkarten",
+   "Schatzhöhle",
+   "Logbuch",
+   "Karte der Karibik",
+   "Suchen",
+   "Beute teilen",
+   "Kräfte vereinen",
+   "Spiel sichern",
+   "Spiel beenden",
+   "Fechtübung"
+  ],
+  "87": [
+   " ",
+   "Wählen",
+   "Ausbessern",
+   "Verkaufen",
+   "Kaufen"
+  ],
+  "89": [
+   "Tochter",
+   "Nichte"
+  ],
+  "90": [
+   "Kartenhändler",
+   "Zuträger",
+   "Matrosen zu heuern",
+   "Wirt",
+   "Schankmagd",
+   "Ein Fremder",
+   "Gehen",
+   "Matrosen zu heuern",
+   "Matrosen zu heuern",
+   "Matrosen zu heuern"
+  ],
+  "92": [
+   "s ",
+   "Hans Brenner",
+   "Jakob Wellendorf",
+   "Klaas Harder",
+   "Jan Rieder",
+   "?",
+   " ",
+   "Kapitänskajüte",
+   "~Fertig",
+   "Keine",
+   "Namenlos",
+   ""
+  ],
+  "93": [
+   "Azteken",
+   "Inka",
+   "Maya",
+   "Muisca"
+  ],
+  "94": [
+   "Forts:",
+   "Reichtum:",
+   "Nation:",
+   "Soldaten:",
+   "Bürger:",
+   "Fertig"
+  ],
+  "95": [
+   "Schiffstagebuch",
+   "Eure Leute",
+   "Persönlicher Stand",
+   "Schiffszustand",
+   "Geiseln",
+   "Zurück",
+   "Logbuch"
+  ],
+  "96": [
+   "Zum Anker",
+   "Zur Möwe",
+   "Die Laterne",
+   "Zum Goldenen Ochsen",
+   "Zur Nassen Ratte",
+   "Kapitänsruh",
+   "Zum Salzfass",
+   "Zur Mitra",
+   "Zur Meerjungfrau",
+   "Zu den drei Seefahrern",
+   "Zum Zeichen des Kompasses",
+   "Zum Schwarzen Schwan",
+   "Zum Krummen Mast",
+   "Zum Roten Hahn",
+   "Zum Grünen Papagei",
+   "Zum Müden Bootsmann",
+   "Zum Teertopf",
+   "Zum Silbernen Delphin",
+   "Zur Glocke",
+   "Zum Krebs",
+   "Zum Zuckerhut",
+   "Wind und Wasser",
+   "Zum Königskopf",
+   "Zum Fliegenden Fisch",
+   "Zur Admiralsperücke",
+   "Zur Spanierin",
+   "Zur Alten Kanone",
+   "Zum Guten Hoffen",
+   "Zum Lecken Eimer",
+   "Zum Dicken Mönch",
+   "Sau und Pulverhorn",
+   "Zum Rumfass",
+   "Zur Seeschlange",
+   "Zur Glücksdublone",
+   "Zur Perle",
+   "Zum Gebrochenen Ruder",
+   "Zum Lustigen Böttcher",
+   "Zum Säbel",
+   "Zur Wanderkrabbe",
+   "Zum Eisenkessel",
+   "Zum Stern",
+   "Hängematte und Haken",
+   "Zum Möwennest",
+   "Zur Gesprungenen Glocke",
+   "Zur Gicht des Gouverneurs",
+   "Zum Walzahn",
+   "Zur Funzel",
+   "Zum Stundenglas",
+   "Zum Fernrohr",
+   "Zur Lotsenruh"
+  ],
+  "97": [
+   "Spanier",
+   "Engländer",
+   "Franzose",
+   "Holländer"
+  ],
+  "98": [
+   "1560: Spaniens goldene See",
+   "1600: Die Handelsabenteurer",
+   "1620: Die ersten Pflanzer",
+   "1640: Kriegsgewinne",
+   "1660: Die Brüder der Küste",
+   "1680: Die letzten Bukaniere"
+  ],
+  "99": [
+   "1569: John Hawkins, Kaufmannsabenteurer",
+   "1572: Francis Drakes Überfall",
+   "1628: Piet Heyns Prise",
+   "1666: L'Olonnais vor Maracaibo",
+   "1670: Henry Morgans Panama",
+   "1697: De Pointis vor Cartagena"
+  ],
+  "100": [
+   "Flibustier",
+   "Glücksritter,",
+   "Kaperfahrer und",
+   "Bukaniere der",
+   "Karibischen See",
+   "Euer Begehr?",
+   "Eine neue Laufbahn beginnen",
+   "Eine gespeicherte Laufbahn fortsetzen",
+   "Mit einer berühmten Expedition segeln",
+   "Spiel beenden"
+  ],
+  "101": [
+   "Ruhige Gewässer",
+   "Eine faire Prüfung",
+   "Raue See voraus",
+   "Nur für die Kühnsten"
+  ],
+  "104": [
+   "Spaniens",
+   "Englands",
+   "Frankreichs",
+   "Hollands",
+   "Piraten"
+  ],
+  "105": [
+   "Pirat",
+   "Piratenjäger"
+  ],
+  "106": [
+   "spanisch",
+   "englisch",
+   "französisch",
+   "holländisch",
+   "schwarz",
+   "unbekannt"
+  ]
+ }
+}
