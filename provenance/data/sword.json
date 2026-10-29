@@ -1,7 +1,7 @@
 {
   "id": "data/sword",
   "file": "data/sword.json",
-  "generator": "9e9b74c",
+  "generator": "eb9b553",
   "module": "tools/opendata/tables/sword.py",
   "date": "2026-10-30",
   "design": "Designed anew from the rules in src/sim/sword.c and the open fencer art's frame counts. Each guard covers only its own line for 2 ticks; a step back holds the guard while giving 12 pixels. A slash is slow (6 ticks, the cut on tick 4, the body open while the blade is raised, time to read and parry it) and moves the bar twice as far as a lunge, which is quick (4 ticks, a 10 pixel step in before the point lands). Reach pays for the weight the rules give heavy blades: the rapier strikes from 28 pixels and more, the longsword and cutlass only from 3 and 2, once a lunge has carried them right in, so the three win duels about alike. Harder levels shorten the player's reach, raise his hit threshold, lower the opponent's and its caution. The opponent's scripts go from plain guard-and-cut patterns (level 0) to parries of the player's line and attacks on the lines he leaves open (levels 2-4). Attack keys advance from afar and strike once in reach; a guard is kept until another key, an attack or step back is one per key press. Edges and flag heights fit the 640x480 sword screen. Tuned by bot duels through flibustier-sim at every level and weapon: a player who parries the line he sees raised wins a rapier duel at the middle level in about 700 ticks, loses most at level 3; mindless attacking loses from level 3."
