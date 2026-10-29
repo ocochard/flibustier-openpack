@@ -2,7 +2,7 @@
   "groups": {
     "grp/mybody": {
       "layer": "body",
-      "photo": "body"
+      "photo": null
     },
     "grp/myrapier": {
       "layer": "rapier",
@@ -33,21 +33,19 @@
     317,
     202
   ],
-  "redraw": {
-    "body": "Photograph of a 17th-century buccaneer fighting with a sword, seen from the side facing left, his face in profile turned to the left, his bare head and face uncovered: a lean young man with long brown hair, a loose white linen shirt with full sleeves, a red sash at the waist, dark brown breeches and tall black boots; his empty left hand open, no second weapon, no mask, no helmet. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
-  },
+  "redraw": {},
   "render": [
     951,
     609
   ],
   "denoise": 0.5,
   "blend": "provenance/fencers/my.blend",
-  "model_sha256": "6ef5455a7f8f972c571acdf16642662e3eccf2d2f5685f487851ab97fa1aae04",
+  "model_sha256": "54dae0effb7ea7b3e84448088bfb4a18f74ebe035d8a45e8941fcead512011c0",
   "id": "fencer/my",
   "profile": "draft",
   "seed": 1660,
   "model": "fencers/fencer.py",
   "comfyui": "0.42.0",
-  "generator": "9fea052",
-  "date": "2026-10-28T19:46:12+00:00"
+  "generator": "98a39f7",
+  "date": "2026-10-29T12:38:07+00:00"
 }

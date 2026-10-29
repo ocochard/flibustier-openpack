@@ -2,19 +2,19 @@
   "groups": {
     "grp/hebody": {
       "layer": "body",
-      "photo": "bodyref1"
+      "photo": null
     },
     "grp/hehead1": {
       "layer": "head1",
-      "photo": "bodyref1"
+      "photo": null
     },
     "grp/hehead2": {
       "layer": "head2",
-      "photo": "bodyref2"
+      "photo": null
     },
     "grp/hehead3": {
       "layer": "head3",
-      "photo": "bodyref3"
+      "photo": null
     },
     "grp/herapier": {
       "layer": "rapier",
@@ -45,23 +45,19 @@
     317,
     202
   ],
-  "redraw": {
-    "bodyref1": "Photograph of a 17th-century sailor fighting with a sword, seen from the side facing right, his face in profile turned to the right, toward his opponent, his face uncovered, a red kerchief tied over his hair, a black beard: a stocky man in a loose green linen shirt, a brown leather belt, black breeches and tall black boots; his empty left hand open, no second weapon. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic.",
-    "bodyref2": "Photograph of a 17th-century colonial officer fighting with a sword, seen from the side facing right, his face in profile turned to the right, toward his opponent, his face uncovered, a broad-brimmed black hat on his head, a black beard: a stocky man in a loose green linen shirt, a brown leather belt, black breeches and tall black boots; his empty left hand open, no second weapon. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic.",
-    "bodyref3": "Photograph of a 17th-century Spanish soldier fighting with a sword, seen from the side facing right, his face in profile turned to the right, toward his opponent, his face uncovered, a polished steel morion helmet with a crest and an upturned rim on his head, a black beard: a stocky man in a loose green linen shirt, a brown leather belt, black breeches and tall black boots; his empty left hand open, no second weapon. Plain flat grey-blue background. Historical reenactment photography, sharp focus, realistic."
-  },
+  "redraw": {},
   "render": [
     951,
     609
   ],
   "denoise": 0.5,
   "blend": "provenance/fencers/he.blend",
-  "model_sha256": "6ef5455a7f8f972c571acdf16642662e3eccf2d2f5685f487851ab97fa1aae04",
+  "model_sha256": "54dae0effb7ea7b3e84448088bfb4a18f74ebe035d8a45e8941fcead512011c0",
   "id": "fencer/he",
   "profile": "draft",
   "seed": 1661,
   "model": "fencers/fencer.py",
   "comfyui": "0.42.0",
-  "generator": "9fea052",
-  "date": "2026-10-28T22:10:01+00:00"
+  "generator": "98a39f7",
+  "date": "2026-10-29T13:36:21+00:00"
 }
