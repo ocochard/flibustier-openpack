@@ -1,14 +1,16 @@
 {
   "class": "war galleon",
-  "denoise": 0.75,
+  "redrawn": true,
+  "views": "at sea, Blender",
+  "denoise": 0.5,
   "prompt": "Photograph of a massive war galleon of the 1620s with two full rows of\nred-lidded gun ports, a high wooden stern several decks tall, heavily\ncarved with galleries, deep red and covered in gilded and painted\nsculpture, a long ornate beakhead with a lion figurehead: square\ncourses, topsails and topgallants, a lateen mizzen with a small topsail,\ntwo square sails on the raked bowsprit, under sail at sea, seen from low\nover the water, her bow to the left and a little towards us, a blue sea\nwith white crests and the open sea running to the horizon all round her\nand a sky of soft even blue with a few white clouds, a natural\nphotograph with no frame, no border and no circle. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone.",
-  "model_sha256": "4f1c05e4d0cb1eaceb835b8f2cff98945fb31445f15a6dbd9f993a9974f77853",
+  "model_sha256": "91245cc3c2d126a207552a048eda32b6e5f16ba8df1a7373c0d7f09ee901f2b4",
   "id": "pic/s_war",
   "file": "art/s_war.png",
   "profile": "draft",
   "seed": 1660,
   "model": "ships/ship.py",
   "comfyui": "0.42.0",
-  "generator": "9fea052",
-  "date": "2026-10-28T22:19:00+00:00"
+  "generator": "7758853",
+  "date": "2026-10-29T20:01:41+00:00"
 }

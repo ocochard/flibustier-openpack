@@ -1,14 +1,16 @@
 {
   "class": "merchantman",
-  "denoise": 0.75,
+  "redrawn": true,
+  "views": "at sea, Blender",
+  "denoise": 0.5,
   "prompt": "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nunder sail at sea, seen from low over the water, her bow to the left and\na little towards us, a blue sea with white crests and the open sea\nrunning to the horizon all round her and a sky of soft even blue with a\nfew white clouds, a natural photograph with no frame, no border and no\ncircle. Historical reenactment photography, sharp focus, realistic. The\nwhole ship is built of planked wood: no tower, nothing of stone.",
-  "model_sha256": "4f1c05e4d0cb1eaceb835b8f2cff98945fb31445f15a6dbd9f993a9974f77853",
+  "model_sha256": "91245cc3c2d126a207552a048eda32b6e5f16ba8df1a7373c0d7f09ee901f2b4",
   "id": "pic/s_merch",
   "file": "art/s_merch.png",
   "profile": "draft",
   "seed": 1660,
   "model": "ships/ship.py",
   "comfyui": "0.42.0",
-  "generator": "9fea052",
-  "date": "2026-10-28T22:17:29+00:00"
+  "generator": "7758853",
+  "date": "2026-10-29T19:56:19+00:00"
 }

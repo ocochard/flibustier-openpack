@@ -13,9 +13,10 @@
     "Photograph of a massive war galleon of the 1620s with two full rows of\nred-lidded gun ports, a high wooden stern several decks tall, heavily\ncarved with galleries, deep red and covered in gilded and painted\nsculpture, a long ornate beakhead with a lion figurehead: square\ncourses, topsails and topgallants, a lateen mizzen with a small topsail,\ntwo square sails on the raked bowsprit, at sea, seen exactly from its\nside, its bow to the left, in daylight. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone. Crippled: its mainmast and aftmost mast gone, broken off as stumps, the mainmast fallen over the side, its last sails in rags, holes in its hull, flames and thick smoke.",
     "Photograph of a massive war galleon of the 1620s with two full rows of\nred-lidded gun ports, a high wooden stern several decks tall, heavily\ncarved with galleries, deep red and covered in gilded and painted\nsculpture, a long ornate beakhead with a lion figurehead: square\ncourses, topsails and topgallants, a lateen mizzen with a small topsail,\ntwo square sails on the raked bowsprit, at sea, seen exactly from its\nside, its bow to the left, in daylight. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone. Sinking: all its masts gone, only broken stumps, listing heavily and down by the bow, low in the water, a burning dismasted wreck."
   ],
+  "redrawn": true,
   "blend": "provenance/ships/cur-wargabtl.blend",
-  "denoise": 0.75,
-  "model_sha256": "f6b335e484feab12eaf5c6f3441da5391b36b51279df04174fe761c1472f5bde",
+  "denoise": 0.5,
+  "model_sha256": "27c9ad69eb70b5f620c68ebe70c312cde47dcc847cf98c7eab5f613770670f24",
   "id": "cur/wargabtl",
   "file": "art/wargabtl.sheet",
   "atlas": "art/wargabtl.png",
@@ -24,6 +25,6 @@
   "prompt": "Photograph of a massive war galleon of the 1620s with two full rows of\nred-lidded gun ports, a high wooden stern several decks tall, heavily\ncarved with galleries, deep red and covered in gilded and painted\nsculpture, a long ornate beakhead with a lion figurehead: square\ncourses, topsails and topgallants, a lateen mizzen with a small topsail,\ntwo square sails on the raked bowsprit, at sea, seen exactly from its\nside, its bow to the left, in daylight. Plain flat blue background.\nHistorical reenactment photography, sharp focus, realistic. The whole\nship is built of planked wood: no tower, nothing of stone.",
   "model": "ships/ship.py",
   "comfyui": "0.42.0",
-  "generator": "6d586c3",
-  "date": "2026-10-27T22:23:08+00:00"
+  "generator": "7758853",
+  "date": "2026-10-29T19:08:03+00:00"
 }

@@ -13,9 +13,10 @@
     "Photograph of a small three-masted Elizabethan bark with a stout, plain\nwooden hull, a modest raised bow deck and a raised square stern: square\ncourse and topsail on the fore and main masts, a single lateen sail on\nthe short mizzen, a spritsail under the raked bowsprit, a tarred brown\nhull with a few red gun-port lids, at sea, seen exactly from its side,\nits bow to the left, in daylight. Plain flat blue background. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone. Crippled: its mainmast and aftmost mast gone, broken off as stumps, the mainmast fallen over the side, its last sails in rags, holes in its hull, flames and thick smoke.",
     "Photograph of a small three-masted Elizabethan bark with a stout, plain\nwooden hull, a modest raised bow deck and a raised square stern: square\ncourse and topsail on the fore and main masts, a single lateen sail on\nthe short mizzen, a spritsail under the raked bowsprit, a tarred brown\nhull with a few red gun-port lids, at sea, seen exactly from its side,\nits bow to the left, in daylight. Plain flat blue background. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone. Sinking: all its masts gone, only broken stumps, listing heavily and down by the bow, low in the water, a burning dismasted wreck."
   ],
+  "redrawn": true,
   "blend": "provenance/ships/cur-barqubtl.blend",
-  "denoise": 0.75,
-  "model_sha256": "f6b335e484feab12eaf5c6f3441da5391b36b51279df04174fe761c1472f5bde",
+  "denoise": 0.5,
+  "model_sha256": "27c9ad69eb70b5f620c68ebe70c312cde47dcc847cf98c7eab5f613770670f24",
   "id": "cur/barqubtl",
   "file": "art/barqubtl.sheet",
   "atlas": "art/barqubtl.png",
@@ -24,6 +25,6 @@
   "prompt": "Photograph of a small three-masted Elizabethan bark with a stout, plain\nwooden hull, a modest raised bow deck and a raised square stern: square\ncourse and topsail on the fore and main masts, a single lateen sail on\nthe short mizzen, a spritsail under the raked bowsprit, a tarred brown\nhull with a few red gun-port lids, at sea, seen exactly from its side,\nits bow to the left, in daylight. Plain flat blue background. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone.",
   "model": "ships/ship.py",
   "comfyui": "0.42.0",
-  "generator": "6d586c3",
-  "date": "2026-10-27T22:08:51+00:00"
+  "generator": "7758853",
+  "date": "2026-10-29T18:53:09+00:00"
 }

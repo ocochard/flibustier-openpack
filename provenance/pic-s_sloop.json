@@ -1,14 +1,16 @@
 {
   "class": "sloop",
-  "denoise": 0.75,
+  "redrawn": true,
+  "views": "at sea, Blender",
+  "denoise": 0.5,
   "prompt": "Photograph of a low, sleek single-masted Caribbean sloop of the 1670s\nwith a flush deck and a small square transom: one tall mast raked aft\nwith a large gaff mainsail on a long boom, two triangular jibs on a\nlong, nearly level bowsprit, a small square topsail high on the mast, a\nbare cedar hull with a black wale and a handful of small cannon along\nthe rail, under sail at sea, seen from low over the water, her bow to\nthe left and a little towards us, a blue sea with white crests and the\nopen sea running to the horizon all round her and a sky of soft even\nblue with a few white clouds, a natural photograph with no frame, no\nborder and no circle. Historical reenactment photography, sharp focus,\nrealistic. The whole ship is built of planked wood: no tower, nothing of\nstone.",
-  "model_sha256": "4f1c05e4d0cb1eaceb835b8f2cff98945fb31445f15a6dbd9f993a9974f77853",
+  "model_sha256": "91245cc3c2d126a207552a048eda32b6e5f16ba8df1a7373c0d7f09ee901f2b4",
   "id": "pic/s_sloop",
   "file": "art/s_sloop.png",
   "profile": "draft",
   "seed": 1660,
   "model": "ships/ship.py",
   "comfyui": "0.42.0",
-  "generator": "9fea052",
-  "date": "2026-10-28T22:13:00+00:00"
+  "generator": "7758853",
+  "date": "2026-10-29T19:48:16+00:00"
 }

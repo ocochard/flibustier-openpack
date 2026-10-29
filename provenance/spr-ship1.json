@@ -24,9 +24,10 @@
     "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nunder sail, seen from above at an angle. It floats on the water, its\nhull cut at the waterline. Plain flat blue background. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone. The ship sails to the upper left: its bow, bowsprit and jibs point to the upper left, its stern and stern windows are at the opposite end.",
     "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nunder sail, seen from above at an angle. It floats on the water, its\nhull cut at the waterline. Plain flat blue background. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone. The ship sails up and to the left: its bow, bowsprit and jibs point up and to the left, its stern and stern windows are at the opposite end."
   ],
+  "redrawn": true,
   "blend": "provenance/ships/spr-ship1.blend",
-  "denoise": 0.75,
-  "model_sha256": "f6b335e484feab12eaf5c6f3441da5391b36b51279df04174fe761c1472f5bde",
+  "denoise": 0.5,
+  "model_sha256": "27c9ad69eb70b5f620c68ebe70c312cde47dcc847cf98c7eab5f613770670f24",
   "id": "spr/ship1",
   "file": "art/ship1.sheet",
   "atlas": "art/ship1.png",
@@ -35,6 +36,6 @@
   "prompt": "Photograph of a sturdy English merchant ship of about 1620 with a broad,\ndeep hull, a raised wooden stern two decks high, its poop and\nquarterdeck planked like the rest of the hull, and a smaller raised bow\ndeck: square course and topsail on the fore and main masts, a lateen\nsail on the mizzen, a square spritsail under the steeply raked bowsprit,\nweathered buff and black paint, simple trim and a few small gun ports,\nunder sail, seen from above at an angle. It floats on the water, its\nhull cut at the waterline. Plain flat blue background. Historical\nreenactment photography, sharp focus, realistic. The whole ship is built\nof planked wood: no tower, nothing of stone.",
   "model": "ships/ship.py",
   "comfyui": "0.42.0",
-  "generator": "73db2e3",
-  "date": "2026-10-28T12:43:18+00:00"
+  "generator": "7758853",
+  "date": "2026-10-29T18:33:48+00:00"
 }
