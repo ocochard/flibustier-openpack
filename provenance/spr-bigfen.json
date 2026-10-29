@@ -18,7 +18,7 @@
   },
   "items": {
     "bigfen": "Photograph of a single 17th-century rapier standing upright, its point down, a swept steel hilt with curling guards and a dark wire-bound grip at the top, its long slender blade bright, alone on a plain light grey background, seen from the front, studio light, sharp focus, realistic.",
-    "bigcha": "Photograph of a single deep red rose in full bloom on a long green stem with two leaves, standing upright, alone on a plain light grey background, studio light, sharp focus, realistic.",
+    "bigcha": "Photograph of a single deep red rose in full bloom on a very long, straight green stem standing upright, tall and slender, with two small leaves held close against the stem, the whole flower much taller than wide, alone on a plain light grey background, studio light, sharp focus, realistic.",
     "bignav": "Photograph of a single old brass mariner's astrolabe standing upright, hanging from its small ring: a heavy round wheel with four spokes, a pointer across it, worn and glinting, seen straight from the front, alone on a plain light grey background, studio light, sharp focus, realistic.",
     "biggun": "Photograph of a single 17th-century black iron ship's cannon on its wooden carriage with four small wooden wheels, seen from the front left at an angle, its muzzle pointing to the upper right, alone on a plain light grey background, studio light, sharp focus, realistic.",
     "bigmed": "Photograph of a single old bronze caduceus standing upright: a short staff with two snakes coiled around it and a pair of spread wings at its top, alone on a plain light grey background, seen from the front, studio light, sharp focus, realistic.",
@@ -38,6 +38,6 @@
   "profile": "draft",
   "seed": 1660,
   "comfyui": "0.42.0",
-  "generator": "39f96eb",
-  "date": "2026-10-29T08:55:08+00:00"
+  "generator": "f8b2043",
+  "date": "2026-10-29T12:09:43+00:00"
 }
