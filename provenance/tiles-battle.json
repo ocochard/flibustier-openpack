@@ -47,6 +47,22 @@
       "colour": null,
       "detail": 0.8,
       "cutout": true
+    },
+    {
+      "name": "woods",
+      "seed": 1666,
+      "prompt": "Photograph from above at an angle of a single dense clump of tall dark\ngreen tropical trees and palms with thick undergrowth, a small wood\nsoldiers could hide in, standing alone on a plain flat light grey\nground, nothing else.",
+      "colour": null,
+      "detail": 0.8,
+      "cutout": true
+    },
+    {
+      "name": "marsh",
+      "seed": 1667,
+      "prompt": "Photograph from above at an angle of a single small round clump of\ntall green reeds and low mangrove bushes around one small dark muddy\npool, a lone patch of marsh like a tiny island, standing alone in the\nmiddle of a plain flat light grey ground, nothing else.",
+      "colour": null,
+      "detail": 0.8,
+      "cutout": true
     }
   ],
   "tile": 72,
@@ -58,6 +74,6 @@
   "seed": 1660,
   "composer": "tilemaker.py",
   "comfyui": "0.42.0",
-  "generator": "026b21c",
-  "date": "2026-10-27T23:37:31+00:00"
+  "generator": "3b45b5a",
+  "date": "2026-10-29T22:26:45+00:00"
 }
