@@ -7,7 +7,7 @@
   ],
   "profile": "draft",
   "seed": 1660,
-  "prompt": "Photograph of the stern of a 17th-century galleon at sea, its carved and\ngilded transom with lanterns and rows of windows, sails above, blue sea,\nseen from slightly below. The photograph is mounted in an ornate antique gilded wooden picture\nframe that fills the whole image edge to edge, no wall around it. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "prompt": "Photograph of an ornate antique gilded wooden picture frame, deeply\ncarved with scrolls and shells, hanging on a plain flat warm tan wall,\nthe whole frame visible and filling nearly all the picture, only a thin\nmargin of plain wall round it; in\nthe frame, a painting of the stern of a 17th-century galleon at sea,\nits carved and gilded transom with lanterns and rows of windows, sails\nabove, blue sea, seen from slightly below. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
   "frame": [
     12,
     29,
@@ -35,8 +35,8 @@
     "vae": "qwen_image_vae.safetensors",
     "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
   },
-  "workflow_sha256": "b8ff5cbbcc114975c9e64b2321ba2c424c13574d301b3607cfcb425f40239d95",
+  "workflow_sha256": "19582fa4edc6be54df458e38e4877718edd0917a67fccc4ee8f599978f646710",
   "comfyui": "0.42.0",
-  "generator": "73db2e3",
-  "date": "2026-10-28T12:57:09+00:00"
+  "generator": "85cebfb",
+  "date": "2026-10-29T22:54:34+00:00"
 }
