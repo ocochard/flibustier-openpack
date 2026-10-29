@@ -7,7 +7,7 @@
   ],
   "profile": "draft",
   "seed": 1660,
-  "prompt": "Photograph of the tavern keeper, a tall, rough working man in his forties with short dark hair and a few days' stubble, a faded red shirt with sweat stains and rolled sleeves, a long apron of coarse linen, grimy and stained with wine and grease, standing at the far left of the frame, arms\ncrossed, looking at the viewer, his skin and clothes worn by hard work\nin a hot tavern. Behind him and across the whole rest of the frame, a\nplain, softly lit pale yellow-green plaster wall, empty and out of\nfocus. Warm light. Historical reenactment photography, 50mm lens,\nrealistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
+  "prompt": "Photograph of the tavern keeper, a tall, rough working man in his forties with short dark hair and a few days' stubble, a faded red shirt with sweat stains and rolled sleeves, a long apron of coarse linen, grimy and stained with wine and grease, standing, the whole of him from head to\nknees, arms crossed, looking at the viewer, his skin and clothes worn by\nhard work in a hot tavern, in front of a plain softly lit plaster wall.\nWarm light. Historical reenactment photography, 50mm lens, realistic. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
   "frame": null,
   "field": null,
   "control": null,
@@ -20,6 +20,9 @@
     "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
   },
   "source": "layout described from the original screen",
+  "bevel": null,
+  "cast": null,
+  "finish": null,
   "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
   "models": {
     "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
@@ -27,8 +30,8 @@
     "vae": "qwen_image_vae.safetensors",
     "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
   },
-  "workflow_sha256": "da8255f1862b72cf189036dd4c70b19cc5ae072377246a28ed1228209548dca9",
+  "workflow_sha256": "43adfdf337b93602f464ae07a9637814c01d4a708dcd425d5ba942a3ab284316",
   "comfyui": "0.42.0",
-  "generator": "343a73b",
-  "date": "2026-10-26T18:59:52+00:00"
+  "generator": "9e9b74c",
+  "date": "2026-10-29T23:08:55+00:00"
 }
