@@ -1,0 +1,48 @@
+{
+  "blocks": [
+    {
+      "heading": "Merci aux auteurs de",
+      "lines": ["Pirates! Gold", "MicroProse, 1993", "et à Sid Meier,", "créateur de Pirates!"]
+    },
+    {
+      "heading": "Direction artistique",
+      "lines": ["Michael Haire"]
+    },
+    {
+      "heading": "Programmation",
+      "lines": ["Randall Don Masteller", "Ned Way", "David McKibbin"]
+    },
+    {
+      "heading": "Programmation du son",
+      "lines": ["Ken Lagace", "Jim McConkey", "Jack Miller"]
+    },
+    {
+      "heading": "Musique",
+      "lines": ["J. S. Bach", "Jeffery L. Briggs", "Roland Rizzo", "Anonyme"]
+    },
+    {
+      "heading": "Illustration et animation",
+      "lines": ["Chris Soares", "Harry Teasley", "Andy Laken", "Murray Taylor", "Frank Vivirito, navires"]
+    },
+    {
+      "heading": "Contrôle qualité",
+      "lines": ["Michael Craighead", "David Ginsburg", "Vaughn Thomas", "Mike Rea", "Walter Carter", "Leith Askins", "Mike Corcoran"]
+    },
+    {
+      "heading": "Ce nouveau moteur et son art",
+      "lines": ["Olivier Cochard-Labbé"]
+    },
+    {
+      "heading": "Avec le soutien de",
+      "lines": ["Anthropic,", "Claude for Open Source"]
+    },
+    {
+      "heading": "Images faites avec les outils",
+      "lines": ["de l'équipe ComfyUI", "et de l'équipe Blender"]
+    },
+    {
+      "heading": "Musique refaite par",
+      "lines": ["Pieces of 8-bit"]
+    }
+  ]
+}
