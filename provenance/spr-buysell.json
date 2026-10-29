@@ -8,7 +8,16 @@
     "spr/buysll1f": "art/buysll1f.sheet",
     "spr/buysellg": "art/buysellg.sheet",
     "spr/buybrdg": "art/buybrdg.sheet",
-    "spr/buysll1g": "art/buysll1g.sheet"
+    "spr/buysll1g": "art/buysll1g.sheet",
+    "spr/take-dis": "art/take-dis.sheet",
+    "spr/takboard": "art/takboard.sheet",
+    "spr/takeds1": "art/takeds1.sheet",
+    "spr/takedisf": "art/takedisf.sheet",
+    "spr/takbrdf": "art/takbrdf.sheet",
+    "spr/takeds1f": "art/takeds1f.sheet",
+    "spr/takedisg": "art/takedisg.sheet",
+    "spr/takbrdg": "art/takbrdg.sheet",
+    "spr/takeds1g": "art/takeds1g.sheet"
   },
   "paint": {
     "wood": "Close-up photograph, straight on and flat, of a panel of dark polished mahogany, its fine grain running across, warm even light, filling the whole image, no seam, no edge.",
@@ -25,6 +34,7 @@
     "gem": "Photograph of a single round green glass jewel set in a small brass mount, seen from the front, alone on a plain light grey background, studio light, sharp focus, realistic.",
     "carving": "Photograph of a long, low, symmetrical baroque pediment ornament of carved gilded wood, five times wider than tall: big acanthus leaves and curling scrolls sweeping out to the far left and far right ends from a central fan of leaves, alone on a plain light grey background, seen from the front, studio light, sharp focus, realistic.",
     "scroll": "Photograph of a single long horizontal cartouche of polished brass, a plain smooth cream panel in the middle and curled scroll ends at the left and right, much wider than tall, alone on a plain light grey background, seen from the front, studio light, sharp focus, realistic.",
+    "ship": "Photograph of a single small model of a 17th-century three-masted sailing ship under full white sails, seen exactly from the side, her bow to the right, alone on a plain light grey background, studio light, sharp focus, realistic.",
     "colours": "A simple flat emblem in the style of a crude stencil, solid flat shapes with hard edges, no shading, no texture, filling the whole picture edge to edge on a plain solid black background: a white skull above two crossed white bones."
   },
   "font": "fonts/imfellenglish/IMFeENrm28P.ttf",
@@ -33,6 +43,6 @@
   "profile": "draft",
   "seed": 1660,
   "comfyui": "0.42.0",
-  "generator": "09ac2f3",
-  "date": "2026-10-29T00:19:53+00:00"
+  "generator": "96604a6",
+  "date": "2026-10-29T00:43:03+00:00"
 }
