@@ -9,7 +9,12 @@
         371,
         37
       ],
-      "fill": "gilt"
+      "fill": "gilt",
+      "ramp": [
+        "#3a2205",
+        "#c8901e",
+        "#ffe9a0"
+      ]
     }
   ],
   "paint": {
@@ -17,9 +22,10 @@
   },
   "id": "spr/present",
   "file": "art/present.sheet",
-  "profile": "draft",
+  "profile": "final",
   "seed": 1660,
   "comfyui": "0.42.0",
-  "generator": "2a44af2",
-  "date": "2026-10-29T16:46:35+00:00"
+  "generator": "e00f6e0",
+  "date": "2026-10-29T17:44:21+00:00",
+  "painted_by": "523ba2d"
 }

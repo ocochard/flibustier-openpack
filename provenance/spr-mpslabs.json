@@ -28,9 +28,10 @@
   },
   "id": "spr/mpslabs",
   "file": "art/mpslabs.sheet",
-  "profile": "draft",
+  "profile": "final",
   "seed": 1660,
   "comfyui": "0.42.0",
-  "generator": "2a44af2",
-  "date": "2026-10-29T16:45:12+00:00"
+  "generator": "e00f6e0",
+  "date": "2026-10-29T17:36:04+00:00",
+  "painted_by": "523ba2d"
 }
