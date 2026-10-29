@@ -1,0 +1,19 @@
+{
+  "banks": {
+    "spr/title": "art/title.sheet",
+    "spr/title1": "art/title1.sheet"
+  },
+  "word": "Flibustier",
+  "font": "/usr/local/share/fonts/urw-base35-fonts/Z003-MediumItalic.otf",
+  "paint": {
+    "coin": "Photograph of a single old gold Spanish doubloon coin seen straight on, round and thick, a cross and shields struck on its face, its rim worn, glinting warm gold, alone on a plain light grey background, studio light, sharp focus, realistic.",
+    "gilt": "Close-up photograph, straight on and flat, of old polished gold leaf on carved wood, warm and slightly worn, soft highlights, filling the whole image, no pattern, no edge."
+  },
+  "id": "spr/title",
+  "file": "art/title.sheet",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "924476b",
+  "date": "2026-10-29T07:33:26+00:00"
+}
