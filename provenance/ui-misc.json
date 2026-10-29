@@ -1,0 +1,34 @@
+{
+  "banks": {
+    "ui/misc": "art/misc.sheet",
+    "ui/miscf": "art/miscf.sheet",
+    "ui/miscg": "art/miscg.sheet"
+  },
+  "words": {
+    "eng": {
+      "quit": "Quit? (Y/N)",
+      "paused": "Paused",
+      "continue": "Click to go on",
+      "disembark": "Go ashore?\n(Y/N)"
+    },
+    "fre": {
+      "quit": "Quitter ? (O/N)",
+      "paused": "En pause",
+      "continue": "Cliquez pour\npoursuivre",
+      "disembark": "D\u00e9barquer ?\n(O/N)"
+    },
+    "ger": {
+      "quit": "Beenden? (J/N)",
+      "paused": "Pause",
+      "continue": "Klicken zum\nWeitermachen",
+      "disembark": "An Land gehen?\n(J/N)"
+    }
+  },
+  "id": "ui/misc",
+  "file": "art/misc.sheet",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "e6139c4",
+  "date": "2026-10-29T21:47:49+00:00"
+}
