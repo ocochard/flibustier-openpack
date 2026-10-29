@@ -34,11 +34,11 @@ The pack also holds 1 assets the engine does not ask for: `ui/pointer`.
 Entries the engine reads (the text catalogue) that the original's tables have and the pack's lack (shown empty in the game).
 
 - `text/eng/cstn`: complete
-- `text/eng/cstr`: complete
+- `text/eng/cstr`: 1 missing: string 318
 - `text/fre/cstn`: complete
-- `text/fre/cstr`: complete
+- `text/fre/cstr`: 1 missing: string 318
 - `text/ger/cstn`: complete
-- `text/ger/cstr`: complete
+- `text/ger/cstr`: 1 missing: string 318
 
 ## Every asset
 
