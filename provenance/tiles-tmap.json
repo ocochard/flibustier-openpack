@@ -1,0 +1,47 @@
+{
+  "textures": [
+    {
+      "name": "sea",
+      "seed": 1670,
+      "prompt": "Close-up photograph, straight on and flat, of old smooth cream parchment\nwith faint light tan stains, even and uniform, low contrast, no writing,\nfilling the whole image.",
+      "colour": "#E8D5A8",
+      "detail": 0.3,
+      "cutout": false
+    },
+    {
+      "name": "land",
+      "seed": 1671,
+      "prompt": "Close-up photograph, straight on and flat, of old parchment covered all\nover with a fine even stipple of tiny dots of brown ink, uniform in\nevery direction, no lines, no bands, low contrast, filling the whole\nimage.",
+      "colour": "#8A6236",
+      "detail": 0.45,
+      "cutout": false
+    },
+    {
+      "name": "sand",
+      "seed": 1672,
+      "prompt": "Close-up photograph, straight on and flat, of old parchment washed with\na light brown ink stain, even and uniform, low contrast, filling the\nwhole image.",
+      "colour": "#C9A66E",
+      "detail": 0.5,
+      "cutout": false
+    },
+    {
+      "name": "town",
+      "seed": 1673,
+      "prompt": "A small solid drawing of a single house with a pitched roof, a door and\ntwo windows, filled in dark brown ink, its windows and door left pale,\non a plain light grey ground, like a town on an old map, nothing else.",
+      "colour": null,
+      "detail": 0.8,
+      "cutout": true
+    }
+  ],
+  "tile": 36,
+  "terrain_sha256": "ddfb9665995a7764273586c4692704e6a9a3a0e9554c4f5d4e919ab047c35f9d",
+  "id": "tiles/tmap",
+  "file": "art/tmap.tiles",
+  "atlas": "art/tmap.png",
+  "profile": "draft",
+  "seed": 1670,
+  "composer": "tilemaker.py",
+  "comfyui": "0.42.0",
+  "generator": "afd6a18",
+  "date": "2026-10-29T09:28:45+00:00"
+}
