@@ -1,0 +1,29 @@
+{
+  "banks": {
+    "spr/tcave0": "art/tcave0.sheet",
+    "spr/tcave1": "art/tcave1.sheet",
+    "spr/tcave2": "art/tcave2.sheet",
+    "spr/tcave3": "art/tcave3.sheet",
+    "spr/tcave4": "art/tcave4.sheet",
+    "spr/tcave5": "art/tcave5.sheet",
+    "spr/tcave6": "art/tcave6.sheet",
+    "spr/tcave7": "art/tcave7.sheet"
+  },
+  "piles": [
+    "a small heap of gold coins, doubloons and pieces of eight",
+    "a low spill of gold and silver coins scattered across the rock",
+    "a tall heap of shiny silver bars stacked crosswise high up, a gold candlestick standing on top of the heap",
+    "a wide heap of gold coins with pearl necklaces and red and green jewels in it",
+    "a small open wooden casket full of pearls and jewels",
+    "a big open iron-banded sea chest overflowing with gold coins",
+    "a great heap of gold plates, goblets and coins, a jewelled sword lying across it",
+    "a large open treasure chest of dark wood with brass corners, heaped high with gold coins, a crown on top"
+  ],
+  "id": "spr/tcave0",
+  "file": "art/tcave0.sheet",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "96c81d9",
+  "date": "2026-10-29T01:09:21+00:00"
+}
