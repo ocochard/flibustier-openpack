@@ -1,0 +1,36 @@
+{
+  "lines": [
+    {
+      "text": "CREW OF ONE",
+      "font": "/usr/local/share/fonts/urw-base35-fonts/C059-Bold.otf",
+      "box": [
+        70,
+        180,
+        500,
+        80
+      ],
+      "fill": "gilt"
+    },
+    {
+      "text": "I N T E R A C T I V E",
+      "font": "/usr/local/share/fonts/urw-base35-fonts/P052-Roman.otf",
+      "box": [
+        170,
+        274,
+        300,
+        22
+      ],
+      "fill": "gilt"
+    }
+  ],
+  "paint": {
+    "gilt": "Close-up photograph, straight on and flat, of old polished gold leaf on carved wood, warm and slightly worn, soft highlights, filling the whole image, no pattern, no edge."
+  },
+  "id": "pic/micro",
+  "file": "art/micro.png",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "2a44af2",
+  "date": "2026-10-29T16:43:18+00:00"
+}

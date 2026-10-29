@@ -1,0 +1,25 @@
+{
+  "lines": [
+    {
+      "text": "and",
+      "font": "/usr/local/share/fonts/urw-base35-fonts/Z003-MediumItalic.otf",
+      "box": [
+        0,
+        0,
+        181,
+        35
+      ],
+      "fill": "gilt"
+    }
+  ],
+  "paint": {
+    "gilt": "Close-up photograph, straight on and flat, of old polished gold leaf on carved wood, warm and slightly worn, soft highlights, filling the whole image, no pattern, no edge."
+  },
+  "id": "spr/and",
+  "file": "art/and.sheet",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "2a44af2",
+  "date": "2026-10-29T16:44:15+00:00"
+}
