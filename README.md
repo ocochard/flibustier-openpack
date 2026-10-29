@@ -119,10 +119,15 @@ and checked by SHA-256, and rewrites these files.
 
 ## Text
 
-The pack has no text of its own yet: the game's text still comes from
-the original. Replacement text is two JSON files per language, given as
-`text/<lang>/cstr` and `text/<lang>/cstn` in the asset lists, in the
-format of "Open text" in
+`text/eng/` holds the game's English text, newly written for this pack
+in the English of about 1650: a chronicler for the story pages, and
+voices of their own for the governors and their daughters, the
+merchants, the barmaids, the sailors and the pirates. `pack.d/text.ini`
+maps it. French and German still come from the original.
+
+The text is two JSON files per language, given as `text/<lang>/cstr`
+and `text/<lang>/cstn` in the asset lists, in the format of "Open text"
+in
 [`asset-packs.md`](https://github.com/ocochard/flibustier/blob/main/aidd_docs/memory/internal/asset-packs.md#open-text).
 [`text-catalogue.md`](https://github.com/ocochard/flibustier/blob/main/aidd_docs/memory/internal/text-catalogue.md)
 says what each entry is for, its `%s` arguments and its constraints.

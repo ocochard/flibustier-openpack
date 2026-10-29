@@ -1,0 +1,890 @@
+{
+ "groups": {
+  "2": [
+   "Villalobos",
+   "Quiroga",
+   "Barrero",
+   "Montesinos",
+   "Ocampo",
+   "Sotelo",
+   "Arriaga",
+   "Cabrera",
+   "Valdivieso",
+   "Ledesma",
+   "Zamudio",
+   "Peralta",
+   "Benavides",
+   "Carrizo",
+   "Ibarra",
+   "Salcedo"
+  ],
+  "3": [
+   "Whitlock",
+   "Penhallow",
+   "Ashcombe",
+   "Thursby",
+   "Blackmore",
+   "Fenwick",
+   "Greythorne",
+   "Tolley",
+   "Prideaux",
+   "Garrard",
+   "Ruddock",
+   "Stainer",
+   "Bulwer",
+   "Kempe",
+   "Oakes",
+   "Wetherby"
+  ],
+  "4": [
+   "Ravenel",
+   "Desmarets",
+   "Chauvelin",
+   "Brissac",
+   "Lambert",
+   "Tissot",
+   "Vauclair",
+   "Faucher",
+   "Picard",
+   "Delaunay",
+   "Bellefond",
+   "Marsolet",
+   "Lesueur",
+   "Boisrenard",
+   "Valcourt",
+   "Thibault"
+  ],
+  "5": [
+   "Verbrugge",
+   "Dekker",
+   "Hoekstra",
+   "Van Velsen",
+   "Brouwer",
+   "Kuipers",
+   "Vermeulen",
+   "Visser",
+   "Bakker",
+   "Jansen",
+   "Haverkamp",
+   "Wijnants",
+   "Prins",
+   "Koster",
+   "Bosch",
+   "Ten Hove"
+  ],
+  "6": [
+   "Jan",
+   "Feb",
+   "Mar",
+   "Apr",
+   "May",
+   "Jun",
+   "Jul",
+   "Aug",
+   "Sep",
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "7": [
+   "January",
+   "February",
+   "March",
+   "April",
+   "May",
+   "June",
+   "July",
+   "August",
+   "September",
+   "October",
+   "November",
+   "December"
+  ],
+  "8": [
+   "Pinnace",
+   "Sloop",
+   "Barque",
+   "Fluyt",
+   "Merchantman",
+   "Frigate",
+   "War Galleon",
+   "Galleon",
+   "Fast Galleon",
+   "Fort",
+   " (damaged)"
+  ],
+  "9": [
+   "Poor",
+   "Modest",
+   "Prosperous",
+   "Wealthy"
+  ],
+  "10": [
+   "Price",
+   "Cargo",
+   "Food",
+   "Goods",
+   "Guns",
+   "In the hold",
+   " gold pieces seized!",
+   "",
+   "tons",
+   "barrels",
+   "bales",
+   "pieces"
+  ],
+  "11": [
+   "a pinnace",
+   "a sloop",
+   "a barque",
+   "a fluyt",
+   "a merchantman",
+   "a frigate",
+   "a war galleon",
+   "a galleon",
+   "a fast galleon"
+  ],
+  "12": [
+   "Light",
+   "Fresh",
+   "Strong"
+  ],
+  "13": [
+   "S",
+   "SSW",
+   "SW",
+   "WSW",
+   "W",
+   "WNW",
+   "NW",
+   "NNW",
+   "N",
+   "NNE",
+   "NE",
+   "ENE",
+   "E",
+   "ESE",
+   "SE",
+   "SSE"
+  ],
+  "14": [
+   " ",
+   "Light damage",
+   "Damaged",
+   "Heavy damage",
+   "Sinking!"
+  ],
+  "15": [
+   "some",
+   "half",
+   "most"
+  ],
+  "16": [
+   "Townsfolk say",
+   "The host says",
+   "A tinker says",
+   "Your men say"
+  ],
+  "18": [
+   "",
+   "`Hark, Captain, here is the talk:\n\n",
+   "Ship's News",
+   " No news heard.\n"
+  ],
+  "20": [
+   "%s %s: %s\n",
+   "Visited %s.",
+   "Made %s %s.",
+   "Sacked %s.",
+   "Took %s %s.",
+   "Sank %s %s.",
+   "Fought %s %s.",
+   "Found a lost city's treasure.",
+   "Dug up buried treasure.",
+   "%s at %s.",
+   "%s offers pardon to pirates.",
+   "Natives raid %s.",
+   "Gold struck near %s.",
+   "Fever rages in %s.",
+   "New governor at %s.",
+   "Pirates sack %s.",
+   "%s at war with %s.",
+   "%s makes peace with %s.",
+   "%s allies with %s.",
+   "%s takes %s.",
+   "Treasure fleet at %s.",
+   "Silver train at %s.",
+   "Took %s for %s.",
+   "Failed to take %s.",
+   "Seized the treasure fleet.",
+   "Seized the silver train.",
+   "Rescued my %s.",
+   "",
+   "Letter to carry to %s.",
+   "Papers to carry to %s.",
+   "%s sighted off %s.",
+   "Sworn to free a captive in %s.",
+   "Letter delivered at %s.",
+   "Papers delivered at %s.",
+   "Brought %s to justice.",
+   "Freed a prisoner from %s.",
+   "A governor is much displeased."
+  ],
+  "21": [
+   "Letter of marque",
+   "(no title)",
+   "Suspect",
+   "Hostile"
+  ],
+  "22": [
+   "Prisoners\n",
+   "%s (hunter)\n",
+   "%s (pirate)\n",
+   "Others\n"
+  ],
+  "23": [
+   "%s\n%s colony\n%s\n%s\n%s soldiers\n%s citizens\n%s",
+   "%s\nUnknown.\n",
+   " %s fort%s",
+   " Gold: %s,000",
+   "%s: our news of it is old and may be false.\n"
+  ],
+  "25": [
+   "%s %s, we stand",
+   " allied with ",
+   " %sat war with ",
+   "%s",
+   "%s and %s",
+   "%s, %s and %s",
+   ". Strike at them hard, and the Crown shall not forget it.",
+   "and ",
+   ".\n"
+  ],
+  "26": [
+   "`After dinner, %s draws you aside and, in a low voice, tells you all that is known of the treasure fleet and the silver train.",
+   "his clerk",
+   "his wife"
+  ],
+  "27": [
+   "`%s is at %s.",
+   "sea",
+   "the mine"
+  ],
+  "28": [
+   "Which ship would you sell?\n",
+   "Which ship needs mending?\n",
+   "~Not today\n",
+   "~%s%s: %s gold\n",
+   "~%s: sound\n",
+   "~Done\n",
+   "~All mended\n"
+  ],
+  "29": [
+   "A fort guards the harbour mouth.\n",
+   "The harbour is guarded by %s forts.\n",
+   "The treasure fleet lies in the harbour!\n",
+   "The silver train rests here!\n",
+   "Sail into the harbour",
+   "March into town",
+   "village",
+   "port",
+   "A stout fort stands watch over the town.\n",
+   "The town is guarded by %s forts.\n"
+  ],
+  "30": [
+   "Reloading",
+   "Guns ready",
+   "Battle sails",
+   "Full sail",
+   "Making sail",
+   "Taking in sail",
+   "No damage",
+   "the enemy captain",
+   "%s winds",
+   "from %s",
+   "Guns: ",
+   "Men: ",
+   "Speed: "
+  ],
+  "31": [
+   "Buried Treasure Map",
+   "Map to my %s",
+   "Map to a Lost Treasure",
+   "Torn scrap",
+   "Somewhere near %s"
+  ],
+  "32": [
+   "Open",
+   "Woods",
+   "Swamp",
+   "Water",
+   "",
+   "Men     Muskets",
+   "Company",
+   "Defenders",
+   "Terrain:",
+   "Morale:"
+  ],
+  "33": [
+   "your hopes and schemes",
+   "your voyage to %s",
+   "your honours as %s %s",
+   "your plunder of the town of %s",
+   "your capture of %s %s",
+   "your sinking of %s %s",
+   "your fight with %s %s",
+   "your find of a lost city's gold",
+   "your digging up of buried treasure",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "your taking of %s for the %s Crown",
+   "your failed attack on %s",
+   "your capture of the treasure fleet",
+   "your capture of the silver train",
+   "the rescue of your lost %s"
+  ],
+  "34": [
+   "cowardly",
+   "upstart",
+   "seasoned",
+   "daring",
+   "renowned",
+   "legendary"
+  ],
+  "35": [
+   "Greenhorn",
+   "Mariner",
+   "Old Salt",
+   "Sea Wolf",
+   "Greenhorn"
+  ],
+  "36": [
+   "Hale",
+   "Fair",
+   "Poor",
+   "Failing"
+  ],
+  "37": [
+   "sister",
+   "father",
+   "niece",
+   "uncle"
+  ],
+  "38": [
+   "`You never won any title",
+   "`You were made",
+   " %s %s",
+   " and %s %s",
+   "an obscure",
+   "a humble",
+   "a worthy",
+   "a respected",
+   "an esteemed",
+   "a distinguished",
+   "an eminent",
+   "a most illustrious"
+  ],
+  "39": [
+   "`You gathered %s gold pieces %sin your career, and are now %s.",
+   "and %s acres of land ",
+   "a penniless wretch",
+   "of slender means",
+   "a man of modest fortune",
+   "a man of handsome fortune",
+   "a wealthy gentleman",
+   "a very rich man",
+   "rich as any lord in Europe"
+  ],
+  "40": [
+   "`Your deeds upon the high seas have won you renown as %s captain.",
+   "`Your share of the expedition's plunder came to %s gold pieces, and the world remembers you as %s captain.",
+   "a craven and despised",
+   "an unremarkable",
+   "a tolerably capable",
+   "a bold and able",
+   "a famous",
+   "a most renowned",
+   "the most celebrated"
+  ],
+  "41": [
+   "You never took a wife.\n",
+   "You wed %s.\n",
+   "the daughter of a rich merchant",
+   "a governor's lovely daughter",
+   "a governor's fair niece",
+   "a lady of high birth"
+  ],
+  "42": [
+   "Looking back upon your travels, you are %s.\n",
+   "bitter and alone",
+   "sour and weary",
+   "neither glad nor sad",
+   "content with your lot",
+   "glad of heart",
+   "joyful and at peace"
+  ],
+  "43": [
+   "royal councillor",
+   "governor",
+   "wealthy lord",
+   "rich landowner",
+   "magistrate",
+   "merchant prince",
+   "planter of note",
+   "banker",
+   "harbour master",
+   "shipowner of means",
+   "sugar planter",
+   "merchant",
+   "shipwright",
+   "farmer",
+   "tavern keeper",
+   "humble fisherman",
+   "deckhand",
+   "stevedore",
+   "drudge",
+   "vagabond",
+   "pauper",
+   "beggar",
+   "prisoner",
+   "nobody"
+  ],
+  "44": [
+   "the King himself seeks your counsel on the affairs of the Indies.",
+   "your word is heeded in the halls of power.",
+   "lords and bishops wait upon your pleasure at every levee."
+  ],
+  "45": [
+   "you rule in His Majesty's name, and the planters doff their hats whenever your carriage passes by.",
+   "you hold court each evening and hang a pirate now and then for form's sake.",
+   "the colonists grumble at your taxes but toast your health."
+  ],
+  "46": [
+   "you keep a great house and a pack of hounds.",
+   "your table is the finest for a hundred leagues.",
+   "you dine off silver plate and your tenants call you a fair master."
+  ],
+  "47": [
+   "your fields stretch further than the eye can see.",
+   "you ride out each morning over your acres and count yourself well content.",
+   "the parish makes you churchwarden, and none dares remind you of your past."
+  ],
+  "48": [
+   "you sit in judgement on rogues no worse than you were once yourself.",
+   "you are known for stern sentences and a soft heart.",
+   "you send many a smuggler to the stocks, and wink at a few old shipmates."
+  ],
+  "49": [
+   "your ships carry sugar and hides to every port in Europe.",
+   "the counting-house hums with your affairs.",
+   "you lend money to governors and are paid in favours, which suit you better."
+  ],
+  "50": [
+   "your tobacco fetches the best price on the quay.",
+   "you sit on your veranda each evening and watch the sea.",
+   "your harvests are the envy of your neighbours, and your rum is famed."
+  ],
+  "51": [
+   "half the captains in port owe you money, and know it.",
+   "you lend gold at a fair rate, or so you assure your clients.",
+   "your strongroom holds more doubloons than you ever took at sea."
+  ],
+  "52": [
+   "no ship drops anchor without your leave.",
+   "you collect the harbour dues and tell tall tales of your voyages to every new arrival.",
+   "you watch the ships come and go, and wish yourself aboard each one."
+  ],
+  "53": [
+   "your three sloops ply the coast and bring home a fair profit.",
+   "you send other men to sea now, and keep the better share for yourself.",
+   "your ships sail and your purse grows."
+  ],
+  "54": [
+   "the mill turns and the sugar flows from dawn to dusk.",
+   "your cane grows tall and your account books grow fat.",
+   "the heat and the flies plague you, but the sugar pays for all."
+  ],
+  "55": [
+   "you sell cloth and candles at a modest profit.",
+   "your shop is well known and your scales mostly honest.",
+   "you haggle over every penny with the zeal you once spent on Spanish galleons."
+  ],
+  "56": [
+   "you build stout sloops for men as reckless as you once were.",
+   "the smell of pitch and sawdust stays with you.",
+   "you mend the hulls of other men's prizes and keep your counsel."
+  ],
+  "57": [
+   "you grow yams and keep a few goats.",
+   "you plough a small field and pray each year for rain.",
+   "your hands are rough and your conscience easy."
+  ],
+  "58": [
+   "you pour rum for sailors and sell rumours to any captain with coin.",
+   "your stories grow taller with every jug you pour.",
+   "you keep a cutlass behind the bar and a parrot on the shelf."
+  ],
+  "59": [
+   "you mend your nets and watch the sails go by.",
+   "the sea still feeds you, if only on a little fish.",
+   "you row out each dawn in a leaky boat, and when a galleon passes far off, you sigh."
+  ],
+  "60": [
+   "you haul ropes for a captain half your age.",
+   "you swab decks and keep your past to yourself.",
+   "you sail under another man's orders and grumble at every watch."
+  ],
+  "61": [
+   "you carry other men's cargo up the quay and dream of the gold you once had.",
+   "your back aches each night from barrels of salt pork.",
+   "you load the very ships you once would have taken as prizes."
+  ],
+  "62": [
+   "you scrub pots in a tavern kitchen for your bread.",
+   "you fetch and carry for a merchant who never once asks your name.",
+   "no one remembers the captain you once were."
+  ],
+  "63": [
+   "you wander from town to town with a sack on your back.",
+   "you sleep under the stars and sing old sea songs for a crust.",
+   "you roam the roads alone."
+  ],
+  "64": [
+   "you live on the charity of the church.",
+   "you sleep in a doorway and dream of gold.",
+   "you sit on the quay in rags, telling tales of treasure that no one believes."
+  ],
+  "65": [
+   "you beg for coppers from the sailors who once feared your name.",
+   "you hold out your hat to strangers on the quay.",
+   "you beg at the church door and children mock your tales of glory."
+  ],
+  "66": [
+   "you rot in a cell and curse the day you first went to sea.",
+   "the gaoler is your only company.",
+   "you count the days in chains, and the rats are your only shipmates."
+  ],
+  "67": [
+   "your name is soon forgotten, as if you had never sailed at all.",
+   "no one marks your passing, and the sea keeps your secrets.",
+   "the wind blows over an unmarked grave, and the world forgets you."
+  ],
+  "68": [
+   "a Spanish",
+   "an English",
+   "a French",
+   "a Dutch",
+   "a pirate"
+  ],
+  "69": [
+   "Broken",
+   "Shaken",
+   "Uneasy",
+   "Steady",
+   "Eager",
+   "Fearless"
+  ],
+  "70": [
+   "Rapier",
+   "Longsword",
+   "Cutlass"
+  ],
+  "71": [
+   "Spanish",
+   "English",
+   "French",
+   "Dutch",
+   "Pirate",
+   "Unknown"
+  ],
+  "72": [
+   "Mutinous",
+   "Sullen",
+   "Content",
+   "Merry"
+  ],
+  "73": [
+   "a greenhorn",
+   "a mariner",
+   "an old salt",
+   "a sea wolf",
+   "a greenhorn"
+  ],
+  "74": [
+   "Guard",
+   "Suitor",
+   "Mutineer",
+   "Enemy Captain",
+   "Captain",
+   "First Mate"
+  ],
+  "75": [
+   "north",
+   "south",
+   "east",
+   "west",
+   "north-west",
+   "north-east",
+   "south-west",
+   "south-east",
+   "near"
+  ],
+  "77": [
+   "%s %s %s",
+   "Foe",
+   "You",
+   " Men",
+   "the ship",
+   "Crew"
+  ],
+  "78": [
+   "Master",
+   "Ensign",
+   "Captain",
+   "Major",
+   "Colonel",
+   "Admiral",
+   "Baron",
+   "Count",
+   "Marquis",
+   "Duke"
+  ],
+  "79": [
+   "s",
+   "one",
+   "two",
+   "three",
+   "four",
+   "five"
+  ],
+  "80": [
+   "once",
+   "twice",
+   "many times over"
+  ],
+  "81": [
+   "Spain",
+   "England",
+   "France",
+   "Holland"
+  ],
+  "82": [
+   "English colours",
+   "French colours",
+   "Dutch colours",
+   "Spanish colours"
+  ],
+  "83": [
+   "Skill at Fencing",
+   "Wit and Charm",
+   "Skill in Navigation",
+   "Skill at Gunnery",
+   "Skill in Medicine"
+  ],
+  "84": [
+   "See the Governor",
+   "Trade with Merchant",
+   "Go to the Banker",
+   "Visit the Tavern",
+   "Visit the Shipwright",
+   "Ask about the town",
+   "Leave town",
+   "Captain's Cabin"
+  ],
+  "86": [
+   "Back to the voyage",
+   "Treasure maps",
+   "Treasure cave",
+   "Log book",
+   "Chart of the Caribbean",
+   "Search",
+   "Share plunder",
+   "Join forces",
+   "Save game",
+   "Quit game",
+   "Fencing practice"
+  ],
+  "87": [
+   " ",
+   "Select",
+   "Repair",
+   "Sell",
+   "Buy"
+  ],
+  "89": [
+   "daughter",
+   "niece"
+  ],
+  "90": [
+   "Map seller",
+   "Newsmonger",
+   "Sailors for hire",
+   "Innkeeper",
+   "Barmaid",
+   "A stranger",
+   "Leave",
+   "Sailors for hire",
+   "Sailors for hire",
+   "Sailors for hire"
+  ],
+  "92": [
+   "'s ",
+   "Will Harrow",
+   "Nathaniel Crowe",
+   "Ned Calloway",
+   "John Quill",
+   "?",
+   " ",
+   "Captain's Cabin",
+   "~Done",
+   "None",
+   "Unnamed",
+   ""
+  ],
+  "93": [
+   "Aztec",
+   "Inca",
+   "Maya",
+   "Muisca"
+  ],
+  "94": [
+   "Forts:",
+   "Wealth:",
+   "Nation:",
+   "Soldiers:",
+   "Citizens:",
+   "Done"
+  ],
+  "95": [
+   "Ship's Log",
+   "Your Company",
+   "Personal Status",
+   "Ship Status",
+   "Hostages",
+   "Close",
+   "Log Book"
+  ],
+  "96": [
+   "The Rusty Anchor",
+   "The Blue Gull",
+   "The Lantern",
+   "The Gilded Ox",
+   "The Drowned Rat",
+   "The Captain's Rest",
+   "The Salt Barrel",
+   "The Mitre",
+   "The Mermaid's Purse",
+   "The Three Mariners",
+   "The Sign of the Compass",
+   "The Black Swan",
+   "The Crooked Mast",
+   "The Cockerel",
+   "The Green Parrot",
+   "The Weary Boatswain",
+   "The Tar Pot",
+   "The Silver Dolphin",
+   "The Bell and Cutlass",
+   "The Turtle Shell",
+   "The Sugar Loaf",
+   "The Wind and Water",
+   "The King's Head",
+   "The Flying Fish",
+   "The Admiral's Lost Wig",
+   "The Spanish Lady",
+   "The Old Cannon",
+   "The Sailor's Hope",
+   "The Leaky Bucket",
+   "The Fat Friar",
+   "The Pig and Powderhorn",
+   "The Rum Cask",
+   "The Sea Serpent",
+   "The Lucky Doubloon",
+   "The Parrot and Pearl",
+   "The Broken Oar",
+   "The Jolly Cooper",
+   "The Cutlass",
+   "The Wandering Crab",
+   "The Iron Kettle",
+   "The Seven Stars",
+   "The Hammock and Hook",
+   "The Gull's Nest",
+   "The Cracked Bell",
+   "The Governor's Gout",
+   "The Whale's Tooth",
+   "The Smuggler's Lamp",
+   "The Hourglass",
+   "The Spyglass Inn",
+   "The Pilot's Rest"
+  ],
+  "97": [
+   "Spaniard",
+   "Englishman",
+   "Frenchman",
+   "Dutchman"
+  ],
+  "98": [
+   "1560: Spain's Golden Sea",
+   "1600: The Merchant Adventurers",
+   "1620: The First Planters",
+   "1640: Profits of War",
+   "1660: The Brethren of the Coast",
+   "1680: The Last Buccaneers"
+  ],
+  "99": [
+   "1569: John Hawkins, Merchant Venturer",
+   "1572: Francis Drake's Raid",
+   "1628: Piet Heyn's Prize",
+   "1666: L'Olonnais at Maracaibo",
+   "1670: Henry Morgan's Panama",
+   "1697: De Pointis at Cartagena"
+  ],
+  "100": [
+   "Flibustier",
+   "Gentlemen of fortune,",
+   "privateers and",
+   "buccaneers of the",
+   "Spanish Main",
+   "What is your pleasure?",
+   "Begin a new career",
+   "Resume a saved career",
+   "Sail with a famous expedition",
+   "Quit game"
+  ],
+  "101": [
+   "Easy waters",
+   "A fair challenge",
+   "Rough seas ahead",
+   "Only for the boldest"
+  ],
+  "104": [
+   "a Spanish",
+   "an English",
+   "a French",
+   "a Dutch",
+   "a pirate"
+  ],
+  "105": [
+   "pirate",
+   "pirate hunter"
+  ],
+  "106": [
+   "Spanish",
+   "English",
+   "French",
+   "Dutch",
+   "pirate",
+   "unknown"
+  ]
+ }
+}
