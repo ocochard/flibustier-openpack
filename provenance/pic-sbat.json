@@ -5,7 +5,7 @@
     1440,
     1080
   ],
-  "profile": "draft",
+  "profile": "final",
   "seed": 1660,
   "prompt": "Close-up photograph, straight on and flat, of a tall board of polished\nhoney-coloured oak, its fine straight grain running from top to bottom,\nfilling the whole image with no seam, edge, border or shadow, warm even\nlight. Style: one consistent look for the whole series, photographed like a\nperiod film still of the 1660s Caribbean, natural warm light, gentle\nfilm grain, muted rich colours with warm amber and deep teal tones,\nmoderate contrast, shallow depth of field, realistic textures, no text.",
   "frame": null,
@@ -27,11 +27,10 @@
   "models": {
     "unet": "qwen_image_2512_fp8_e4m3fn.safetensors",
     "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
-    "vae": "qwen_image_vae.safetensors",
-    "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
+    "vae": "qwen_image_vae.safetensors"
   },
-  "workflow_sha256": "4b88e275f29c03849e0aea5c815cdd654a9ab28b19e61804084dd5af4b4f18fe",
+  "workflow_sha256": "791897e1a2b35f99dad57999f55303451a6f9983095cb87043d365314b8ae69d",
   "comfyui": "0.42.0",
-  "generator": "026b21c",
-  "date": "2026-10-27T23:52:09+00:00"
+  "generator": "4404113",
+  "date": "2026-10-30T00:34:17+00:00"
 }

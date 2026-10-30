@@ -3,25 +3,25 @@
     {
       "name": "sea",
       "seed": 1660,
-      "prompt": "Aerial photograph taken straight down from very high above of calm deep\nopen sea, an even deep blue with a very fine, faint, uniform texture of\ntiny ripples, low contrast, no foam, no glare, no sun reflection,\nnothing else, filling the whole image.",
-      "colour": "#123A78",
-      "detail": 0.45,
+      "prompt": "Satellite photograph from very high altitude of the deep open Caribbean\nSea: dark navy-blue water with a faint, fine, even texture of distant\nswell lines and a very few tiny scattered whitecaps, a slight variation\nof tone, no glare, no land, no clouds, nothing else, filling the whole\nimage.",
+      "colour": "#0F3466",
+      "detail": 0.32,
       "cutout": false
     },
     {
       "name": "land",
       "seed": 1661,
-      "prompt": "Satellite photograph taken straight down from very high above of a vast\ntropical rainforest, the canopy seen as a fine, even, uniform texture of\ncountless tiny green tree crowns, low contrast, no clearings, no rivers,\nnothing else, filling the whole image.",
-      "colour": "#3C6E28",
-      "detail": 0.8,
+      "prompt": "Satellite photograph from very high altitude of the hilly interior of a\ntropical Caribbean island: dense dark green rainforest covering steep\nridges and winding valleys, lit by a low sun from the upper left so the\nrelief shows in light and shade, a few lighter green clearings and an\nolive-brown dry slope, no rivers, no roads, no buildings, no clouds,\nfilling the whole image.",
+      "colour": "#2B4724",
+      "detail": 0.85,
       "cutout": false
     },
     {
       "name": "sand",
       "seed": 1662,
-      "prompt": "Aerial photograph taken straight down of pale golden beach sand, fine,\neven and uniform, low contrast, nothing else, filling the whole image.",
-      "colour": "#D2B478",
-      "detail": 0.6,
+      "prompt": "Satellite photograph from high altitude of a pale Caribbean beach: cream\nwhite sand with faint ripples and a few patches of olive coastal scrub,\neven light, filling the whole image.",
+      "colour": "#CDBE96",
+      "detail": 0.7,
       "cutout": false
     },
     {
@@ -42,6 +42,6 @@
   "seed": 1660,
   "composer": "tilemaker.py",
   "comfyui": "0.42.0",
-  "generator": "adfdeb4",
-  "date": "2026-10-27T20:14:37+00:00"
+  "generator": "4404113",
+  "date": "2026-10-30T00:10:17+00:00"
 }
