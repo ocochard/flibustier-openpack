@@ -1,0 +1,8 @@
+{
+  "id": "data/layout/board",
+  "file": "data/layout-board.json",
+  "generator": "7f3764a",
+  "module": "tools/opendata/tables/layouts.py",
+  "date": "2026-10-30",
+  "design": "Designed on the open pack's art/buysell.png (its frames scaled by 480/1080) around the engine's fixed board, signs and numbers: the name tag and the player's colours in the top corners (the sell and buy clicks), parchment boxes centred under the purses, and each row a ledger line centred on its large digits: name at the outer edge, price with \"pcs\", count, and the good's picture on the row's click area. Checked by rendering the merchant and the loot board headless with the open pack."
+}
