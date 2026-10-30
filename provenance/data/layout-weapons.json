@@ -1,8 +1,8 @@
 {
   "id": "data/layout/weapons",
   "file": "data/layout-weapons.json",
-  "generator": "d5078e7",
+  "generator": "a646de6",
   "module": "tools/opendata/tables/layouts.py",
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "design": "Measured on the open pack's art/wpnsel.png, drawn at (369, 56) and scaled to 640x480: each rectangle covers a blade, told by its look (swept-hilt rapier, curved cutlass, cross-guarded longsword)."
 }
