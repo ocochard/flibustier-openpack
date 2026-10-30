@@ -25,6 +25,7 @@
     "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
   },
   "source": "layout from the game's spot rectangles",
+  "bevel": null,
   "cast": [
     {
       "character": "a real sheet of old, creased",
@@ -42,19 +43,19 @@
       "workflow_sha256": "10ec5bdd0cb99364736c63d9a604747f64843ef78ff3722e7533b119d9cc70ed"
     },
     {
-      "character": "a thick old leather-bound log book",
+      "character": "a big old leather-bound log book",
       "portrait": null,
       "portrait_sha256": null,
       "ref_crop": null,
       "rect": [
-        126,
-        160,
-        90,
-        62
+        116,
+        136,
+        100,
+        86
       ],
       "seed": 2063,
-      "prompt": "Image 1 is a part of a sea captain's cabin, a wooden shelf under the stern windows. Add to image 1 a thick old leather-bound log book lying closed flat on the shelf, wholly resting on it, its worn brown leather and brass corners, in the middle of image 1, at the right scale. Add nothing else. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
-      "workflow_sha256": "8f71acbddb42869165b6397f4141687049fb85ac1ab91c62e83beb54f1db6347"
+      "prompt": "Image 1 is a part of a sea captain's cabin, a wooden shelf under the stern windows. Add to image 1 a big old leather-bound log book lying wide open on a slanted wooden book stand that rests on the shelf, the book filling most of the width of the picture: seen from straight in front, its two pages face the camera squarely, turned towards the room, away from the windows; cream paper filled with columns of faded brown handwriting, its worn brown leather covers spread on each side, in the middle of image 1, at the right scale. Add nothing else. Keep everything else of image 1 exactly as it is, with the same light and colours. Photograph, realistic.",
+      "workflow_sha256": "e277526e2079c0e80e593fee327978915af8bd97d4ad7022d8d9ebd1eb34c602"
     },
     {
       "character": "a 17th-century marine spyglass on a",
@@ -104,12 +105,12 @@
       "instruction": "Remove the telescope with its tripod and the book on the shelf: show the wooden wall, the window, the bare shelf and the floor that were behind them."
     },
     {
-      "thing": "a thick old leather-bound log book lying closed flat on the shelf, wholly resting on it, its worn brown leather and brass corners",
+      "thing": "a big old leather-bound log book lying wide open on a slanted wooden book stand that rests on the shelf, the book filling most of the width of the picture: seen from straight in front, its two pages face the camera squarely, turned towards the room, away from the windows; cream paper filled with columns of faded brown handwriting, its worn brown leather covers spread on each side",
       "rect": [
-        126,
-        160,
-        90,
-        62
+        116,
+        136,
+        100,
+        86
       ]
     },
     {
@@ -120,6 +121,16 @@
         92,
         165
       ]
+    },
+    {
+      "mask": "layouts/cabin-chest-top.png",
+      "rect": [
+        20,
+        215,
+        220,
+        105
+      ],
+      "instruction": "Remove the book lying on the chest: show the chest's bare wooden lid with its iron bands, and the wall behind it."
     }
   ],
   "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
@@ -130,8 +141,8 @@
     "vae": "qwen_image_vae.safetensors",
     "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
   },
-  "workflow_sha256": "b3ecf44921f9a26d977bb648051e923dba948fa82044204b6a6ba7a40176afe4",
-  "comfyui": "0.42.0",
-  "generator": "4a5408d",
-  "date": "2026-10-27T11:59:24+00:00"
+  "workflow_sha256": "48b471782a1b3c43812e7d268f18b9fd71efbd4dc938a445b35bd6e0a8e86bef",
+  "comfyui": "0.43.0",
+  "generator": "a6361cd",
+  "date": "2026-10-30T11:11:09+00:00"
 }
