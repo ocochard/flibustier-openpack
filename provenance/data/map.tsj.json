@@ -1,6 +1,6 @@
 {
   "file": "data/map.tsj",
-  "generator": "6ea13af",
+  "generator": "02c6782",
   "module": "tools/opendata/tables/world_map.py",
   "date": "2026-10-30",
   "design": "Tiled tileset for the maps: frame 0 of art/map.png, for opening them in Tiled (the engine reads tiles/map)."

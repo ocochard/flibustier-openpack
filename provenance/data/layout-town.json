@@ -1,7 +1,7 @@
 {
   "id": "data/layout/town",
   "file": "data/layout-town.json",
-  "generator": "6ea13af",
+  "generator": "02c6782",
   "module": "tools/opendata/tables/layouts.py",
   "date": "2026-10-30",
   "design": "Measured on the open pack's art/town.png and its in-port sprite (art/town-sprites.png) scaled to 640x480: one rectangle per building, clear of the name plaque; leave town covers the road to the shore and the anchored ship."

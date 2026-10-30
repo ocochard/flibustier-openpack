@@ -1,6 +1,6 @@
 {
   "file": "art/battle-sections.ini",
-  "generator": "6ea13af",
+  "generator": "02c6782",
   "module": "tools/opendata/tables/tile_terrain.py",
   "date": "2026-10-30",
   "design": "Battle ground ([ground]), for the land battles (src/sim/land.c): - water: tiles at least half water. - cover: tiles with a building or a rock: at least 3% roof red (red over green and blue by 30) or 10% grey stone (channels within 20). - swamp: other land tiles with 2% to 50% water in pools that keep off the tile's edge (a marsh, not a coast). - clear: the rest, including the plain jungle that fills most land tiles: it is the sheet's base ground and reads the same on every tile, so it cannot mark cover in some places and not others. - Woods and marsh: the tiles that tools/artgen/assets.toml places the \"woods\" and \"marsh\" cut-outs on (tiles/battle, \"place\") are cover and swamp, whatever their colours say: the art was painted to show them. 155 water, 5 swamp, 31 cover, 65 clear."
