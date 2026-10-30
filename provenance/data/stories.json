@@ -1,7 +1,7 @@
 {
   "id": "data/stories",
   "file": "data/stories.json",
-  "generator": "a646de6",
+  "generator": "6ea13af",
   "module": "tools/opendata/tables/stories.py",
   "date": "2026-10-30",
   "design": "Each career story chains CSTR story pages the open pack wrote: an opening background, a middle page, a page leading into one sword fight that names the foe, and a closing page on how the ship was won; every page is shown until the player turns it, and the story ends on a turned page. Chains were picked so each reads in order (e.g. convict 21 -> transported 22 -> cane fields 14 -> raid 15 -> fight -> letter of marque 17). Nations keep a colour across eras: England the indentured, convicts and sea dogs; France emigrants, Huguenots, buccaneers; Holland merchants, the company and ship owners; Spain men of rank, coast guards, fortune seekers; eras add history where an entry fits (a failing colony in 1560 France, the company in 1620 Holland, the guarda costa in 1680 Spain). All 12 openings and all 7 fight lead-ins are used; no two careers of an era share a story. The Dutch 1560 career (an open home port, the towns' early stretch) is the ship owner shut out of the trade. The six famous expeditions show the command page (40) then the voyage out (3), no fight. No page used has a %s filler."

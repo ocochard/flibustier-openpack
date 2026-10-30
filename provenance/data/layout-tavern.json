@@ -1,7 +1,7 @@
 {
   "id": "data/layout/tavern",
   "file": "data/layout-tavern.json",
-  "generator": "a646de6",
+  "generator": "6ea13af",
   "module": "tools/opendata/tables/layouts.py",
   "date": "2026-10-30",
   "design": "Measured on the open pack's art/tavern.png and the people of art/tavern-sprites.png at the engine's drawing places, scaled to 640x480: one rectangle per person, the door, and the seamen's table as the fourth crew spot."

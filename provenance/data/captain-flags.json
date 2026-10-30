@@ -1,7 +1,7 @@
 {
   "id": "data/captain-flags",
   "file": "data/captain-flags.json",
-  "generator": "a646de6",
+  "generator": "6ea13af",
   "module": "tools/opendata/tables/captain_flags.py",
   "date": "2026-10-30",
   "design": "Designed from the open pack's 20 Jolly Roger pictures. Slots 0-4, the commonly met captains, use each picture exactly once over the four nations, so every common captain is told apart by his flag; look-alikes (the plain skulls 4/5/9, the skeletons 1/15/18, the hearts 16/17) sit in different nations. Rows lean to a style: Spain the red-and-gold and baroque designs, England the human figures, France the hat, bandana and cutlasses, Holland the three skulls, red skeleton and hearts. Slot 5 (rare) borrows a flag from another nation not resembling its own row; slots 6-7 (practically never met) repeat the row's first two."

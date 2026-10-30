@@ -1,7 +1,7 @@
 {
   "id": "data/era/1560",
   "file": "data/era-1560.json",
-  "generator": "a646de6",
+  "generator": "6ea13af",
   "module": "tools/opendata/tables/era.py",
   "date": "2026-10-30",
   "design": "Designed for the open pack, from history and sailing physics; nothing from the original game.  Speeds: a square-rig polar (best on the quarter, lying six points off the wind, taken aback head to wind) and a fore-and-aft one (best from the beam to a close reach, making some way into the wind by short tacks) blended per class by its rig and scaled by its best speed, from 7 for the sloops and pinnaces (8 for the Jamaica sloops from 1640) to 5 for the galleons, so the fastest class outsails the slowest by about half again off the wind and two to four times close-hauled; square rigs gain weatherliness by era (0.0 here).  Ships met: per region five archetypes from the least to the most dangerous, chosen for the era's history (Huguenot raids and Hawkins' voyages under an uneasy peace; Spain's monopoly strict); since most sails are met far from a town, where all twenty records are equally likely, the era's sea traffic is their census by flag (Spain, England, France, Holland, pirates: 10, 2, 3, 1, 4), one pirate per region; navies scaled x0.80, raiders' role +0, Spanish gold x1.00, goods x0.80; the treasure galleon's gold factor 70.  Enemy captain: strength = 2 x hull + guns + crew comparison + nerve 0; he boards when ahead with the stronger crew, lies broadside when ahead, runs when behind or holed.  Diplomacy range 110, Spanish shipwrights' tolerance 30 (loosening as Spain's monopoly weakens)."
