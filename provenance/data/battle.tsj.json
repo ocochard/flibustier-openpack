@@ -1,0 +1,7 @@
+{
+  "file": "data/battle.tsj",
+  "generator": "6a1633a",
+  "module": "tools/opendata/tables/battle_screens.py",
+  "date": "2026-10-30",
+  "design": "Tiled tileset for the battle screens: frame 0 of art/battle.png, for opening them in Tiled (the engine reads tiles/battle)."
+}

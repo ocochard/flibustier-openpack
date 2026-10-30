@@ -1,0 +1,14 @@
+{
+ "type": "tileset",
+ "version": "1.10",
+ "name": "map",
+ "tilewidth": 36,
+ "tileheight": 36,
+ "tilecount": 256,
+ "columns": 64,
+ "margin": 0,
+ "spacing": 0,
+ "image": "../art/map.png",
+ "imagewidth": 2304,
+ "imageheight": 1152
+}

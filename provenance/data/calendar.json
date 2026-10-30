@@ -1,0 +1,8 @@
+{
+  "id": "data/calendar",
+  "file": "data/calendar.json",
+  "generator": "6a1633a",
+  "module": "tools/opendata/tables/calendar.py",
+  "date": "2026-10-30",
+  "design": "Three of the original's days (192 ticks): at the top speed of 6 cells per 64 ticks, the open map's sea routes take 3.6 days (Port Royal-Tortuga) to 32 (Barbados-Veracruz), within the voyage targets of open-game-data.md but Tortuga-Curacao at 7.7 days."
+}

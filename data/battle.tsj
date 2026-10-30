@@ -1,0 +1,14 @@
+{
+ "type": "tileset",
+ "version": "1.10",
+ "name": "battle",
+ "tilewidth": 72,
+ "tileheight": 72,
+ "tilecount": 256,
+ "columns": 64,
+ "margin": 0,
+ "spacing": 0,
+ "image": "../art/battle.png",
+ "imagewidth": 4608,
+ "imageheight": 2304
+}
