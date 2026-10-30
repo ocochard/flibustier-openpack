@@ -52,7 +52,7 @@
   ],
   "denoise": 0.5,
   "blend": "provenance/fencers/he.blend",
-  "model_sha256": "01106eaf0c40178f01f00f008a35e4672ce62b4d29fb00d5a102de0cc95cde64",
+  "model_sha256": "fa546fdd609ccdf8dbda444bcbf75004c0d1bc8251fc6ff19db61dbaef157ebd",
   "frames": [
     2,
     2,
@@ -126,6 +126,6 @@
   "seed": 1661,
   "model": "fencers/fencer.py",
   "comfyui": "0.43.0",
-  "generator": "60e03ed",
-  "date": "2026-10-30T01:12:00+00:00"
+  "generator": "a6361cd",
+  "date": "2026-10-30T14:31:24+00:00"
 }

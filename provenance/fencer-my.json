@@ -40,7 +40,7 @@
   ],
   "denoise": 0.5,
   "blend": "provenance/fencers/my.blend",
-  "model_sha256": "01106eaf0c40178f01f00f008a35e4672ce62b4d29fb00d5a102de0cc95cde64",
+  "model_sha256": "fa546fdd609ccdf8dbda444bcbf75004c0d1bc8251fc6ff19db61dbaef157ebd",
   "frames": [
     2,
     2,
@@ -113,7 +113,7 @@
   "profile": "final",
   "seed": 1660,
   "model": "fencers/fencer.py",
-  "comfyui": "0.43.0",
-  "generator": "60e03ed",
-  "date": "2026-10-30T00:04:37+00:00"
+  "comfyui": "0.42.0",
+  "generator": "a6361cd",
+  "date": "2026-10-30T13:53:07+00:00"
 }
