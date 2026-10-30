@@ -29,8 +29,8 @@
     "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
     "vae": "qwen_image_vae.safetensors"
   },
-  "workflow_sha256": "1d87f3dee09f6b831e01b58152b4c6152900f4df513bbef41083576018d99936",
+  "workflow_sha256": "6adfd246b7d402a57378d38ff6fb75a9313d0458fc5e46b42726a7e9cce26a76",
   "comfyui": "0.42.0",
-  "generator": "7719778",
-  "date": "2026-10-30T01:04:06+00:00"
+  "generator": "5347424",
+  "date": "2026-10-30T07:13:34+00:00"
 }
