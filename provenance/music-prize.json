@@ -1,0 +1,10 @@
+{
+ "id": "music/prize",
+ "file": "music/prize.ogg",
+ "source": "whistled for the pack by Olivier Cochard-Labbé",
+ "licence": "CC0-1.0",
+ "original": "whistle.wav, 48 kHz 16-bit stereo (both channels alike), 6.29 s",
+ "edit": "one channel; 20 ms fade in, 350 ms fade out; loudness -18 LUFS",
+ "encoding": "ffmpeg libvorbis -q:a 6",
+ "date": "2026-10-31"
+}
