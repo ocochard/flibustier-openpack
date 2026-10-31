@@ -18,7 +18,8 @@
     },
     {
       "heading": "Musique refaite par",
-      "lines": ["Pieces of 8-bit"]
+      "lines": ["Pieces of 8-bit"],
+      "needs": "music/title-2"
     }
   ]
 }

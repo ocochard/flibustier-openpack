@@ -15,16 +15,24 @@ settle the compositions, the characters and the colour grade before the
 final full-quality renders. Some screens are still missing, and the
 game's small original sprites still draw over a few of these pictures.
 
-The licence of the art is **not decided yet**. Until a licence file is
-added, no rights are granted to reuse it outside of playing flibustier.
-The music is not covered by this pack's licence: it belongs to its
-author.
+## Licence
+
+The pack is dedicated to the public domain under **CC0 1.0** (`LICENSE`),
+except the remade music, which belongs to its author (see
+[Music](#music)), and the fonts, under the SIL Open Font License (see
+[Fonts](#fonts)).
 
 ## Using it
 
-The pack sits on top of the original data, which you still need: the
-engine shows these pictures and plays this music where the pack has
-them, and the original's everywhere else.
+The pack plays the whole game alone, with no original data:
+
+```sh
+flibustier --pack ~/flibustier-openpack
+```
+
+Given a player's own original data as well, the engine shows the pack's
+pictures and plays its music where the pack has them, and the
+original's everywhere else:
 
 ```sh
 flibustier --data ~/games/pirates_gold --pack ~/flibustier-openpack
