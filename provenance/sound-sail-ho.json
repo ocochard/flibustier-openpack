@@ -1,14 +1,9 @@
 {
  "id": "sound/sail-ho",
  "file": "sound/sail-ho.ogg",
- "model": "nari-labs/Dia2-2B",
- "text": "[S1] Sail ho!",
- "seed": 1,
- "cfg": 2.0,
- "temperature": 0.8,
- "voice": "ref/pirate.wav",
- "voice_source": "https://archive.org/download/treasureisland_librivox/treasure_island_01-02_stevenson_64kb.mp3 (0:40-0:50; LibriVox, public domain)",
- "length": 1.15,
- "tool": "tools/sfxgen/voicegen.py@d2abdf2",
- "date": "2026-10-30"
+ "source": "recorded by Olivier Cochard-Labbé",
+ "licence": "CC0-1.0",
+ "edit": "trimmed to 0.08-1.45 s; high-pass 140 Hz, -5 dB at 320 Hz, +3 dB at 3.2 kHz; gate to shorten the room's tail; 15 ms fade in, 250 ms fade out; loudness -17 LUFS (ffmpeg)",
+ "length": 1.37,
+ "date": "2026-10-31"
 }
