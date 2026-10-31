@@ -2,7 +2,8 @@
   "banks": {
     "ui/misc": "art/misc.sheet",
     "ui/miscf": "art/miscf.sheet",
-    "ui/miscg": "art/miscg.sheet"
+    "ui/miscg": "art/miscg.sheet",
+    "ui/miscs": "art/miscs.sheet"
   },
   "words": {
     "eng": {
@@ -22,6 +23,12 @@
       "paused": "Pause",
       "continue": "Klicken zum\nWeitermachen",
       "disembark": "An Land gehen?\n(J/N)"
+    },
+    "spa": {
+      "quit": "\u00bfSalir? (S/N)",
+      "paused": "En pausa",
+      "continue": "Pulsad para\nseguir",
+      "disembark": "\u00bfDesembarcar?\n(S/N)"
     }
   },
   "id": "ui/misc",

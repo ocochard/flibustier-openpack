@@ -1,0 +1,25 @@
+{
+  "blocks": [
+    {
+      "heading": "Gracias a los autores de",
+      "lines": ["Pirates! Gold", "MicroProse, 1993", "y a Sid Meier,", "creador de Pirates!"]
+    },
+    {
+      "heading": "Este nuevo motor y su arte",
+      "lines": ["Olivier Cochard-Labbé"]
+    },
+    {
+      "heading": "Con el apoyo de",
+      "lines": ["Anthropic,", "Claude for Open Source"]
+    },
+    {
+      "heading": "Imágenes hechas con",
+      "lines": ["las herramientas de", "los equipos ComfyUI", "y Blender"]
+    },
+    {
+      "heading": "Música rehecha por",
+      "lines": ["Pieces of 8-bit"],
+      "needs": "music/title-2"
+    }
+  ]
+}

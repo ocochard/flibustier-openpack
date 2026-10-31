@@ -127,13 +127,16 @@ and checked by SHA-256, and rewrites these files.
 
 ## Text
 
-`text/eng/`, `text/fre/` and `text/ger/` hold the game's English,
-French and German text, newly written for this pack in the language of
-about 1650: a chronicler for the story pages, and voices of their own
-for the governors and their daughters, the merchants, the barmaids, the
-sailors and the pirates. The French and German follow the English in
-content but are written in their own idiom, not translated word for
-word. `pack.d/text.ini` maps them.
+`text/eng/`, `text/fre/`, `text/ger/` and `text/spa/` hold the game's
+English, French, German and Spanish text, newly written for this pack in
+the language of about 1650: a chronicler for the story pages, and voices
+of their own for the governors and their daughters, the merchants, the
+barmaids, the sailors and the pirates. The French, German and Spanish
+follow the English in content but are written in their own idiom, not
+translated word for word; the Spanish is translated from this pack's own
+English and French. `pack.d/text.ini` maps them. Spanish is chosen with
+`--lang es` (or `spa`), or by a Spanish system language; its boards and
+plaques show in English.
 
 The text is two JSON files per language, given as `text/<lang>/cstr`
 and `text/<lang>/cstn` in the asset lists, in the format of "Open text"

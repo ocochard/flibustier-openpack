@@ -17,7 +17,13 @@
     "spr/takeds1f": "art/takeds1f.sheet",
     "spr/takedisg": "art/takedisg.sheet",
     "spr/takbrdg": "art/takbrdg.sheet",
-    "spr/takeds1g": "art/takeds1g.sheet"
+    "spr/takeds1g": "art/takeds1g.sheet",
+    "spr/buysells": "art/buysells.sheet",
+    "spr/buybrds": "art/buybrds.sheet",
+    "spr/buysll1s": "art/buysll1s.sheet",
+    "spr/takediss": "art/takediss.sheet",
+    "spr/takbrds": "art/takbrds.sheet",
+    "spr/takeds1s": "art/takeds1s.sheet"
   },
   "paint": {
     "wood": "Close-up photograph, straight on and flat, of a panel of dark polished mahogany, its fine grain running across, warm even light, filling the whole image, no seam, no edge.",
