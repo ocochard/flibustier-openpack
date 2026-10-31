@@ -52,7 +52,8 @@
   ],
   "denoise": 0.5,
   "blend": "provenance/fencers/he.blend",
-  "model_sha256": "fa546fdd609ccdf8dbda444bcbf75004c0d1bc8251fc6ff19db61dbaef157ebd",
+  "model_sha256": "35f84b1732ae1ef8b371109cb1e4d9e919fe1cb954868810d8102e365e27a1e7",
+  "poses": "fitted at render time to the frames traced from the player's own game data (fencers/trace.py)",
   "frames": [
     2,
     2,
@@ -121,11 +122,29 @@
       -4
     ]
   },
+  "fabrics": {
+    "boots": {
+      "prompt": "Macro photograph, straight down, of smooth polished leather laid\nperfectly flat, filling the whole image edge to edge: a fine natural\npebbled grain with a soft waxed sheen, a few tiny creases. Evenly lit\nfrom above, no stitching, no seams, uniform focus across the whole\nimage.",
+      "seed": 1660
+    },
+    "breeches": {
+      "prompt": "Macro photograph, straight down, of heavy plain wool broadcloth laid\nperfectly flat, filling the whole image edge to edge: a dense felted\nweave with a faint fuzz of fibres, matte. Evenly lit from above, no\nfolds, no creases, no seams, uniform focus across the whole image.",
+      "seed": 1661
+    },
+    "sash": {
+      "prompt": "Macro photograph, straight down, of plain silk satin cloth laid perfectly\nflat, filling the whole image edge to edge: a smooth glossy fine twill\nweave with a soft sheen. Evenly lit from above, no folds, no creases, no\nseams, uniform focus across the whole image.",
+      "seed": 1662
+    },
+    "shirt": {
+      "prompt": "Macro photograph, straight down, of plain undyed white linen cloth laid\nperfectly flat, filling the whole image edge to edge: a fine even plain\nweave of slightly irregular slubbed threads, soft and matte. Evenly lit\nfrom above, no folds, no creases, no seams, no shadows, uniform focus\nacross the whole image.",
+      "seed": 1663
+    }
+  },
   "id": "fencer/he",
   "profile": "final",
   "seed": 1661,
   "model": "fencers/fencer.py",
   "comfyui": "0.43.0",
-  "generator": "a6361cd",
-  "date": "2026-10-30T14:31:24+00:00"
+  "generator": "1e8dade",
+  "date": "2026-10-31T18:44:28+00:00"
 }
