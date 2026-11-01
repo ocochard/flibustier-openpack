@@ -1,0 +1,22 @@
+{
+  "on": "pic/town",
+  "on_sha256": "a5fdd3b3835170695dcb46e9a3bb81bb3499e81b041822baaa7d41958661169e",
+  "design_of": "pic/f-span",
+  "design": "Flat straight-on photograph of a whole rectangular flag of old, worn, hand-sewn linen, laid flat and filling the whole picture edge to edge, no pole, no background: the royal colours of Spain: quartered red and white, on the red quarters a golden castle with three towers, on the white quarters a crowned red lion standing, the colours slightly faded.",
+  "staff": [
+    528.9,
+    59
+  ],
+  "width": 21,
+  "foot": 124.9,
+  "wind": 0.35,
+  "flip": true,
+  "model": "flags/flag.py",
+  "id": "pic/town/spain",
+  "file": "art/town-spain.png",
+  "profile": "draft",
+  "seed": 1660,
+  "comfyui": "0.42.0",
+  "generator": "454892e",
+  "date": "2026-11-01T17:00:42+00:00"
+}

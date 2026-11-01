@@ -25,6 +25,7 @@
     "reference_sha256": "d1277af2e74e76a91397b217df35ea7d6c8c38dee1d998a83238fe50d90575b3"
   },
   "source": "layout from the game's spot rectangles",
+  "bevel": null,
   "cast": [
     {
       "character": "a gateway on the path, two",
@@ -71,6 +72,16 @@
         68,
         66
       ]
+    },
+    {
+      "mask": "layouts/town-flag.png",
+      "rect": [
+        470,
+        90,
+        70,
+        100
+      ],
+      "instruction": "Remove the flag and its pole completely: show the plastered wall, the tiled roof and the sky that were behind them."
     }
   ],
   "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
@@ -81,8 +92,8 @@
     "vae": "qwen_image_vae.safetensors",
     "lightning": "Qwen-Image-2512-Lightning-8steps-V1.0-bf16.safetensors"
   },
-  "workflow_sha256": "926d244a8f014b100830fc68cd917ed4e648bb114bbeceee8f721dd5717d6196",
+  "workflow_sha256": "6a7baa652f4ba3204109e5989a6fa626b6a462914b81418dd3da1fd1c51b242b",
   "comfyui": "0.42.0",
-  "generator": "d27f237",
-  "date": "2026-10-27T16:15:19+00:00"
+  "generator": "454892e",
+  "date": "2026-11-01T16:47:14+00:00"
 }
