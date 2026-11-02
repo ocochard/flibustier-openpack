@@ -21,6 +21,18 @@
       "65cfab4af7aa152d09396d0ae9ae80992fcd770a8571a14966b64b757c4fce7a"
     ]
   },
+  "marks": [
+    {
+      "mask": "layouts/sbat-speed-arrow-edge.png",
+      "colour": "#3A0E06",
+      "sha256": "647dc75f6446fd1bcffdefb7a8feeee83d549808a316f90a5f69b782c4805f1a"
+    },
+    {
+      "mask": "layouts/sbat-speed-arrow-fill.png",
+      "colour": "#B5301C",
+      "sha256": "39b5d89d8fba8d2a8dad51cabd505eb7c16b45e3604c2c02b628ab4551fb48ef"
+    }
+  ],
   "cast": null,
   "finish": null,
   "negative": "text, letters, words, watermark, signature, logo, frame, border, cartoon, illustration, painting, anime, 3d render, lowres, blurry, deformed",
@@ -29,8 +41,8 @@
     "clip": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
     "vae": "qwen_image_vae.safetensors"
   },
-  "workflow_sha256": "791897e1a2b35f99dad57999f55303451a6f9983095cb87043d365314b8ae69d",
+  "workflow_sha256": "8a64c081cdb5ae893e2f506b96f2e065e674d828fb66cb66c2906281f2712e9b",
   "comfyui": "0.42.0",
-  "generator": "4404113",
-  "date": "2026-10-30T00:34:17+00:00"
+  "generator": "1aaa116",
+  "date": "2026-11-02T11:23:31+00:00"
 }
